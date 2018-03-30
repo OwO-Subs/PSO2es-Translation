@@ -2,240 +2,240 @@
 	{
 		"assign": "1200",
 		"jp_text": "ワイヤードランス",
-		"tr_text": "Wired Lance",
+		"tr_text": "Wiwed Wance",
 		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を自在に操作し\n多様な距離での交戦を可能としている。",
-		"tr_explain": "Wired lances adopted by ARKS. The\nblades move freely, allowing the user\nto fight at a variety of distances."
+		"tr_explain": "Wiwed wances adopted by AWKS. The\nbwades muv fweewy, awwowing the usew\nto fight at a vawiety of distances."
 	},
 	{
 		"assign": "1201",
 		"jp_text": "アルバランス",
-		"tr_text": "Alva Lance",
+		"tr_text": "Awva Wance",
 		"jp_explain": "アークスで使用される改良型自在槍。\n刃の部分のみの出力効率化を行い\nコストの変動なく威力を増強させた。",
-		"tr_explain": "Improved wired lances used by ARKS.\nThe new efficient blades are more\npowerful for the same energy cost."
+		"tr_explain": "Impwuvd wiwed wances used by AWKS.\nThe nyew efficient bwades awe mowe\npowewfuw fow the same enyewgy cost."
 	},
 	{
 		"assign": "1202",
 		"jp_text": "ヴィタランス",
-		"tr_text": "Vita Lance",
+		"tr_text": "Vita Wance",
 		"jp_explain": "基礎モデルに改良を加えた自在槍。\nフォトン固着率の改良と性能向上を両立\n多くのアークスの要望に応えたモデル。",
-		"tr_explain": "Wired lances that further improve\nupon the base model. This model is\na response to high demand."
+		"tr_explain": "Wiwed wances that fuwthew impwuv\nyupon the base modew. This modew is\nya wesponse to high demand."
 	},
 	{
 		"assign": "1203",
 		"jp_text": "ワイヤードゲイン",
-		"tr_text": "Wired Gain",
+		"tr_text": "Wiwed Gain",
 		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃の操作性と\n攻撃力を向上させた中型モデル。",
-		"tr_explain": "Wired lances adopted by ARKS. A\nmid-size model that improves the\nblades' attack power and mobility."
+		"tr_explain": "Wiwed wances adopted by AWKS. A\nmid-size modew that impwuvs the\nbwades' attack powew and mobiwity."
 	},
 	{
 		"assign": "1204",
 		"jp_text": "アルバゲイン",
-		"tr_text": "Alva Gain",
+		"tr_text": "Awva Gain",
 		"jp_explain": "アークスで使用される改良型自在槍。\n刃の「返し」が大きくなったことで\nより大きなダメージを標的に与える。",
-		"tr_explain": "Improved wired lances used by ARKS.\nThe blades' enlarged barbs deal more\ndamage to targets."
+		"tr_explain": "Impwuvd wiwed wances used by AWKS.\nThe bwades' enwawged bawbs deaw mowe\ndamage to tawgets."
 	},
 	{
 		"assign": "1205",
 		"jp_text": "ヴィタゲイン",
 		"tr_text": "Vita Gain",
 		"jp_explain": "基礎モデルに改良を加えた自在槍。\n投げやすさにこだわりながら、さらなる\n大型化により攻撃力向上を実現した。",
-		"tr_explain": "Wired lances that further improve\nupon the base model. Enlarged for\npower, but just as easy to throw."
+		"tr_explain": "Wiwed wances that fuwthew impwuv\nyupon the base modew. Enwawged fow\npowew, but just as easy to thwow."
 	},
 	{
 		"assign": "1206",
 		"jp_text": "ワイヤードオーバー",
-		"tr_text": "Wired Over",
+		"tr_text": "Wiwed Ovew",
 		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を伸張し\n命中精度を向上させた中型モデル。",
-		"tr_explain": "Wired lances adopted by ARKS. A\nmid-size model that lengthens the\nblades for improved accuracy."
+		"tr_explain": "Wiwed wances adopted by AWKS. A\nmid-size modew that wengthens the\nbwades fow impwuvd accuwacy."
 	},
 	{
 		"assign": "1207",
 		"jp_text": "アルバオーバー",
-		"tr_text": "Alva Over",
+		"tr_text": "Awva Ovew",
 		"jp_explain": "アークスで使用される改良型自在槍。\n刃をさらに伸張し、槍としての\n攻撃性能を向上させたモデル。",
-		"tr_explain": "Improved wired lances used by ARKS.\nThe blades have been lengthened\nfurther, increasing attack power."
+		"tr_explain": "Impwuvd wiwed wances used by AWKS.\nThe bwades have been wengthenyed\nfuwthew, incweasing attack powew."
 	},
 	{
 		"assign": "1208",
 		"jp_text": "ヴィタオーバー",
-		"tr_text": "Vita Over",
+		"tr_text": "Vita Ovew",
 		"jp_explain": "基礎モデルに改良を加えた自在槍。\n刃を極限まで伸張し、標的を容易に\n深くとらえる操作性を実現した。",
-		"tr_explain": "Wired lances that further improve\nupon the base model. The blades have\nbeen extended to their absolute limit."
+		"tr_explain": "Wiwed wances that fuwthew impwuv\nyupon the base modew. The bwades have\nbeen extended to theiw absowute wimit."
 	},
 	{
 		"assign": "1209",
 		"jp_text": "ワイヤードトライ",
-		"tr_text": "Wired Tri",
+		"tr_text": "Wiwed Twi",
 		"jp_explain": "鋭角シルエットにこだわった自在槍。\n遠距離攻撃に適した抵抗の少ない形状で\n操作性の向上を目指した高級モデル。",
-		"tr_explain": "Wired lances shaped like sharp horns.\nA high-grade, aerodynamic model\nsuitable for long-range attacks."
+		"tr_explain": "Wiwed wances shaped wike shawp howns.\nA high-gwade, aewodynyamic modew\nsuitabwe fow wong-wange attacks."
 	},
 	{
 		"assign": "12010",
 		"jp_text": "アルバトライ",
-		"tr_text": "Alva Tri",
+		"tr_text": "Awva Twi",
 		"jp_explain": "高級モデル自在槍の改良型。\n抵抗の少ない形状そのままに大型化し\nさらなる攻撃力の向上を実現した。",
-		"tr_explain": "Improved high-grade wired lances.\nMade larger to improve attack\npower, but no less aerodynamic."
+		"tr_explain": "Impwuvd high-gwade wiwed wances.\nMade wawgew to impwuv attack\npowew, but nyo wess aewodynyamic."
 	},
 	{
 		"assign": "12011",
 		"jp_text": "ヴィタトライ",
-		"tr_text": "Vita Tri",
+		"tr_text": "Vita Twi",
 		"jp_explain": "高級モデル自在槍の超大型バージョン。\n全体的に性能も向上しているが\n量産が困難なレアモデル。",
-		"tr_explain": "Extra-large high-end wired lances.\nPerformance is improved, but this\nmodel is difficult to mass-produce."
+		"tr_explain": "Extwa-wawge high-end wiwed wances.\nPewfowmance is impwuvd, but this\nmodew is difficuwt to mass-pwoduce."
 	},
 	{
 		"assign": "12012",
 		"jp_text": "ワイヤードアーチ",
-		"tr_text": "Wired Arch",
+		"tr_text": "Wiwed Awch",
 		"jp_explain": "伸張性能を向上させた自在槍。\n独特のアーチ形状でなめらかな軌跡を\n描きながら標的を捉える。",
-		"tr_explain": "Wired lances with improved elasticity.\nThe unique shape traces curves\nthrough the air as they grab foes."
+		"tr_explain": "Wiwed wances with impwuvd ewasticity.\nThe unyique shape twaces cuwves\nthwough the aiw as they gwab foes."
 	},
 	{
 		"assign": "12013",
 		"jp_text": "アルバアーチ",
-		"tr_text": "Alva Arch",
+		"tr_text": "Awva Awch",
 		"jp_explain": "伸張性能を向上させた自在槍の改良型。\n先端部の突起が重心を安定させ\n基礎モデルより確実に標的を捉える。",
-		"tr_explain": "Improved high-elasticity wired lances.\nTheir pointed tips stabilize them,\nmaking grabbing foes more reliable."
+		"tr_explain": "Impwuvd high-ewasticity wiwed wances.\nTheiw pointed tips stabiwize them,\nmaking gwabbing foes mowe wewiabwe."
 	},
 	{
 		"assign": "12014",
 		"jp_text": "ヴィタアーチ",
-		"tr_text": "Vita Arch",
+		"tr_text": "Vita Awch",
 		"jp_explain": "アーチ形状の自在槍の大型モデル。\n弧に並べられた突起により、従来の\n安定した伸張性能を確保した。",
-		"tr_explain": "A large model of arch-shaped wired\nlances. The multiple protrusions along\nthe arch ensure extension stability."
+		"tr_explain": "A wawge modew of awch-shaped wiwed\nwances. The muwtipwe pwotwusions awong\nthe awch ensuwe extension stabiwity."
 	},
 	{
 		"assign": "12015",
 		"jp_text": "クシャネビュラ",
-		"tr_text": "Kuscha Nebula",
+		"tr_text": "Kuscha Nyebuwa",
 		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n既定のフォルムにとらわれない\n威力と効率重視の一つの答えである。",
-		"tr_explain": "Wired lances known for their double-\nforked blades. Unrestrained power\nwith a focus on efficiency."
+		"tr_explain": "Wiwed wances knyown fow theiw doubwe-\nfowked bwades. Unwestwainyed powew\nwith a focus on efficiency."
 	},
 	{
 		"assign": "12016",
 		"jp_text": "ディオクシャネビュラ",
-		"tr_text": "Dio Kuscha Nebula",
+		"tr_text": "Dio Kuscha Nyebuwa",
 		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n扱いやすさを度外視し、性能強化に\nすべてのリソースをつぎ込んだ改良品。",
-		"tr_explain": "Wired lances known for their double-\nforked blades. All resources have\nbeen put into improving performance."
+		"tr_explain": "Wiwed wances knyown fow theiw doubwe-\nfowked bwades. Aww wesouwces have\nbeen put into impwoving pewfowmance."
 	},
 	{
 		"assign": "12017",
 		"jp_text": "ラムダクシャネビュラ",
-		"tr_text": "Lambda Kuscha Nebula",
+		"tr_text": "Wambda Kuscha Nyebuwa",
 		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n全体の出力を調整し、誰でも扱えるよう\n安定性を高めた改良品。",
-		"tr_explain": "Wired lances known for their double-\nforked blades. Output and stability\nare adjusted for easier handling."
+		"tr_explain": "Wiwed wances knyown fow theiw doubwe-\nfowked bwades. Output and stabiwity\nyawe adjusted fow easiew handwing."
 	},
 	{
 		"assign": "12018",
 		"jp_text": "ラムダジャグリアス",
-		"tr_text": "Lambda Jagriath",
+		"tr_text": "Wambda Jagwiath",
 		"jp_explain": "大型自在槍の量産用試作品。\n従来品の課題だった扱いにくさを克服し\n投擲が容易になった。",
-		"tr_explain": "The mass production model of\noversized wired lances. They improve\non the previous models' handling,\nwhich makes them easier to launch."
+		"tr_explain": "The mass pwoduction modew of\nyuvwsized wiwed wances. They impwuv\nyon the pwevious modews' handwing,\nwhich makes them easiew to waunch."
 	},
 	{
 		"assign": "12019",
 		"jp_text": "ディオジャグリアス",
-		"tr_text": "Dio Jagriath",
+		"tr_text": "Dio Jagwiath",
 		"jp_explain": "大型自在槍の高機能バージョン。\n扱いやすさよりも破壊力を重視し\n攻撃性能の向上を追求した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12020",
 		"jp_text": "ジャグリアス",
-		"tr_text": "Jagriath",
+		"tr_text": "Jagwiath",
 		"jp_explain": "従来の概念を覆した大型の自在槍。\n近距離攻撃用に開発された装着武器を\n投擲武器として転用している。",
-		"tr_explain": "Wired lances that defy convention.\nOriginally designed as a close-range\nweapon, but is now thrown."
+		"tr_explain": "Wiwed wances that defy convention.\nOwiginyawwy designyed as a cwose-wange\nweapon, but is nyow thwown."
 	},
 	{
 		"assign": "12021",
 		"jp_text": "ハイペリオン",
-		"tr_text": "Hyperion",
+		"tr_text": "Hypewion",
 		"jp_explain": "装飾様式の洗練された美しい自在槍。\n振るうたびに、その華美な装飾が\n相手の目を惹きつける。",
-		"tr_explain": "Beautiful wired lances with polished,\nornamental designs. The magnificent\ndesigns draw opponents' eyes\nwith every swing."
+		"tr_explain": "Beautifuw wiwed wances with powished,\nyownyamentaw designs. The magnyificent\ndesigns dwaw opponyents' eyes\nwith evewy swing."
 	},
 	{
 		"assign": "12022",
 		"jp_text": "ディオハイペリオン",
-		"tr_text": "Dio Hyperion",
+		"tr_text": "Dio Hypewion",
 		"jp_explain": "装飾様式の洗練された美しい自在槍。\n美しさを損なうことなく、特化性能を\n伸ばした、改良作。",
-		"tr_explain": "Wired lances with a sophisticated and\nbeautiful design. This improved\nmodel's performance has been\nenhanced without losing its beauty."
+		"tr_explain": "Wiwed wances with a sophisticated and\nbeautifuw design. This impwuvd\nmodew's pewfowmance has been\nyenhanced without wosing its beauty."
 	},
 	{
 		"assign": "12023",
 		"jp_text": "ラムダハイペリオン",
-		"tr_text": "Lambda Hyperion",
+		"tr_text": "Wambda Hypewion",
 		"jp_explain": "装飾様式の洗練された美しい自在槍。\n万人が扱えるように改良されている。\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": "The ornamented and refined version\nof beautiful wired lances. Equippable\nby all classes. (PAs can only be used\nby specific classes)"
+		"tr_explain": "The ownyamented and wefinyed vewsion\nyof beautifuw wiwed wances. Equippabwe\nby aww cwasses. (PAs can onwy be used\nby specific cwasses)"
 	},
 	{
 		"assign": "12024",
 		"jp_text": "ベルカード",
-		"tr_text": "Belcard",
+		"tr_text": "Bewcawd",
 		"jp_explain": "巨大で強大な穂先がうりの自在槍。\n無骨な見た目からは想像できないほどの\n素早い伸縮を見せる名作。",
-		"tr_explain": "Wired lances with massive and\nmighty tips. These masterpieces are\ncapable of lashing out at\nunimaginable speeds."
+		"tr_explain": "Wiwed wances with massive and\nmighty tips. These mastewpieces awe\ncapabwe of washing out at\nyunyimaginyabwe speeds."
 	},
 	{
 		"assign": "12025",
 		"jp_text": "ラムダベルカード",
-		"tr_text": "Lambda Belcard",
+		"tr_text": "Wambda Bewcawd",
 		"jp_explain": "巨大で強大な穂先がうりの自在槍。\n特徴はそのままに、全体的なバランスを\n見直し、改良を加えた一品。",
-		"tr_explain": "Wired lances featuring massive and\nmighty tips. their balance has been\noverhauled, leading to an improved\nproduct overall."
+		"tr_explain": "Wiwed wances featuwing massive and\nmighty tips. theiw bawance has been\nyuvwhauwed, weading to an impwuvd\npwoduct uvwaww."
 	},
 	{
 		"assign": "12026",
 		"jp_text": "ディオベルカード",
-		"tr_text": "Dio Belcard",
+		"tr_text": "Dio Bewcawd",
 		"jp_explain": "巨大で強大な穂先がうりの自在槍。\n改良に改良を加え、最早別物と言える\n性能を誇る、ひとつの完成形。",
-		"tr_explain": "A pair of Wired Lances with a large\nand powerful spike. It boasts higher\nperformance than the previous\nmodel."
+		"tr_explain": "A paiw of Wiwed Wances with a wawge\nyand powewfuw spike. It boasts highew\npewfowmance than the pwevious\nmodew."
 	},
 	{
 		"assign": "12027",
 		"jp_text": "デイライトスカー",
-		"tr_text": "Daylight Scar",
+		"tr_text": "Daywight Scaw",
 		"jp_explain": "六爪の刃で全てを切り裂く自在槍。\n交差するフォトンの銀光こそ\n犠牲者が最後に見る光景となる。",
-		"tr_explain": "Wired lances that tear everything to\npieces with their six claws. Their light\nis the last thing their victims see."
+		"tr_explain": "Wiwed wances that teaw evewything to\npieces with theiw six cwaws. Theiw wight\nyis the wast thing theiw victims see."
 	},
 	{
 		"assign": "12028",
 		"jp_text": "ファルクロー",
-		"tr_text": "Falclaw",
+		"tr_text": "Fawcwaw",
 		"jp_explain": "伝説のニューマンが持っていた自在槍。\n本物かどうかは不明だが\n伝説を生むだけの性能を誇る。",
-		"tr_explain": "Wired Lances used by a Legendary\nNewman. Unclear if the real thing, it's\nperformance is legendary."
+		"tr_explain": "Wiwed Wances used by a Wegendawy\nNyewman. Uncweaw if the weaw thing, it's\npewfowmance is wegendawy."
 	},
 	{
 		"assign": "12029",
 		"jp_text": "ギガススピナー",
-		"tr_text": "Gigas Spinner",
+		"tr_text": "Gigas Spinnyew",
 		"jp_explain": "巨大な鉄球を先端に結びつけた自在槍。\n鋭いトゲとその重量にものを言わせた\n一撃は、どんな装甲をも破砕する。",
-		"tr_explain": "Gigantic iron ball wired lances with\npointed tips attached to them. It is\nsaid that with their sharp spikes and\nweight they can crush any armor."
+		"tr_explain": "Gigantic iwon baww wiwed wances with\npointed tips attached to them. It is\nsaid that with theiw shawp spikes and\nweight they can cwush any awmow."
 	},
 	{
 		"assign": "12030",
 		"jp_text": "ディアボリックガント",
-		"tr_text": "Diabolic Gauntlet",
+		"tr_text": "Diabowic Gauntwet",
 		"jp_explain": "地獄に住む悪魔の宿りし自在槍。\n切り裂かれた相手は、死の間際に\n快感すら覚えるという。",
-		"tr_explain": "Wired lances housing a demon from\nhell. It is said that its victims feel\nonly intense pleasure as they die."
+		"tr_explain": "Wiwed wances housing a demon fwom\nheww. It is said that its victims feew\nyonwy intense pweasuwe as they die."
 	},
 	{
 		"assign": "12031",
 		"jp_text": "アサシンクロー",
-		"tr_text": "Assassin Claw",
+		"tr_text": "Assassin Cwaw",
 		"jp_explain": "ある暗殺者が愛用していた自在槍。\n無拍子で繰り出される攻撃は\n瞬時に相手の命を絶つ。",
-		"tr_explain": "Wired lances favored by an assassin.\nTheir wild, offbeat strikes can cut\nshort an opponent's life in an instant."
+		"tr_explain": "Wiwed wances favowed by an assassin.\nTheiw wiwd, offbeat stwikes can cut\nshowt an opponyent's wife in an instant."
 	},
 	{
 		"assign": "12032",
 		"jp_text": "ネイクロー",
-		"tr_text": "Neiclaw",
+		"tr_text": "Nyeicwaw",
 		"jp_explain": "伝説のニューマンが愛用していたと\n言われている自在槍。\n強力な残留思念が残されている。",
-		"tr_explain": "A legendary Newman's favorite pair\nof Wired Lances. It's said that it\nharbors residual memories when held."
+		"tr_explain": "A wegendawy Nyewman's favowite paiw\nyof Wiwed Wances. It's said that it\nhawbows wesiduaw memowies when hewd."
 	},
 	{
 		"assign": "12033",
 		"jp_text": "ロケットパンチ",
-		"tr_text": "Rocket Punch",
+		"tr_text": "Wocket Punch",
 		"jp_explain": "全クラス装備可能な、特殊な自在槍。\n燃える血潮と使命を胸に、巨大な敵に\n立ち向かえ！",
-		"tr_explain": "Special wired lances that can be\nequipped by all classes. With boiling\nblood and a mission in your heart, rise\nup to confront your greatest foes!"
+		"tr_explain": "Speciaw wiwed wances that can be\nyequipped by aww cwasses. With boiwing\nbwood and a mission in youw heawt, wise\nyup to confwont youw gweatest foes owo "
 	},
 	{
 		"assign": "12034",
@@ -247,217 +247,217 @@
 	{
 		"assign": "12035",
 		"jp_text": "グッダスケラ",
-		"tr_text": "Gudda Skela",
+		"tr_text": "Gudda Skewa",
 		"jp_explain": "大型のリアクターを搭載した自在槍。\n採算度外視のカスタムモデルであり\n特徴的な軌跡を残す。",
-		"tr_explain": "A Wired Lance with a\nlarge-scale reactor. It leaves behind\na custom pattern on its victims."
+		"tr_explain": "A Wiwed Wance with a\nwawge-scawe weactow. It weaves behind\nya custom pattewn on its victims."
 	},
 	{
 		"assign": "12036",
 		"jp_text": "ベルクヴェルカー",
-		"tr_text": "Belk Welker",
+		"tr_text": "Bewk Wewkew",
 		"jp_explain": "地下坑道に存在していた機器の部品を\n用いて作られた自在槍。一つ一つの\nパーツの強度が高く、性能も相応。",
-		"tr_explain": "Wired lances made using machine\nparts from the Underground Mines.\nEvery single part is strong, and its\nperformance is also reasonable."
+		"tr_explain": "Wiwed wances made using machinye\npawts fwom the Undewgwound Minyes.\nEvewy singwe pawt is stwong, and its\npewfowmance is awso weasonyabwe."
 	},
 	{
 		"assign": "12037",
 		"jp_text": "ブルートギフト",
-		"tr_text": "Brute Gift",
+		"tr_text": "Bwute Gift",
 		"jp_explain": "禍々しいフォルムが特徴の自在槍。\n複雑な形をしたフォトンの刃は\n触れた者に無残な傷を残す。",
-		"tr_explain": "Distinctly sinister-looking wired\nlances. The intricate blades inflict\ngrave wounds on all who they touch."
+		"tr_explain": "Distinctwy sinyistew-wooking wiwed\nwances. The intwicate bwades infwict\ngwave wounds on aww who they touch."
 	},
 	{
 		"assign": "12039",
 		"jp_text": "カールドランサー",
-		"tr_text": "Curldranser",
+		"tr_text": "Cuwwdwansew",
 		"jp_explain": "キャタドランの強靱な鱗がそのまま\n刃として用いられた自在槍。\n非常に頑丈で、切れ味が落ちない。",
-		"tr_explain": "Wired lances that use strong\nCaterdra'n scales as blades. They\nare extremely sturdy and never lose\ntheir edge."
+		"tr_explain": "Wiwed wances that use stwong\nCatewdwa'n scawes as bwades. They\nyawe extwemewy stuwdy and nyevew wose\ntheiw edge."
 	},
 	{
 		"assign": "12040",
 		"jp_text": "カタドランサー",
-		"tr_text": "Catadranser",
+		"tr_text": "Catadwansew",
 		"jp_explain": "カタドラールの堅牢な鱗がそのまま\n刃に用いられた自在槍。\n切れずとも、打ち負けることはない。",
-		"tr_explain": "Wired lances using unrefined, tough\nscales of a Catadraal as blades. Even\nbroken or dulled, they remain\npowerful weapons."
+		"tr_explain": "Wiwed wances using unwefinyed, tough\nscawes of a Catadwaaw as bwades. Even\nbwoken ow duwwed, they wemain\npowewfuw weapons."
 	},
 	{
 		"assign": "12041",
 		"jp_text": "マルモスファング",
-		"tr_text": "Malmoth Fang",
+		"tr_text": "Mawmoth Fang",
 		"jp_explain": "ナベリウス原生種マルモスの牙を\n自在槍の穂先に転用した特異な武器。\nそれを振るう姿の迫力はすさまじい。",
-		"tr_explain": "These unique weapons make use of\nthe fangs of a Malmoth, a species\nnative to Naberius, as wired lances.\nThese fangs are fierce weapons."
+		"tr_explain": "These unyique weapons make use of\nthe fangs of a Mawmoth, a species\nnyative to Nyabewius, as wiwed wances.\nThese fangs awe fiewce weapons."
 	},
 	{
 		"assign": "12042",
 		"jp_text": "ダルマルファング",
-		"tr_text": "Dal Mal Fang",
+		"tr_text": "Daw Maw Fang",
 		"jp_explain": "ダル・マルリの牙を自在槍の穂先に\n転用した特異な武器。\n振るう姿は原生種を彷彿とさせる。",
-		"tr_explain": "This special weapon uses the tusks\nof a Dal Malri as wired lance blades.\nThey are reminiscent of primitive\nspecies, especially when swung."
+		"tr_explain": "This speciaw weapon uses the tusks\nyof a Daw Mawwi as wiwed wance bwades.\nThey awe weminyiscent of pwimitive\nspecies, especiawwy when swung."
 	},
 	{
 		"assign": "12043",
 		"jp_text": "ラズライル",
-		"tr_text": "Razrail",
+		"tr_text": "Wazwaiw",
 		"jp_explain": "クォーツ・ドラゴンの鋭角を利用して\n作られた巨大な自在槍。綺麗に輝く\nその刃は触れたものを容易に斬り刻む。",
-		"tr_explain": "Gigantic wired lances made from a\nQuartz Dragon's horns. The glittering\nblades mangle foes with just a touch."
+		"tr_explain": "Gigantic wiwed wances made fwom a\nQuawtz Dwagon's howns. The gwittewing\nbwades mangwe foes with just a touch."
 	},
 	{
 		"assign": "12044",
 		"jp_text": "クリスライル",
-		"tr_text": "Crysrail",
+		"tr_text": "Cwyswaiw",
 		"jp_explain": "クリス・ドラールの鋭衝角を利用して\n作られた巨大な自在槍。壮麗に輝く\nその刃は触れた者を微塵に斬り刻む。",
-		"tr_explain": "Giant wired lances made from Crys\nDraal's sharp frontal horn. Their\nglittering blades shred everything\nthey touch to pieces."
+		"tr_explain": "Giant wiwed wances made fwom Cwys\nDwaaw's shawp fwontaw hown. Theiw\ngwittewing bwades shwed evewything\nthey touch to pieces."
 	},
 	{
 		"assign": "12045",
 		"jp_text": "ブレイド・ボール",
-		"tr_text": "Blade Ball",
+		"tr_text": "Bwade Baww",
 		"jp_explain": "遊戯具を改造してしまった自在槍。\n遊びのように振るうと大怪我必至。\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": "A toy remodeled into a weapon.\nEquippable by all classes.\n(PAs can only be used by specific\nclasses)"
+		"tr_explain": "A toy wemodewed into a weapon.\nEquippabwe by aww cwasses.\n(PAs can onwy be used by specific\ncwasses)"
 	},
 	{
 		"assign": "12048",
 		"jp_text": "ロケットパンチ／ナハト",
-		"tr_text": "Rocket Punch / Nacht",
+		"tr_text": "Wocket Punch / Nyacht",
 		"jp_explain": "闇夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "Wired lances painted black as night.\nTheir origins are unknown, but they\ninspire greatness in their owner."
+		"tr_explain": "Wiwed wances painted bwack as nyight.\nTheiw owigins awe unknyown, but they\nyinspiwe gweatnyess in theiw ownyew."
 	},
 	{
 		"assign": "12049",
 		"jp_text": "ネイクロー／ナハト",
-		"tr_text": "Neiclaw / Nacht",
+		"tr_text": "Nyeicwaw / Nyacht",
 		"jp_explain": "闇夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "Wired lances painted black as night.\nTheir origins are unknown, but they\ninspire greatness in their owner."
+		"tr_explain": "Wiwed wances painted bwack as nyight.\nTheiw owigins awe unknyown, but they\nyinspiwe gweatnyess in theiw ownyew."
 	},
 	{
 		"assign": "12050",
 		"jp_text": "タイドヴァルガー",
-		"tr_text": "Tide Valger",
+		"tr_text": "Tide Vawgew",
 		"jp_explain": "地下坑道に点在していた機械部品を\n用いて作られた自在槍。劣化しにくく\n安定した性能を常時発揮する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12051",
 		"jp_text": "ロッソヴァルガー",
-		"tr_text": "Rosso Welker",
+		"tr_text": "Wosso Wewkew",
 		"jp_explain": "地下坑道の機械部品を選別加工して\n作られた自在槍。フォトンの伝導率も\n飛躍的に上昇しており、高性能。",
-		"tr_explain": "Wired lances made from processed\nparts gathered from the underground\ntunnels. These weapons have had\ntheir photon conductivity increased."
+		"tr_explain": "Wiwed wances made fwom pwocessed\npawts gathewed fwom the undewgwound\ntunnyews. These weapons have had\ntheiw photon conductivity incweased."
 	},
 	{
 		"assign": "12052",
 		"jp_text": "ブルートカース",
-		"tr_text": "Brute Curse",
+		"tr_text": "Bwute Cuwse",
 		"jp_explain": "おぞましいフォルムが特徴の自在槍。\n網目に組まれたフォトンの刃は\nそれぞれが鋭く研ぎ済まされている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12053",
 		"jp_text": "ブルートネグロ",
-		"tr_text": "Brute Negro",
+		"tr_text": "Bwute Nyegwo",
 		"jp_explain": "忌まわしいフォルムが特徴の自在槍。\n漆黒を帯びた刀身とフォトンの刃は\n振るうたびに呪詛を振りまくという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12054",
 		"jp_text": "刃鞭パラティーゼル",
-		"tr_text": "Whipblade Paratizel",
+		"tr_text": "Whipbwade Pawatizew",
 		"jp_explain": "心から正しいと思った行動を取った時に\n真の力を発揮するという紅い自在槍。\n希望はすぐそばにあると教えてくれる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12057",
 		"jp_text": "アーレスランス",
-		"tr_text": "Ares Lance",
+		"tr_text": "Awes Wance",
 		"jp_explain": "一角獣の幻獣の力を宿した自在槍。\n装者にフォトンブラストの効果で\n貫く力を与え、敵を瞬時に切り刻む。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12058",
 		"jp_text": "嵐魔",
-		"tr_text": "Ranma",
+		"tr_text": "Wanma",
 		"jp_explain": "舞い散る枯葉の如く、音もなく\nその刃を敵へと到達させる自在槍。\n触れる者を嵐のように斬り刻む。",
-		"tr_explain": "Like dead leaves falling from trees,\nits blades silently reach the enemy.\nTheir blades shreds its victims."
+		"tr_explain": "Wike dead weaves fawwing fwom twees,\nyits bwades siwentwy weach the enyemy.\nTheiw bwades shweds its victims."
 	},
 	{
 		"assign": "12059",
 		"jp_text": "ヘレティックエンド",
-		"tr_text": "Heretic End",
+		"tr_text": "Hewetic End",
 		"jp_explain": "悪魔のかぎ爪のようなおぞましい\nフォルムを持つ自在槍。これにより\nついた傷は生涯治らないとされる。",
-		"tr_explain": "Terrifying wired lances that look like\na demon's claws. The wounds these\nweapons inflict can never heal."
+		"tr_explain": "Tewwifying wiwed wances that wook wike\nya demon's cwaws. The wounds these\nweapons infwict can nyevew heaw."
 	},
 	{
 		"assign": "12060",
 		"jp_text": "ヴァイスビュート",
 		"tr_text": "Weisse Butte",
 		"jp_explain": "伸縮自在の金属で作られた自在槍。\n飾り付けられたような外装からは\n想像し得ないほどの攻撃力を持つ。",
-		"tr_explain": "Wired lances made with a flexible\nmetal. Beneath their stylish design,\nthey hold unimaginable destructive\npower."
+		"tr_explain": "Wiwed wances made with a fwexibwe\nmetaw. Benyeath theiw stywish design,\nthey howd unyimaginyabwe destwuctive\npowew."
 	},
 	{
 		"assign": "12061",
 		"jp_text": "エナジーヒューザー",
-		"tr_text": "Energy Huezer",
+		"tr_text": "Enyewgy Huezew",
 		"jp_explain": "六芒均衡ヒューイが企画し、開発した\n燃え盛る自在槍。破拳ワルフラーンを\n参考にデザインされたはずだった。",
-		"tr_explain": "Wired Lances based off\nof the Council of Six\nHuey's Genesis Weapon Wolfram."
+		"tr_explain": "Wiwed Wances based off\nyof the Counciw of Six\nHuey's Genyesis Weapon Wowfwam."
 	},
 	{
 		"assign": "12062",
 		"jp_text": "グワナーダランス",
-		"tr_text": "Gwanahda Lance",
+		"tr_text": "Gwanyahda Wance",
 		"jp_explain": "グワナーダの触手で作られた自在槍。\n柔軟性と強度に優れ、外見以上の\n性能を発揮する。",
-		"tr_explain": "Wired lances made from Gwanahda\ntentacles. With excellent flexibility\nand strength, they demonstrate\nperformance that belies their looks."
+		"tr_explain": "Wiwed wances made fwom Gwanyahda\ntentacwes. With excewwent fwexibiwity\nyand stwength, they demonstwate\npewfowmance that bewies theiw wooks."
 	},
 	{
 		"assign": "12063",
 		"jp_text": "Ｇネロランス",
-		"tr_text": "G Nero Lance",
+		"tr_text": "G Nyewo Wance",
 		"jp_explain": "グワナーダ・ネロの触手が用いられた\n自在槍。安定度が高く、製作者の\n想像を超えた性能を発揮している。",
-		"tr_explain": "Wired lances made from Gwanahda\nNero tentacles. With high stability, its\nperformance has surpassed all\nexpectations."
+		"tr_explain": "Wiwed wances made fwom Gwanyahda\nNyewo tentacwes. With high stabiwity, its\npewfowmance has suwpassed aww\nyexpectations."
 	},
 	{
 		"assign": "12065",
 		"jp_text": "イミディエイトフェザー",
-		"tr_text": "Immediate Feather",
+		"tr_text": "Immediate Feathew",
 		"jp_explain": "高価な軽量金属羽を贅沢にあしらった\n限定品の自在槍。翼を広げて飛ぶように\n美しい攻撃をくり出す。",
-		"tr_explain": "Luxurious, wired lances adorned\nwith lightweight metal feathers. The\nbeautiful attacks seem like they are\nspreading their wings and flying."
+		"tr_explain": "Wuxuwious, wiwed wances adownyed\nwith wightweight metaw feathews. The\nbeautifuw attacks seem wike they awe\nspweading theiw wings and fwying."
 	},
 	{
 		"assign": "12067",
 		"jp_text": "フルキュリオ",
-		"tr_text": "Full Curio",
+		"tr_text": "Fuww Cuwio",
 		"jp_explain": "新発想で左右に大きく広がる変形機構を\n採用した自在槍。標的への命中精度と\n破壊力が従来品より飛躍的に向上した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12069",
 		"jp_text": "グロリアスウィング",
-		"tr_text": "Glorious Wing",
+		"tr_text": "Gwowious Wing",
 		"jp_explain": "圧倒的な破壊力を持つ流麗なデザインの\n自在槍。敵を討つ際に放たれるサクラの\n花弁に似た煌きは息を呑むほどに美しい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12073",
 		"jp_text": "ステルスウェポン：ＷＬ",
-		"tr_text": "Stealth Weapon: WL",
+		"tr_text": "Steawth Weapon: WW",
 		"jp_explain": "認識不能な武器。\n形状はワイヤードランス型。",
-		"tr_explain": "Unknown Weapon.\nSeems to be of a Wired Lance-type."
+		"tr_explain": "Unknyown Weapon.\nSeems to be of a Wiwed Wance-type."
 	},
 	{
 		"assign": "12074",
 		"jp_text": "赤のワイヤードランス",
-		"tr_text": "Red Wired Lance",
+		"tr_text": "Wed Wiwed Wance",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした自在槍。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": "Wired lances whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
+		"tr_explain": "Wiwed wances whose expewimentaw\ncowowing has become iconyic. The\ndazzwing wed catches the eye."
 	},
 	{
 		"assign": "12075",
 		"jp_text": "青のワイヤードランス",
-		"tr_text": "Blue Wired Lance",
+		"tr_text": "Bwue Wiwed Wance",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした自在槍。\n目映い青色は必然的に目を引く。",
-		"tr_explain": "Wired lances whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
+		"tr_explain": "Wiwed wances whose expewimentaw\ncowowing has become iconyic. The\ndazzwing bwue catches the eye."
 	},
 	{
 		"assign": "12078",
 		"jp_text": "バードケージ",
-		"tr_text": "Bird Cage",
+		"tr_text": "Biwd Cage",
 		"jp_explain": "愛鳥家が愛用する自在槍。飼っている\n鳥を連れ歩きながら戦闘参加できる\n利便性が受けて、ブームになっている。",
 		"tr_explain": ""
 	},
@@ -466,40 +466,40 @@
 		"jp_text": "ゴーストハット",
 		"tr_text": "Ghost Hat",
 		"jp_explain": "有名な霊媒師が秘蔵する古美術の\n自在槍。見る者を恐怖させる\nちょっと乱暴なゴーストが飛び出す。",
-		"tr_explain": "Antique wired lances once treasured\nby a famous spiritualist. Ghosts pop\nout, startling onlookers."
+		"tr_explain": "Antique wiwed wances once tweasuwed\nby a famous spiwituawist. Ghosts pop\nyout, stawtwing onwookews."
 	},
 	{
 		"assign": "12085",
 		"jp_text": "ファントムハット",
 		"tr_text": "Phantom Hat",
 		"jp_explain": "伝説の魔術師が封印していた、世にも\n怖ろしい自在槍。邪悪なファントムが\n執拗に攻めてきて相手を逃さない。",
-		"tr_explain": "Terrifying wired lances sealed away\nby a sorcerer. They summon wicked\nphantoms who attack relentlessly."
+		"tr_explain": "Tewwifying wiwed wances seawed away\nby a sowcewew. They summon wicked\nphantoms who attack wewentwesswy."
 	},
 	{
 		"assign": "12093",
 		"jp_text": "ヤサカニノマガタマ",
-		"tr_text": "Yasakani no Magatama",
+		"tr_text": "Yasakanyi nyo Magatama",
 		"jp_explain": "いにしえより伝わる由緒正しき至宝を\n模して作られた自在槍。その名に恥じぬ\n圧倒的な性能を誇る。",
-		"tr_explain": "Wired lances designed as replicas of\na venerable treasure handed down\nthroughout the ages. They boast\noverwhelming power."
+		"tr_explain": "Wiwed wances designyed as wepwicas of\nya venyewabwe tweasuwe handed down\nthwoughout the ages. They boast\nyuvwwhewming powew."
 	},
 	{
 		"assign": "12094",
 		"jp_text": "ククノチノマガタマ",
-		"tr_text": "Kukunochi no Magatama",
+		"tr_text": "Kukunyochi nyo Magatama",
 		"jp_explain": "いにしえより伝わる至宝を模倣した\n自在槍にさらなる改良を加えたもの。\n透き通るような色合いが特徴的。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "12096",
 		"jp_text": "セイントラスター",
-		"tr_text": "Saint Luster",
+		"tr_text": "Saint Wustew",
 		"jp_explain": "かつて聖職者が使用したという自在槍。\n重量感ある安定した槍先を制御するには\n熟練を要するが、攻撃に優れている。",
-		"tr_explain": "Cannons said to have once been\nused by clerics. It takes skill to\ncontrol these weighty spearheads,\nbut their power is incredible."
+		"tr_explain": "Cannyons said to have once been\nyused by cwewics. It takes skiww to\ncontwow these weighty speawheads,\nbut theiw powew is incwedibwe."
 	},
 	{
 		"assign": "12097",
 		"jp_text": "セイントグロス",
-		"tr_text": "Saint Gloss",
+		"tr_text": "Saint Gwoss",
 		"jp_explain": "聖職者が使用した自在槍の軽量モデル。\n広く一般向けの使用を想定した改良が\n施されたが、攻撃性能は高い。",
 		"tr_explain": ""
 	},
@@ -513,168 +513,168 @@
 	{
 		"assign": "120102",
 		"jp_text": "ファティウーマ／リヒト",
-		"tr_text": "Phyteuma / Licht",
+		"tr_text": "Phyteuma / Wicht",
 		"jp_explain": "白夜の色を抱く自在槍。\n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
-		"tr_explain": "Wired lances bearing the color of the\nwhite night. Their origin is unknown,\nbut this special, high performance\nweapon can be used by all classes."
+		"tr_explain": "Wiwed wances beawing the cowow of the\nwhite nyight. Theiw owigin is unknyown,\nbut this speciaw, high pewfowmance\nweapon can be used by aww cwasses."
 	},
 	{
 		"assign": "120103",
 		"jp_text": "シェルオプス",
-		"tr_text": "Shell Opus",
+		"tr_text": "Sheww Opus",
 		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。天然の硬質素材の\n特性と優位性を最大限に引き出した。",
-		"tr_explain": "Wired lances manufactured using\nonly materials procured from planet\nWopal. They take full advantage of\nthe material's toughness and quality."
+		"tr_explain": "Wiwed wances manyufactuwed using\nyonwy matewiaws pwocuwed fwom pwanyet\nWopaw. They take fuww advantage of\nthe matewiaw's toughnyess and quawity."
 	},
 	{
 		"assign": "120104",
 		"jp_text": "シェルガイア",
-		"tr_text": "Shell Gaia",
+		"tr_text": "Sheww Gaia",
 		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。フォトンに反応する\n発光物質を配合し独特な色合いを再現。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120105",
 		"jp_text": "シェルクロノス",
-		"tr_text": "Shell Chronos",
+		"tr_text": "Sheww Chwonyos",
 		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された自在槍。硬度の高い赤色種を\n採用し、全体の強度を増した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120106",
 		"jp_text": "マークキュリオ",
-		"tr_text": "Mark Curio",
+		"tr_text": "Mawk Cuwio",
 		"jp_explain": "変形機構を調整した自在槍。初心者に\nありがちなタイミングのズレを自動的に\n調整し、効果的な攻撃をアシストする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120108",
 		"jp_text": "ウィールローレン",
-		"tr_text": "Wheel Rolen",
+		"tr_text": "Wheew Wowen",
 		"jp_explain": "蒸気エネルギーで効能増幅した自在槍。\n使用者の負担を軽減しつつ攻撃力を増強\nさせる機能的な強化機構を持つ。",
-		"tr_explain": "Wired lances that use steam power\nto amplify their potency. They use a\nstrengthening mechanism that eases\nstrain on the user."
+		"tr_explain": "Wiwed wances that use steam powew\nto ampwify theiw potency. They use a\nstwengthenying mechanyism that eases\nstwain on the usew."
 	},
 	{
 		"assign": "120110",
 		"jp_text": "バイオレードル",
-		"tr_text": "Bio Radle",
+		"tr_text": "Bio Wadwe",
 		"jp_explain": "最先端の生体工学を応用し開発された\n自在槍。膨張フォトンの反収縮作用で\n高速伸縮し、高い攻撃効率を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120111",
 		"jp_text": "ライブレードル",
-		"tr_text": "Live Radle",
+		"tr_text": "Wive Wadwe",
 		"jp_explain": "最先端の生体工学を応用し開発された\n自在槍。高純度培養液が固形化と液化を\n瞬時にくり返し高速攻撃を可能にする。",
-		"tr_explain": "Wired lances made with state-of-the-\nart bioengineering. Enhanced with a\nhigh-purity culture solution."
+		"tr_explain": "Wiwed wances made with state-of-the-\nyawt bioenginyeewing. Enhanced with a\nhigh-puwity cuwtuwe sowution."
 	},
 	{
 		"assign": "120115",
 		"jp_text": "ダールワイグル",
-		"tr_text": "Darl Weigle",
+		"tr_text": "Daww Weigwe",
 		"jp_explain": "ダーカーが使用する装備を解析し\nアークス仕様に再設計された自在槍。\n抜群の張力で標的を翻弄する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120116",
 		"jp_text": "クラテルネイルス",
-		"tr_text": "Crater Nails",
+		"tr_text": "Cwatew Nyaiws",
 		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい自在槍。鋭利な３本の鈎爪が\nくり出す攻撃で足元の不利を補う。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120117",
 		"jp_text": "ラミアスロイアー",
-		"tr_text": "Lamia Slawyer",
+		"tr_text": "Wamia Swawyew",
 		"jp_explain": "鋭角的な装飾が特徴の自在槍。\nブレードを重ね、鋭利なシルエットで\n周囲を威圧する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120118",
 		"jp_text": "ヒュリオランサー",
-		"tr_text": "Hurio Lancer",
+		"tr_text": "Huwio Wancew",
 		"jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の自在槍。冷たく荘厳な\n色合いがクールな戦闘シーンを演出。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120122",
 		"jp_text": "クラテルブロウス",
-		"tr_text": "Crater Blows",
+		"tr_text": "Cwatew Bwows",
 		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい自在槍。自然背景に溶け込む\n鮮やかな色合いで敵の目を撹乱する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120124",
 		"jp_text": "ラミアスラウナー",
-		"tr_text": "Lamia Slauner",
+		"tr_text": "Wamia Swaunyew",
 		"jp_explain": "鋭角的な装飾が特徴の自在槍。\n柔軟なテールワイヤーを採用し\n多彩な攻撃が可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120127",
 		"jp_text": "ヒュリオランシヴ",
-		"tr_text": "Hurio Lanshiv",
+		"tr_text": "Huwio Wanshiv",
 		"jp_explain": "鋭く研ぎ澄まされたフォルムを追求する\nキャストに人気の自在槍。強化された\n爪を安定性の高い主翼が確実に支える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120128",
 		"jp_text": "グラスクライン",
-		"tr_text": "Glass Klein",
+		"tr_text": "Gwass Kwein",
 		"jp_explain": "シンプルな装飾の六枚刃を持つ自在槍。\nフォトンを伝導する鉱物を装飾に使用し\nデザイン性と実用性を両立させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120131",
 		"jp_text": "ファーレントリッガー",
-		"tr_text": "Fahrentrigger",
+		"tr_text": "Fahwentwiggew",
 		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた自在槍。\nそれは、彼の情熱の結晶。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120134",
 		"jp_text": "ビブラスランス",
-		"tr_text": "Vibrace Lance",
+		"tr_text": "Vibwace Wance",
 		"jp_explain": "ダーク・ビブラスの爪を加工して\n作られた自在槍。鋭利な爪は\n頑丈な外骨格と同様の強度を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120137",
 		"jp_text": "リムリーゼ",
-		"tr_text": "Rimliese",
+		"tr_text": "Wimwiese",
 		"jp_explain": "媚びない美しさが魅力的な自在槍。\nバラを模して造られたデザインは、\n華麗で美しい。ある意味、両手に花。",
-		"tr_explain": "A Wired Lance bearing dominating \nbeauty. The Rose motif makes the \ndesign bloom. In a sense, it's flowers \nin both hands."
+		"tr_explain": "A Wiwed Wance beawing dominyating \nbeauty. The Wose motif makes the \ndesign bwoom. In a sense, it's fwowews \nyin both hands."
 	},
 	{
 		"assign": "120139",
 		"jp_text": "グルーアリーゼ",
-		"tr_text": "Glualiese",
+		"tr_text": "Gwuawiese",
 		"jp_explain": "媚びない美しさが魅力的な自在槍。\n可憐さが増したが、鋭利さも増した。\n圧倒的な性能の前に、死角はない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120141",
 		"jp_text": "アンジャクゥーリ",
-		"tr_text": "Anjakuhri",
+		"tr_text": "Anjakuhwi",
 		"jp_explain": "黒の民アンジャドゥリリの輪を加工した\n自在槍。巨大な輪は鬼火を灯しながら\n回転し、対象を追跡する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120143",
 		"jp_text": "ネメシスチェイン",
-		"tr_text": "Nemesis Chain",
+		"tr_text": "Nyemesis Chain",
 		"jp_explain": "古の時代に封印された聖なる自在槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "120144",
 		"jp_text": "スレイヴチェイン",
-		"tr_text": "Slave Chain",
+		"tr_text": "Swave Chain",
 		"jp_explain": "古の時代に封印された邪なる自在槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "120145",
 		"jp_text": "ネプトアンカー",
-		"tr_text": "Nepto Anchor",
+		"tr_text": "Nyepto Anchow",
 		"jp_explain": "惑星ウォパルの海王種が持っていた錨を\n加工し作りなおした自在槍。非常に\n頑強であり、優れた切れ味を持つ。",
 		"tr_explain": ""
 	},
@@ -688,84 +688,84 @@
 	{
 		"assign": "120148",
 		"jp_text": "イデアルシザーズ",
-		"tr_text": "Ideal Scissors",
+		"tr_text": "Ideaw Scissows",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した自在槍。発せられる\nフォトンの輝きは次代の証とされる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120152",
 		"jp_text": "蛇腹グリゴロス",
-		"tr_text": "Serpent Grigoros",
+		"tr_text": "Sewpent Gwigowos",
 		"jp_explain": "身を伸ばし、素早く敵の急所に致命傷を\n与える特殊な自在槍。高い伸縮性能を\n誇り、瞬時にその刃を敵へ到達させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120153",
 		"jp_text": "レザルコレト",
-		"tr_text": "Rezar Colette",
+		"tr_text": "Wezaw Cowette",
 		"jp_explain": "凶暴な幻獣を連想させる自在槍。\nブレードの返しの部分が\n対象により大きなダメージを与える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120156",
 		"jp_text": "禍矛ユクカ",
-		"tr_text": "Evil Yukuka",
+		"tr_text": "Eviw Yukuka",
 		"jp_explain": "惑星ハルコタンで発掘された自在槍。\n勇ましい角を模した頑強な刃は\n『禍津』の影響を受けてしまっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120161",
 		"jp_text": "サギタレオーネ",
-		"tr_text": "Sagita Leone",
+		"tr_text": "Sagita Weonye",
 		"jp_explain": "ファルケ・レオーネの残骸を加工し\n作られた自在槍。射出時はプラズマを\nまとったレーザーブレードを形成する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120163",
 		"jp_text": "エルデトロス",
-		"tr_text": "Eldetross",
+		"tr_text": "Ewdetwoss",
 		"jp_explain": "大気の力を宿すといわれる自在槍。\n刃の中心にあるクリスタルが力を司り\n風雷をまとわせ、敵を両断するという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120164",
 		"jp_text": "ケイモストロス",
-		"tr_text": "Keimostross",
+		"tr_text": "Keimostwoss",
 		"jp_explain": "大気の力を宿すといわれる自在槍。\n薙ぎ切ることに適した刃に\n調整されており、重い一撃を放てる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120174",
 		"jp_text": "ノクスジラーク",
-		"tr_text": "Nox Jirak",
+		"tr_text": "Nyox Jiwak",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き自在槍。装者も恐怖を\n抱くほどの強大な力で敵を斬り伏せる。",
-		"tr_explain": "Black wired lances produced in an\nillicit ritual. Their foe-felling force\nterrifies even their wielder."
+		"tr_explain": "Bwack wiwed wances pwoduced in an\nyiwwicit wituaw. Theiw foe-fewwing fowce\ntewwifies even theiw wiewdew."
 	},
 	{
 		"assign": "120176",
 		"jp_text": "ジラークアリオン",
-		"tr_text": "Jirak Arion",
+		"tr_text": "Jiwak Awion",
 		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の自在槍。\n装者の感情を力にし、敵を薙ぎ払う。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120179",
 		"jp_text": "ギクスギルミナド",
-		"tr_text": "Gix Gilminadu",
+		"tr_text": "Gix Giwminyadu",
 		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した自在槍。装者の精神とリンクし\n冷静であるほど、刃は切れ味を増す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120182",
 		"jp_text": "ラッピーフウセン",
-		"tr_text": "Rappy Balloons",
+		"tr_text": "Wappy Bawwoons",
 		"jp_explain": "ラッピー好きのアークスにより作られた\n自在槍。ラッピーへの並々ならぬ愛情が\n伝わってくる力作。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120184",
 		"jp_text": "バジリスリディスト",
-		"tr_text": "Basilis Ridist",
+		"tr_text": "Basiwis Widist",
 		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n自在槍。鍛えぬかれた鋭刃は、素早く\n敵へとその刃を到達させるという。",
 		"tr_explain": ""
 	},
@@ -779,338 +779,338 @@
 	{
 		"assign": "120187",
 		"jp_text": "オフスティアウィング",
-		"tr_text": "Austere Wing",
+		"tr_text": "Austewe Wing",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の自在槍。もたらされた強大な力は\n弱きを救い、邪なる者を仕留める。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120188",
 		"jp_text": "セイガーシールド",
-		"tr_text": "Seiga Shield",
+		"tr_text": "Seiga Shiewd",
 		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた自在槍。盾の先端部を飛ばす\nセイガーシュートは非常に強力！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120189",
 		"jp_text": "セイカイザーシールド",
-		"tr_text": "Seikaiser Shield",
+		"tr_text": "Seikaisew Shiewd",
 		"jp_explain": "戦力を増強した悪の組織に対抗するため\n新たに開発された自在槍。紅の流星\nカイザーシュートは空間を穿つ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120197",
 		"jp_text": "ランスレボルシオ",
-		"tr_text": "Lance Revolucio",
+		"tr_text": "Wance Wevowucio",
 		"jp_explain": "新開発の演算装置を搭載した自在槍。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120198",
 		"jp_text": "ランスドミナシオ",
-		"tr_text": "Lance Dominacio",
+		"tr_text": "Wance Dominyacio",
 		"jp_explain": "新開発の演算装置を搭載した自在槍。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120200",
 		"jp_text": "リグガイラー",
-		"tr_text": "Rig Gaira",
+		"tr_text": "Wig Gaiwa",
 		"jp_explain": "伝説の生物を機械的に再現した自在槍。\n強靭な顎を模して作られた刃は一度\n喰らいつけば確実に対象を噛み砕く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120202",
 		"jp_text": "ジグマガイラー",
-		"tr_text": "Sigma Gaira",
+		"tr_text": "Sigma Gaiwa",
 		"jp_explain": "伝説の生物を機械的に再現した自在槍。\n鍛えられた牙はかすめるだけでも傷を\n負ってしまうほどの鋭さを誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120203",
 		"jp_text": "アウラデルウォッグ",
-		"tr_text": "Aura Dellwogg",
+		"tr_text": "Auwa Dewwwogg",
 		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の自在槍。装者の生命力に比例して\n二刀の鞭刃は蒼き輝きを増すという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120208",
 		"jp_text": "レッツゴーシャイニー",
-		"tr_text": "Let's Go Shiny",
+		"tr_text": "Wet's Go Shiny",
 		"jp_explain": "ロープがついた浮き輪の自在槍。\nエンペ・ラッピー柄の高級浮き輪。\n強化繊維が使用されているため超硬い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120210",
 		"jp_text": "フロウレイザー",
-		"tr_text": "Flow Razor",
+		"tr_text": "Fwow Wazow",
 		"jp_explain": "次世代のアークス用に設計されている\n自在槍のプロトタイプモデル。\n素材を共有する汎用化試験作の一つ。",
-		"tr_explain": "A prototype Wired Lance designed\nfor the Next Generation ARKS. The\nmaterials used were highly tested."
+		"tr_explain": "A pwototype Wiwed Wance designyed\nfow the Nyext Genyewation AWKS. The\nmatewiaws used wewe highwy tested."
 	},
 	{
 		"assign": "120213",
 		"jp_text": "イヴリダハダート",
-		"tr_text": "Evleda Haddat",
+		"tr_text": "Evweda Haddat",
 		"jp_explain": "古に封印されし冥夜の自在槍。\n忌むべき闇の刃は汝の血肉で以って\n戒め突き壊し、沈黙の世を作る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120214",
 		"jp_text": "クリシスハダート",
-		"tr_text": "Cleasis Haddat",
+		"tr_text": "Cweasis Haddat",
 		"jp_explain": "古に封印されし冥夜の自在槍。\n勇ましき戦士を喰らいし邪なる刃は\n魂と係合せし時、瞬時に無へとせん。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120215",
 		"jp_text": "シュベルハダート",
-		"tr_text": "Schvelle Haddat",
+		"tr_text": "Schvewwe Haddat",
 		"jp_explain": "古に封印されし冥夜の自在槍。\n現世に蘇りし闇は俊敏なる刃となり\n生命の灯を切払い、永久の静謐を築く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120219",
 		"jp_text": "フォルニスグルズ",
-		"tr_text": "Fornis Gulls",
+		"tr_text": "Fownyis Guwws",
 		"jp_explain": "異なる力を宿した恐るべき自在槍。\n扱いは困難を極めるが、威力は高く\nその刃を以って敵を撃滅させる。",
-		"tr_explain": "Fearsome wired lances bearing twin\npowers. While difficult to handle, the\npowerful blades annihilate the enemy."
+		"tr_explain": "Feawsome wiwed wances beawing twin\npowews. Whiwe difficuwt to handwe, the\npowewfuw bwades annyihiwate the enyemy."
 	},
 	{
 		"assign": "120222",
 		"jp_text": "レイランス",
-		"tr_text": "Ray Lance",
+		"tr_text": "Way Wance",
 		"jp_explain": "次世代の主力として開発された自在槍。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-		"tr_explain": "A Wired Lance developed as the\nlatest model, boasting high photon\nstability with next-gen specifications."
+		"tr_explain": "A Wiwed Wance devewoped as the\nwatest modew, boasting high photon\nstabiwity with nyext-gen specifications."
 	},
 	{
 		"assign": "120223",
 		"jp_text": "ユニオンランス",
-		"tr_text": "Union Lance",
+		"tr_text": "Unyion Wance",
 		"jp_explain": "次世代の主力として開発された自在槍。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A W. Lance developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A W. Wance devewoped as the watest\nmodew. Augmented with boost pawts,\nyits pewfowmance exceed its wimits."
 	},
 	{
 		"assign": "120224",
 		"jp_text": "レイニールオービット",
-		"tr_text": "Reinier Orbit",
+		"tr_text": "Weinyiew Owbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n自在槍。展開された部品が合体し\n闇を穿つ閃光の刃へと姿を変える。",
-		"tr_explain": "Wired lances with a Photon Ring\nDevice. The expanded parts form\nblades of light that pierce darkness."
+		"tr_explain": "Wiwed wances with a Photon Wing\nDevice. The expanded pawts fowm\nbwades of wight that piewce dawknyess."
 	},
 	{
 		"assign": "120227",
 		"jp_text": "ワイヤードランス-NT",
-		"tr_text": "Wired Lance-NT",
+		"tr_text": "Wiwed Wance-NT",
 		"jp_explain": "アークスで正式採用されている自在槍。\nワイヤーでつながれた刃を自在に操作し\n多様な距離での交戦を可能としている。",
-		"tr_explain": "Wired lances adopted by ARKS. The\nblades move freely, allowing the user\nto fight at a variety of distances."
+		"tr_explain": "Wiwed wances adopted by AWKS. The\nbwades muv fweewy, awwowing the usew\nto fight at a vawiety of distances."
 	},
 	{
 		"assign": "120228",
 		"jp_text": "アルバランス-NT",
-		"tr_text": "Alva Lance-NT",
+		"tr_text": "Awva Wance-NT",
 		"jp_explain": "アークスで使用される改良型自在槍。\n刃の部分のみの出力効率化を行い\nコストの変動なく威力を増強させた。",
-		"tr_explain": "Improved wired lances used by ARKS.\nThe new efficient blades are more\npowerful for the same energy cost."
+		"tr_explain": "Impwuvd wiwed wances used by AWKS.\nThe nyew efficient bwades awe mowe\npowewfuw fow the same enyewgy cost."
 	},
 	{
 		"assign": "120229",
 		"jp_text": "ヴィタランス-NT",
-		"tr_text": "Vita Lance-NT",
+		"tr_text": "Vita Wance-NT",
 		"jp_explain": "基礎モデルに改良を加えた自在槍。\nフォトン固着率の改良と性能向上を両立\n多くのアークスの要望に応えたモデル。",
-		"tr_explain": "Wired lances that further improve\nupon the base model. This model is\na response to high demand."
+		"tr_explain": "Wiwed wances that fuwthew impwuv\nyupon the base modew. This modew is\nya wesponse to high demand."
 	},
 	{
 		"assign": "120230",
 		"jp_text": "ワイヤードトライ-NT",
-		"tr_text": "Wired Tri-NT",
+		"tr_text": "Wiwed Twi-NT",
 		"jp_explain": "鋭角シルエットにこだわった自在槍。\n遠距離攻撃に適した抵抗の少ない形状で\n操作性の向上を目指した高級モデル。",
-		"tr_explain": "Wired lances shaped like sharp horns.\nA high-grade, aerodynamic model\nsuitable for long-range attacks."
+		"tr_explain": "Wiwed wances shaped wike shawp howns.\nA high-gwade, aewodynyamic modew\nsuitabwe fow wong-wange attacks."
 	},
 	{
 		"assign": "120231",
 		"jp_text": "アルバトライ-NT",
-		"tr_text": "Alva Tri-NT",
+		"tr_text": "Awva Twi-NT",
 		"jp_explain": "高級モデル自在槍の改良型。\n抵抗の少ない形状そのままに大型化し\nさらなる攻撃力の向上を実現した。",
-		"tr_explain": "Improved high-grade wired lances.\nMade larger to improve attack\npower, but no less aerodynamic."
+		"tr_explain": "Impwuvd high-gwade wiwed wances.\nMade wawgew to impwuv attack\npowew, but nyo wess aewodynyamic."
 	},
 	{
 		"assign": "120232",
 		"jp_text": "ヴィタトライ-NT",
-		"tr_text": "Vita Tri-NT",
+		"tr_text": "Vita Twi-NT",
 		"jp_explain": "高級モデル自在槍の超大型バージョン。\n全体的に性能も向上しているが\n量産が困難なレアモデル。",
-		"tr_explain": "Extra-large high-end wired lances.\nPerformance is improved, but this\nmodel is difficult to mass-produce."
+		"tr_explain": "Extwa-wawge high-end wiwed wances.\nPewfowmance is impwuvd, but this\nmodew is difficuwt to mass-pwoduce."
 	},
 	{
 		"assign": "120233",
 		"jp_text": "ワイヤードアーチ-NT",
-		"tr_text": "Wired Arch-NT",
+		"tr_text": "Wiwed Awch-NT",
 		"jp_explain": "伸張性能を向上させた自在槍。\n独特のアーチ形状でなめらかな軌跡を\n描きながら標的を捉える。",
-		"tr_explain": "Wired lances with improved elasticity.\nThe unique shape traces curves\nthrough the air as they grab foes."
+		"tr_explain": "Wiwed wances with impwuvd ewasticity.\nThe unyique shape twaces cuwves\nthwough the aiw as they gwab foes."
 	},
 	{
 		"assign": "120234",
 		"jp_text": "アルバアーチ-NT",
-		"tr_text": "Alva Arch-NT",
+		"tr_text": "Awva Awch-NT",
 		"jp_explain": "伸張性能を向上させた自在槍の改良型。\n先端部の突起が重心を安定させ\n基礎モデルより確実に標的を捉える。",
-		"tr_explain": "Improved high-elasticity wired lances.\nTheir pointed tips stabilize them,\nmaking grabbing foes more reliable."
+		"tr_explain": "Impwuvd high-ewasticity wiwed wances.\nTheiw pointed tips stabiwize them,\nmaking gwabbing foes mowe wewiabwe."
 	},
 	{
 		"assign": "120235",
 		"jp_text": "ヴィタアーチ-NT",
-		"tr_text": "Vita Arch-NT",
+		"tr_text": "Vita Awch-NT",
 		"jp_explain": "アーチ形状の自在槍の大型モデル。\n弧に並べられた突起により、従来の\n安定した伸張性能を確保した。",
-		"tr_explain": "A large model of arch-shaped wired\nlances. The multiple protrusions along\nthe arch ensure extension stability."
+		"tr_explain": "A wawge modew of awch-shaped wiwed\nwances. The muwtipwe pwotwusions awong\nthe awch ensuwe extension stabiwity."
 	},
 	{
 		"assign": "120236",
 		"jp_text": "クシャネビュラ-NT",
-		"tr_text": "Kuscha Nebula-NT",
+		"tr_text": "Kuscha Nyebuwa-NT",
 		"jp_explain": "二叉に分けられた刃が特徴的な自在槍。\n既定のフォルムにとらわれない\n威力と効率重視の一つの答えである。",
-		"tr_explain": "Wired lances known for their double-\nforked blades. Unrestrained power\nwith a focus on efficiency."
+		"tr_explain": "Wiwed wances knyown fow theiw doubwe-\nfowked bwades. Unwestwainyed powew\nwith a focus on efficiency."
 	},
 	{
 		"assign": "120237",
 		"jp_text": "ジャグリアス-NT",
-		"tr_text": "Jagriath-NT",
+		"tr_text": "Jagwiath-NT",
 		"jp_explain": "従来の概念を覆した大型の自在槍。\n近距離攻撃用に開発された装着武器を\n投擲武器として転用している。",
-		"tr_explain": "Wired lances that defy convention.\nOriginally designed as a close-range\nweapon, but is now thrown."
+		"tr_explain": "Wiwed wances that defy convention.\nOwiginyawwy designyed as a cwose-wange\nweapon, but is nyow thwown."
 	},
 	{
 		"assign": "120238",
 		"jp_text": "ディオジャグリアス-NT",
-		"tr_text": "Dio Jagriath-NT",
+		"tr_text": "Dio Jagwiath-NT",
 		"jp_explain": "大型自在槍の高機能バージョン。\n扱いやすさよりも破壊力を重視し\n攻撃性能の向上を追求した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120239",
 		"jp_text": "ディアボリックガント-NT",
-		"tr_text": "Diabolic Gauntlet-NT",
+		"tr_text": "Diabowic Gauntwet-NT",
 		"jp_explain": "地獄に住む悪魔の宿りし自在槍。\n切り裂かれた相手は、死の間際に\n快感すら覚えるという。",
-		"tr_explain": "Wired lances housing a demon from\nhell. It is said that its victims feel\nonly intense pleasure as they die."
+		"tr_explain": "Wiwed wances housing a demon fwom\nheww. It is said that its victims feew\nyonwy intense pweasuwe as they die."
 	},
 	{
 		"assign": "120240",
 		"jp_text": "ヘレティックエンド-NT",
-		"tr_text": "Heretic End-NT",
+		"tr_text": "Hewetic End-NT",
 		"jp_explain": "悪魔のかぎ爪のようなおぞましい\nフォルムを持つ自在槍。これにより\nついた傷は生涯治らないとされる。",
-		"tr_explain": "Terrifying wired lances that look like\na demon's claws. The wounds these\nweapons inflict can never heal."
+		"tr_explain": "Tewwifying wiwed wances that wook wike\nya demon's cwaws. The wounds these\nweapons infwict can nyevew heaw."
 	},
 	{
 		"assign": "120241",
 		"jp_text": "グロリアスウィング-NT",
-		"tr_text": "Glorious Wing-NT",
+		"tr_text": "Gwowious Wing-NT",
 		"jp_explain": "圧倒的な破壊力を持つ流麗なデザインの\n自在槍。敵を討つ際に放たれるサクラの\n花弁に似た煌きは息を呑むほどに美しい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120242",
 		"jp_text": "ノクスジラーク-NT",
-		"tr_text": "Nox Jirak-NT",
+		"tr_text": "Nyox Jiwak-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き自在槍。装者も恐怖を\n抱くほどの強大な力で敵を斬り伏せる。",
-		"tr_explain": "Black wired lances produced in an\nillicit ritual. Their foe-felling force\nterrifies even their wielder."
+		"tr_explain": "Bwack wiwed wances pwoduced in an\nyiwwicit wituaw. Theiw foe-fewwing fowce\ntewwifies even theiw wiewdew."
 	},
 	{
 		"assign": "120243",
-		"jp_text": "ラズライルVer2",
-		"tr_text": "Razrail Ver2",
+		"jp_text": "ラズライルVew2",
+		"tr_text": "Wazwaiw Vew2",
 		"jp_explain": "クォーツ・ドラゴンの鋭角を利用して\n作られた巨大な自在槍。綺麗に輝く\nその刃は触れたものを容易に斬り刻む。",
-		"tr_explain": "Gigantic wired lances made from a\nQuartz Dragon's horns. The glittering\nblades mangle foes with just a touch."
+		"tr_explain": "Gigantic wiwed wances made fwom a\nQuawtz Dwagon's howns. The gwittewing\nbwades mangwe foes with just a touch."
 	},
 	{
 		"assign": "120244",
 		"jp_text": "雪凪",
-		"tr_text": "Yukinagi",
+		"tr_text": "Yukinyagi",
 		"jp_explain": "吹き荒ぶ大雪を物ともせず\n戦場に血の華を咲かせる自在槍。\n半月を想起させる刃は冷気を放つ。",
-		"tr_explain": "A Wired Lance with crescent blades,\nforged of flowers sprang from blood\nspilled amidst the violent snowstorm."
+		"tr_explain": "A Wiwed Wance with cwescent bwades,\nfowged of fwowews spwang fwom bwood\nspiwwed amidst the viowent snyowstowm."
 	},
 	{
 		"assign": "120245",
 		"jp_text": "ボクスドビュール",
-		"tr_text": "Box Dobule",
+		"tr_text": "Box Dobuwe",
 		"jp_explain": "ボクス・ドゥバルスの鋭爪を加工し\n作られた自在槍。素材の結晶は硬質で\n決して刃こぼれしないといわれるほど。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120249",
 		"jp_text": "フルキュリオ-NT",
-		"tr_text": "Full Curio-NT",
+		"tr_text": "Fuww Cuwio-NT",
 		"jp_explain": "新発想で左右に大きく広がる変形機構を\n採用した自在槍。標的への命中精度と\n破壊力が従来品より飛躍的に向上した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120250",
 		"jp_text": "マークキュリオ-NT",
-		"tr_text": "Mark Curio-NT",
+		"tr_text": "Mawk Cuwio-NT",
 		"jp_explain": "変形機構を調整した自在槍。初心者に\nありがちなタイミングのズレを自動的に\n調整し、効果的な攻撃をアシストする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120251",
 		"jp_text": "ゼイネシスランス",
-		"tr_text": "Zeinesis Lance",
+		"tr_text": "Zeinyesis Wance",
 		"jp_explain": "幻創の主より生まれた大樹の自在槍。\n臆さず強き意志で未知と対峙した時\n多くの可能性と変幻自在な才を得る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120252",
 		"jp_text": "クリファドランス",
-		"tr_text": "Qliphad Lance",
+		"tr_text": "Qwiphad Wance",
 		"jp_explain": "理から外れ虚無と化した大樹の自在槍。\n装者は己の欲に忠実となり、赴くがまま\n刃を振りかざして快楽を得る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120253",
 		"jp_text": "アストラアドム",
-		"tr_text": "Astra Adom",
+		"tr_text": "Astwa Adom",
 		"jp_explain": "マザーの残滓たる、幻創の自在槍。\n立ち上がり前進する人々の意志を挫き\n歩みを徒労に帰さんとする妄執の戒め。",
-		"tr_explain": "Phantom wired lances imbued with\nMother's power. Said to enslave their\nuser, dominating their will."
+		"tr_explain": "Phantom wiwed wances imbued with\nMothew's powew. Said to enswave theiw\nyusew, dominyating theiw wiww."
 	},
 	{
 		"assign": "120271",
 		"jp_text": "デイライトスカー-NT",
-		"tr_text": "Daylight Scar-NT",
+		"tr_text": "Daywight Scaw-NT",
 		"jp_explain": "六爪の刃で全てを切り裂く自在槍。\n交差するフォトンの銀光こそ\n犠牲者が最後に見る光景となる。",
-		"tr_explain": "Wired lances that tear everything to\npieces with their six claws. Their light\nis the last thing their victims see."
+		"tr_explain": "Wiwed wances that teaw evewything to\npieces with theiw six cwaws. Theiw wight\nyis the wast thing theiw victims see."
 	},
 	{
 		"assign": "120272",
 		"jp_text": "アサシンクロー-NT",
-		"tr_text": "Assassin Claw-NT",
+		"tr_text": "Assassin Cwaw-NT",
 		"jp_explain": "ある暗殺者が愛用していた自在槍。\n無拍子で繰り出される攻撃は\n瞬時に相手の命を絶つ。",
-		"tr_explain": "Wired lances favored by an assassin.\nTheir wild, offbeat strikes can cut\nshort an opponent's life in an instant."
+		"tr_explain": "Wiwed wances favowed by an assassin.\nTheiw wiwd, offbeat stwikes can cut\nshowt an opponyent's wife in an instant."
 	},
 	{
 		"assign": "120275",
 		"jp_text": "バルヴェイス",
-		"tr_text": "Val Weiss",
+		"tr_text": "Vaw Weiss",
 		"jp_explain": "過去に戦場となった地域から発掘された\n自在槍。刀身や装飾の多くが損傷し\n性能としてはあまり期待できない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120276",
 		"jp_text": "アトラヴェイス",
-		"tr_text": "Atra Weiss",
+		"tr_text": "Atwa Weiss",
 		"jp_explain": "過去に戦場となった地域から発掘された\n自在槍。破損が著しい箇所が修復され\n本来の美しい姿を取り戻した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "120284",
 		"jp_text": "ネメシスチェイン-NT",
-		"tr_text": "Nemesis Chain-NT",
+		"tr_text": "Nyemesis Chain-NT",
 		"jp_explain": "古の時代に封印された聖なる自在槍。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "120285",
 		"jp_text": "スレイヴチェイン-NT",
-		"tr_text": "Slave Chain-NT",
+		"tr_text": "Swave Chain-NT",
 		"jp_explain": "古の時代に封印された邪なる自在槍。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "120286",
 		"jp_text": "嵐魔-NT",
-		"tr_text": "Ranma-NT",
+		"tr_text": "Wanma-NT",
 		"jp_explain": "舞い散る枯葉の如く、音もなく\nその刃を敵へと到達させる自在槍。\n触れる者を嵐のように斬り刻む。",
-		"tr_explain": "Like dead leaves falling from trees,\nits blades silently reach the enemy.\nTheir blades shreds its victims."
+		"tr_explain": "Wike dead weaves fawwing fwom twees,\nyits bwades siwentwy weach the enyemy.\nTheiw bwades shweds its victims."
 	},
 	{
 		"assign": "120289",

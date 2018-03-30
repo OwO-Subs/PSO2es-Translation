@@ -4,7 +4,7 @@
 		"jp_text": "ライフル",
 		"tr_text": "Rifle",
 		"jp_explain": "アークスで正式採用されている長銃。\n連射による行動阻害に重きを置いた\nレンジャーのための武器。",
-		"tr_explain": "A rifle adopted by ARKS. A weapon\nfor Rangers who focus on pinning the\nenemy down with rapid-fire shots."
+		"tr_explain": "A wifle adopted by AWKS. A weapon\nfow Wangews who focus on pinnying the\nenyemy down with wapid-fiwe shots."
 	},
 	{
 		"assign": "1801",
@@ -109,7 +109,7 @@
 		"jp_text": "フルシリンダー",
 		"tr_text": "Full Cylinder",
 		"jp_explain": "試験的モデルとして開発された長銃。\nコンパクトな見た目ながら威力は高く\n集弾性能も高い、高レベルな水準の型。",
-		"tr_explain": "An experimental Assault Rifle.\nAlthough light, it features high\npotency and precision."
+		"tr_explain": "An expewimentaw Assauwt wifle.\nAwthough wight, it featuwes high\npotency and pwecision."
 	},
 	{
 		"assign": "18016",
@@ -130,7 +130,7 @@
 		"jp_text": "ティグリドル",
 		"tr_text": "Tigredor",
 		"jp_explain": "全体をフォトンコートした長銃。\n細部にわたる入念なコーティングで\n全体性能を大幅に向上させた。",
-		"tr_explain": "A rifle completely coated with\nPhotons. The elaborate coating\nimproves performance significantly."
+		"tr_explain": "A wifle compwetewy coated with\nPhotons. The ewabowate coating\nimpwuvs pewfowmance signyificantwy."
 	},
 	{
 		"assign": "18019",
@@ -165,7 +165,7 @@
 		"jp_text": "ラムダシュトラウス",
 		"tr_text": "Lambda Strauss",
 		"jp_explain": "洗練された流線形が目を引く長銃。\nバランスを重視した改良を行い\n扱いやすさに重きをおいた改良型。",
-		"tr_explain": "A sophisticated, streamlined and\neye-catching rifle. Redesigned with\na focus on balance and handling."
+		"tr_explain": "A sophisticated, stweamwinyed and\neye-catching wifle. Wedesignyed with\na focus on bawance and handwing."
 	},
 	{
 		"assign": "18024",
@@ -291,7 +291,7 @@
 		"jp_text": "アンチＡライフル／ナハト",
 		"tr_text": "Anti Android Rifle / Nacht",
 		"jp_explain": "闇夜の色を抱く長銃。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "A rifle painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
+		"tr_explain": "A wifle painted bwack as nyight. Its\nowigins awe unknyown, but it inspiwes\ngweatnyess in its ownyew."
 	},
 	{
 		"assign": "18046",
@@ -375,7 +375,7 @@
 		"jp_text": "スプレッドニードル",
 		"tr_text": "Spread Needle",
 		"jp_explain": "敵に向け無数のハリを発射する特殊長銃。\n弾に比べて一発の威力は劣るが\n収束したハリは桁違いの破壊力を誇る。",
-		"tr_explain": "A Rifle that shoots countless needles.\nThey are inferior to bullets, but when\nfocused, they unleash destruction."
+		"tr_explain": "A wifle that shoots countwess nyeedwes.\nThey awe infewiow to buwwets, but when\nfocused, they unweash destwuction."
 	},
 	{
 		"assign": "18061",
@@ -410,14 +410,14 @@
 		"jp_text": "赤のライフル",
 		"tr_text": "Red Rifle",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長銃。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": "A rifle whose experimental coloring\nhas become iconic. The dazzling red\ncatches the eye."
+		"tr_explain": "A wifle whose expewimentaw cowowing\nhas become iconyic. The dazzwing wed\ncatches the eye."
 	},
 	{
 		"assign": "18069",
 		"jp_text": "青のライフル",
 		"tr_text": "Blue Rifle",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長銃。\n目映い青色は必然的に目を引く。",
-		"tr_explain": "A rifle whose experimental coloring\nhas become iconic. The dazzling blue\ncatches the eye."
+		"tr_explain": "A wifle whose expewimentaw cowowing\nhas become iconyic. The dazzwing bwue\ncatches the eye."
 	},
 	{
 		"assign": "18070",
@@ -480,7 +480,7 @@
 		"jp_text": "Ｆシューター／ナハト",
 		"tr_text": "Frozen Shooter / Nacht",
 		"jp_explain": "闇夜の色を抱く長銃。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "A rifle painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
+		"tr_explain": "A wifle painted bwack as nyight. Its\nowigins awe unknyown, but it inspiwes\ngweatnyess in its ownyew."
 	},
 	{
 		"assign": "18099",
@@ -585,7 +585,7 @@
 		"jp_text": "ライブトライナー",
 		"tr_text": "Live Triner",
 		"jp_explain": "最先端の生体工学を応用し開発された\n長銃。高純度培養液の作用で腕に馴染む\n砲身は手振れを補正し命中力を高める。",
-		"tr_explain": "A rifle made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
+		"tr_explain": "A wifle made with state-of-the-awt\nbioenginyeewing. Enhanced with a\nhigh-puwity cuwtuwe sowution."
 	},
 	{
 		"assign": "180127",
@@ -690,14 +690,14 @@
 		"jp_text": "ネメシスシューター",
 		"tr_text": "Nemesis Shooter",
 		"jp_explain": "古の時代に封印された聖なる長銃。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\newa. It weweases its hidden puwifying\npownyaa in tandem with the usew's wiww."
 	},
 	{
 		"assign": "180166",
 		"jp_text": "スレイヴシューター",
 		"tr_text": "Slave Shooter",
 		"jp_explain": "古の時代に封印された邪なる長銃。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\newa. The usew's hawdships wiww caww the\npownyaa of destwuction seawed within."
 	},
 	{
 		"assign": "180172",
@@ -711,7 +711,7 @@
 		"jp_text": "イデアルラルク",
 		"tr_text": "Ideal Larc",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した長銃。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": "A weapon powered by a photon\ngenerator. Its shining photons are\nsaid to be the sign of the next era."
+		"tr_explain": "A weapon pOwOnyaad by a photon\ngenyewatow. Its shinying photons awe\nsaid to be the sign of the nyext ewa."
 	},
 	{
 		"assign": "180175",
@@ -725,7 +725,7 @@
 		"jp_text": "サルスパニッシャー",
 		"tr_text": "Sarce Punisher",
 		"jp_explain": "製作者が全く明らかになっていない\n究極の銃の模倣品。「天罰」は\n撃てないが、高い威力を持つ長銃。",
-		"tr_explain": "A Rifle with an unknown creator. Its\nbullets mimic the effect known as\n\"Divine Punishment\", with each shot."
+		"tr_explain": "A wifle with an unknyawn cweatnyow. Its\nbUwUets mimic the effect knyown as\n\"Divinyaa Punyaashment\", with each shUwUt."
 	},
 	{
 		"assign": "180181",
@@ -739,7 +739,7 @@
 		"jp_text": "アストラルライザー",
 		"tr_text": "Astral Riser",
 		"jp_explain": "大気中のフォトンを銃身に収束させ\n固定化する機構を持つ長銃。\nその威力は空間をも歪ませる。",
-		"tr_explain": "A rifle built with a mechanism that\ngathers photons within its barrel. Its\npower warps time and space."
+		"tr_explain": "A wifle buwit with a mechanyaaism tawts\ngathUwUs photons within its bawOwO. Its\npowaaa wawps time and space."
 	},
 	{
 		"assign": "180192",
@@ -767,7 +767,7 @@
 		"jp_text": "ノクスシュタヤー",
 		"tr_text": "Nox Shooteyr",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長銃。装者も\n恐怖する力でもって、敵を撃ち抜く。",
-		"tr_explain": "A black rifle produced in an illicit\nritual. It shoots the enemy with\npower that terrifies even its wielder."
+		"tr_explain": "A bwack wifle pwoduced in an UwwUicit\nwituaw. It shoots the enyemy with\npoUwU that tewwifies even its wiewdew."
 	},
 	{
 		"assign": "180197",
@@ -802,14 +802,14 @@
 		"jp_text": "インヴェイドシューター",
 		"tr_text": "Invade Shooter",
 		"jp_explain": "【深遠なる闇】より生まれし負の長銃。\n装者は不動の精神を有するが\n無情に敵を狩る冷酷な狙撃者と化す。",
-		"tr_explain": "Born from the [Profound Darkness],\nthis Rifle harbors a steadfast spirit\nthat hunts the enemy."
+		"tr_explain": "Bown fwom the [Pwofound Dawknyess],\nthis Wifwe hawbows a steadfast spiwit\nthat hunts the enyemy."
 	},
 	{
 		"assign": "180206",
 		"jp_text": "オフスティアシューター",
 		"tr_text": "Austere Shooter",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の長銃。もたらされた動じない\n精神は、苦境を打開する力となる。",
-		"tr_explain": "A purified Assault Rifle. Its force\ncan overcome any obstacle with\nits undaunted spirit."
+		"tr_explain": "A puwified Assauwt Wifwe. Its fowce\ncan uvwcome any obstacwe with\nyits undaunted spiwit."
 	},
 	{
 		"assign": "180209",
@@ -837,7 +837,7 @@
 		"jp_text": "Ｄ－Ａ．Ｉ．Ｓバルカン",
 		"tr_text": "D-A.I.S Vulcan",
 		"jp_explain": "Ａ．Ｉ．Ｓの「ソリッドバルカン」を\nアークス向けに小型化した長銃。\n侵入者を決して許さず全てを制圧する。",
-		"tr_explain": "A.I.S.'Solid Vulcan'\nfor ARKS use. Subdue\nthe intrusion at all costs."
+		"tr_explain": "A.I.S.'Sowid Vuwcan'\nfow AWKS use. Subdue\nthe intwusion at aww costs."
 	},
 	{
 		"assign": "180216",
@@ -851,28 +851,28 @@
 		"jp_text": "アストラルライザー-NT",
 		"tr_text": "Astral Riser-NT",
 		"jp_explain": "大気中のフォトンを銃身に収束させ\n固定化する機構を持つ長銃。\nその威力は空間をも歪ませる。",
-		"tr_explain": "A rifle built with a mechanism that\ngathers photons within its barrel. Its\npower warps time and space."
+		"tr_explain": "A wifwe buiwt with a mechanyism that\ngathews photons within its bawwew. Its\npowew wawps time and space."
 	},
 	{
 		"assign": "180218",
 		"jp_text": "ワルキューレＡ３０",
 		"tr_text": "Valkyrie A30",
 		"jp_explain": "軽量かつ拡張性の高いフレームが\n特徴的な長銃。同社から装着可能な\nアクセサリーが数多く生産されている。",
-		"tr_explain": "Lightweight with an expandable\nframe. This Rifle can be\noutfitted with many accessories."
+		"tr_explain": "Wightweight with an expandabwe\nfwame. This Wifwe can be\nyoutfitted with many accessowies."
 	},
 	{
 		"assign": "180219",
 		"jp_text": "ワルキューレＡ３０Ｓ",
 		"tr_text": "Valkyrie A30S",
 		"jp_explain": "軽量かつ拡張性の高いフレームが\n特徴的な長銃。中距離での支援射撃を\n想定したカスタマイズが施されている。",
-		"tr_explain": "Lightweight with an expandable\nframe. It's barrel has been\nmodified for medium ranged combat."
+		"tr_explain": "Wightweight with an expandabwe\nfwame. It's bawwew has been\nmodified fow medium wanged combat."
 	},
 	{
 		"assign": "180225",
 		"jp_text": "ショットレボルシオ",
 		"tr_text": "Shot Revolucio",
 		"jp_explain": "新開発の演算装置を搭載した長銃。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-		"tr_explain": "A Rifle equipped with a newly\ndeveloped computing device. It scans\nbattle patterns for optimal efficiency."
+		"tr_explain": "A Wifwe equipped with a nyewwy\ndevewoped computing device. It scans\nbattwe pattewns fow optimaw efficiency."
 	},
 	{
 		"assign": "180226",
@@ -886,21 +886,21 @@
 		"jp_text": "リグファーガン",
 		"tr_text": "Rig Fagan",
 		"jp_explain": "伝説の生物を機械的に再現した長銃。\n頭部を模した装飾のついた銃身は重く\n扱いには相応の技術が必要とされる。",
-		"tr_explain": "A Rifle modeled after a legendary\ncreature. Its decor makes the barrel\nheavier, thus requiring skill to handle."
+		"tr_explain": "A Wifwe modewed aftew a wegendawy\ncweatuwe. Its decow makes the bawwew\nheaview, thus wequiwing skiww to handwe."
 	},
 	{
 		"assign": "180231",
 		"jp_text": "ジグマファーガン",
 		"tr_text": "Sigma Fagan",
 		"jp_explain": "伝説の生物を機械的に再現した長銃。\n頭部を模した装飾には、弾丸に炎を\nまとわせ破壊力を増す機構がある。",
-		"tr_explain": "A rifle modeled after a legendary\ncreature. Its head replicates the\nflame effect, increasing its power."
+		"tr_explain": "A wifwe modewed aftew a wegendawy\ncweatuwe. Its head wepwicates the\nfwame effect, incweasing its powew."
 	},
 	{
 		"assign": "180232",
 		"jp_text": "アウラレガルス",
 		"tr_text": "Aura Regalus",
 		"jp_explain": "異界の因子を触媒に生み出された\n漆黒の長銃。装者の活力に比例して\n創られる弾丸は蒼き輝きを増すという。",
-		"tr_explain": "A jet-black rifle created with an\notherworldly catalyst. Its bullets\nglow with the user's own energy."
+		"tr_explain": "A jet-bwack wifwe cweated with an\nyothewwowwdwy catawyst. Its buwwets\ngwow with the usew's own enyewgy."
 	},
 	{
 		"assign": "180235",
@@ -914,56 +914,56 @@
 		"jp_text": "イヴリダトラディル",
 		"tr_text": "Evleda Tradir",
 		"jp_explain": "古に封印されし冥夜の長銃。\n禁じられし闇の弾丸は汝の血肉で以って\n目覚めて、世に鮮血と静寂をもたらす。",
-		"tr_explain": "An ancient, forbidden dark rifle. The\nforbidden bullets unsealed by thy kin\nbring blood and silence to the world."
+		"tr_explain": "An ancient, fowbidden dawk wifwe. The\nfowbidden buwwets unseawed by thy kin\nbwing bwood and siwence to the wowwd."
 	},
 	{
 		"assign": "180237",
 		"jp_text": "クリシストラディル",
 		"tr_text": "Cleasis Tradir",
 		"jp_explain": "古に封印されし冥夜の長銃。\n射手を制する悪しき力は魂と連なりし時\n全てを撃ち抜き、世に絶望を与えん。",
-		"tr_explain": "An ancient, forbidden dark rifle. When\nthe bullets' evil overcomes the\nwielder, despair falls upon the world."
+		"tr_explain": "An ancient, fowbidden dawk wifwe. When\nthe buwwets' eviw uvwcomes the\nwiewdew, despaiw fawws upon the wowwd."
 	},
 	{
 		"assign": "180238",
 		"jp_text": "シュベルトラディル",
 		"tr_text": "Schvelle Tradir",
 		"jp_explain": "古に封印されし冥夜の長銃。\n現世に蘇りし闇は尽きぬ弾丸となり\n生命全て撃ちて、平和な世とする。",
-		"tr_explain": "An ancient, forbidden dark rifle. When\ndarkness returns to this world,\nendless bullets shoot all that lives."
+		"tr_explain": "An ancient, fowbidden dawk wifwe. When\ndawknyess wetuwns to this wowwd,\nyendwess buwwets shoot aww that wives."
 	},
 	{
 		"assign": "180242",
 		"jp_text": "レイライフル",
 		"tr_text": "Ray Rifle",
 		"jp_explain": "次世代の主力として開発された長銃。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-		"tr_explain": "A Rifle developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+		"tr_explain": "A Wifwe devewoped as the watest\nmodew, boasting high photon stabiwity\nwith nyext-gen specifications."
 	},
 	{
 		"assign": "180243",
 		"jp_text": "ユニオンライフル",
 		"tr_text": "Union Rifle",
 		"jp_explain": "次世代の主力として開発された長銃。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A Rifle developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A Wifwe devewoped as the watest\nmodew. Augmented with boost pawts,\nyits pewfowmance exceed its wimits."
 	},
 	{
 		"assign": "180244",
 		"jp_text": "スクヴァールオービット",
 		"tr_text": "Skvarl Orbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n長銃。展開された部品が合体し\n天駆ける流星が如き弾丸の射手と化す。",
-		"tr_explain": "A Rifle with a Photon Ring Device.\nThe expanded parts can rain\nbullets down like meteors."
+		"tr_explain": "A Wifwe with a Photon Wing Device.\nThe expanded pawts can wain\nbuwwets down wike meteows."
 	},
 	{
 		"assign": "180250",
 		"jp_text": "フォルニスロンベル",
 		"tr_text": "Fornis Ronbell",
 		"jp_explain": "異なる力を宿した恐るべき長銃。\n精度だけでなく連射性能にも優れ\n風と氷の力で標的を即座に撃ち抜く。",
-		"tr_explain": "A fearsome assault rifle bearing twin\npowers. Fires as fast as the winds,\nwith icy precision, killing in an instant."
+		"tr_explain": "A feawsome assauwt wifwe beawing twin\npowews. Fiwes as fast as the winds,\nwith icy pwecision, kiwwing in an instant."
 	},
 	{
 		"assign": "180252",
 		"jp_text": "ライフル-NT",
 		"tr_text": "Rifle-NT",
 		"jp_explain": "アークスで正式採用されている長銃。\n連射による行動阻害に重きを置いた\nレンジャーのための武器。",
-		"tr_explain": "A rifle adopted by ARKS. A weapon\nfor Rangers who focus on pinning the\nenemy down with rapid-fire shots."
+		"tr_explain": "A wifle adopted by AWKS. A weapon\nfow Wangews who focus on pinnying the\nenyemy down with wapid-fiwe shots."
 	},
 	{
 		"assign": "180253",
@@ -1026,14 +1026,14 @@
 		"jp_text": "フルシリンダー-NT",
 		"tr_text": "Full Cylinder-NT",
 		"jp_explain": "試験的モデルとして開発された長銃。\nコンパクトな見た目ながら威力は高く\n集弾性能も高い、高レベルな水準の型。",
-		"tr_explain": "An experimental Assault Rifle.\nAlthough light, it features high\npotency and precision."
+		"tr_explain": "An expewimentaw Assauwt wifle.\nAwthough wight, it featuwes high\npotency and pwecision."
 	},
 	{
 		"assign": "180262",
 		"jp_text": "ティグリドル-NT",
 		"tr_text": "Tigredor-NT",
 		"jp_explain": "全体をフォトンコートした長銃。\n細部にわたる入念なコーティングで\n全体性能を大幅に向上させた。",
-		"tr_explain": "A rifle completely coated with\nPhotons. The elaborate coating\nimproves performance significantly."
+		"tr_explain": "A wifle compwetewy coated with\nPhotons. The ewabowate coating\nimpwuvs pewfowmance signyificantwy."
 	},
 	{
 		"assign": "180263",
@@ -1068,7 +1068,7 @@
 		"jp_text": "ノクスシュタヤー-NT",
 		"tr_text": "Nox Shooteyr-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き長銃。装者も\n恐怖する力でもって、敵を撃ち抜く。",
-		"tr_explain": "A black rifle produced in an illicit\nritual. It shoots the enemy with\npower that terrifies even its wielder."
+		"tr_explain": "A bwack wifle pwoduced in an UwwUicit\nwituaw. It shoots the enyemy with\npoUwU that tewwifies even its wiewdew."
 	},
 	{
 		"assign": "180268",
@@ -1096,7 +1096,7 @@
 		"jp_text": "氷天華",
 		"tr_text": "Hyou Tenka",
 		"jp_explain": "極寒の地から伝わった手法で作られた\n長銃。銃身から強力な冷気がこぼれ\n射撃時には華のような発火炎が生じる。",
-		"tr_explain": "Rifle hailing from the frigid lands.\nThe barrel breathes out the waves\nof cold flame, shaped like flowers."
+		"tr_explain": "Wifle haiwing fwom the fwigid wands.\nThe bawwew bweathes out the waves\nyof cowd fwame, shaped wike fwowews."
 	},
 	{
 		"assign": "180277",
@@ -1117,7 +1117,7 @@
 		"jp_text": "アストラトレンブ",
 		"tr_text": "Astra Tremb",
 		"jp_explain": "マザーの残滓たる、幻創の長銃。\n撃つ度に戦意を削られているかのようで\n埋めようのない虚しさが手の中に残る。",
-		"tr_explain": "A Phantom rifle imbued with Mother's\npower. Erodes the user's soul, leaving\na void that can never be filled."
+		"tr_explain": "A Phantom wifwe imbued with Mothew's\npowew. Ewodes the usew's souw, weaving\nya void that can nyevew be fiwwed."
 	},
 	{
 		"assign": "180282",
@@ -1187,14 +1187,14 @@
 		"jp_text": "ネメシスシューター-NT",
 		"tr_text": "Nemesis Shooter-NT",
 		"jp_explain": "古の時代に封印された聖なる長銃。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\newa. It weweases its hidden puwifying\npownyaa in tandem with the usew's wiww."
 	},
 	{
 		"assign": "180330",
 		"jp_text": "スレイヴシューター-NT",
 		"tr_text": "Slave Shooter-NT",
 		"jp_explain": "古の時代に封印された邪なる長銃。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\newa. The usew's hawdships wiww caww the\npownyaa of destwuction seawed within."
 	},
 	{
 		"assign": "180339",
@@ -1215,6 +1215,6 @@
 		"jp_text": "インヴェイドシューター-NT",
 		"tr_text": "Invade Shooter-NT",
 		"jp_explain": "【深遠なる闇】より生まれし負の長銃。\n装者は不動の精神を有するが\n無情に敵を狩る冷酷な狙撃者と化す。",
-		"tr_explain": "Born from the [Profound Darkness],\nthis Rifle harbors a steadfast spirit\nthat hunts the enemy."
+		"tr_explain": "Bown fwom the [Pwofound Dawknyess],\nthis Wifwe hawbows a steadfast spiwit\nthat hunts the enyemy."
 	}
 ]

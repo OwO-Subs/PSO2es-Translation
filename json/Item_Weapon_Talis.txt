@@ -2,63 +2,63 @@
 	{
 		"assign": "11200",
 		"jp_text": "タリス",
-		"tr_text": "Talis",
+		"tr_text": "Tawis",
 		"jp_explain": "アークスで正式採用されている導具。\nテクニックの行使により物理的な\n射出攻撃を可能にする補助デバイス。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11201",
 		"jp_text": "アルバタリス",
-		"tr_text": "Alva Talis",
+		"tr_text": "Awva Tawis",
 		"jp_explain": "アークスで使用される改良型の導具。\nフォトン圧縮機構の採用により、物理的\n法撃力の向上を可能にした。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11202",
 		"jp_text": "ヴィタタリス",
-		"tr_text": "Vita Talis",
+		"tr_text": "Vita Tawis",
 		"jp_explain": "基礎モデルに改良を加えた導具。\n装着方法が改善され、テクニックを\n安定して行使できるようになった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11203",
 		"jp_text": "トリビュート",
-		"tr_text": "Tribute",
+		"tr_text": "Twibute",
 		"jp_explain": "アークスで正式採用されている導具。\n円形状を採用しフォトンを安定させ\n効果的なテクニック行使を可能にする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11204",
 		"jp_text": "アルバトリビュート",
-		"tr_text": "Alva Tribute",
+		"tr_text": "Awva Twibute",
 		"jp_explain": "アークスで使用される改良型の導具。\n本体と一体の尖端から強力な射出攻撃を\n可能にした高出力モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11205",
 		"jp_text": "ヴィタトリビュート",
-		"tr_text": "Vita Tribute",
+		"tr_text": "Vita Twibute",
 		"jp_explain": "基礎モデルに改良を加えた導具。\n法撃反動を効果的に吸収する新設計で\n熟練のフォースに人気の新型モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11206",
 		"jp_text": "スプレイン",
-		"tr_text": "Sprain",
+		"tr_text": "Spwain",
 		"jp_explain": "基礎モデルに改良を加えた導具。\n操者の法撃力を最大限に引き出す\n重構造で、効果的な攻撃を可能にする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11207",
 		"jp_text": "アルバスプレイン",
-		"tr_text": "Alva Sprain",
+		"tr_text": "Awva Spwain",
 		"jp_explain": "アークスで使用される改良型の導具。\n再設計されたフォトン格納ユニットで\nテクニック行使を安定的に補助する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "11208",
 		"jp_text": "ヴィタスプレイン",
-		"tr_text": "Vita Sprain",
+		"tr_text": "Vita Spwain",
 		"jp_explain": "アークスで正式採用されている導具。\n法撃力向上のためフォトン格納の\nユニットを大型化させた新モデル。",
 		"tr_explain": ""
 	},
@@ -72,7 +72,7 @@
 	{
 		"assign": "112010",
 		"jp_text": "アルバオブサイド",
-		"tr_text": "Alva Obside",
+		"tr_text": "Awva Obside",
 		"jp_explain": "射出性能が強化された導具の改良型。\n鋭い尖端により法撃力が安定し\n操者のテクニックを最大限に引き出す。",
 		"tr_explain": ""
 	},
@@ -93,7 +93,7 @@
 	{
 		"assign": "112013",
 		"jp_text": "アルバディフューズ",
-		"tr_text": "Alva Diffuse",
+		"tr_text": "Awva Diffuse",
 		"jp_explain": "法撃力を向上した導具の改良型。\nエネルギー効率を維持したまま\nフォトン容量を増強した。",
 		"tr_explain": ""
 	},
@@ -107,91 +107,91 @@
 	{
 		"assign": "112015",
 		"jp_text": "ラムダヴィスバーン",
-		"tr_text": "Lambda Visburn",
+		"tr_text": "Wambda Visbuwn",
 		"jp_explain": "来歴不明な超高性能導具の改良型。\nアークスによる内部構造の解析結果を\n受け、フォトンバランスを最適化した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112016",
 		"jp_text": "ディオヴィスバーン",
-		"tr_text": "Dio Visburn",
+		"tr_text": "Dio Visbuwn",
 		"jp_explain": "来歴不明な超高性能導具の量産試作機。\n新開発の技術により再現不可能とされた\nフォトン一体成形を実現した新モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112017",
 		"jp_text": "ヴィスバーン",
-		"tr_text": "Visburn",
+		"tr_text": "Visbuwn",
 		"jp_explain": "来歴が定かでない超高性能の導具。\nかつてテクニックによって生み出された\nとされるが、真偽のほどは不明。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112018",
 		"jp_text": "ローザクレイン",
-		"tr_text": "Rosa Crane",
+		"tr_text": "Wosa Cwanye",
 		"jp_explain": "翼を模したフォルムが特徴の導具。\n振るうその姿はさながら羽ばたきの如く\n万人がみとれる美しさを誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112019",
 		"jp_text": "ブルクレイン",
-		"tr_text": "Blue Crane",
+		"tr_text": "Bwue Cwanye",
 		"jp_explain": "翼を模したフォルムが特徴の導具。\n清廉なその翼が飛ばすフォトンもまた\n美しく、華麗の一言に尽きる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112020",
 		"jp_text": "セラータクレイン",
-		"tr_text": "Serata Crane",
+		"tr_text": "Sewata Cwanye",
 		"jp_explain": "翼を模したフォルムが特徴の導具。\n漆黒の翼が舞う際に発するフォトンは\n人知を超えた美しさを誇るという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112021",
 		"jp_text": "ハードクォーツ",
-		"tr_text": "Hard Quartz",
+		"tr_text": "Hawd Quawtz",
 		"jp_explain": "機械的な機構をふんだんに用いた導具。\nその精度の高さに定評があり\n手堅い人気に支えられる名器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112022",
 		"jp_text": "ラムダハードクォーツ",
-		"tr_text": "Lambda Hard Quartz",
+		"tr_text": "Wambda Hawd Quawtz",
 		"jp_explain": "機械的な機構をふんだんに用いた導具。\nユーザーの要望に応じた改良を施した\n特化型モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112023",
 		"jp_text": "ディオハードクォーツ",
-		"tr_text": "Dio Hard Quartz",
+		"tr_text": "Dio Hawd Quawtz",
 		"jp_explain": "機械的な機構をふんだんに用いた導具。\nより使いやすさを求めるユーザーの声に\n応じ、努力を重ねた汎用改良品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112024",
 		"jp_text": "ワンダーコレット",
-		"tr_text": "Wonder Collet",
+		"tr_text": "Wondew Cowwet",
 		"jp_explain": "子供の遊具のような形をした導具。\nしかしその性能は既製品を凌ぐほどに\n高く、扱いには注意が必要。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112025",
 		"jp_text": "シルキーコレット",
-		"tr_text": "Silky Collet",
+		"tr_text": "Siwky Cowwet",
 		"jp_explain": "子供の遊具のような形をした導具。\n緑を基調とした安心感のある色合いだが\n性能の高さから、使用には危険が伴う。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112026",
 		"jp_text": "ブルーミィコレット",
-		"tr_text": "Bloomy Collet",
+		"tr_text": "Bwoomy Cowwet",
 		"jp_explain": "子供の遊具のような形をした導具。\n青を基調とした清潔感のある色合いだが\n振るった先では敵の血液が舞うという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112027",
 		"jp_text": "タリスレガシー",
-		"tr_text": "Talis Legacy",
+		"tr_text": "Tawis Wegacy",
 		"jp_explain": "念の込められた導具。\nフォトンと異なる系譜を持つといわれる\n謎に包まれた武器。",
 		"tr_explain": ""
 	},
@@ -212,21 +212,21 @@
 	{
 		"assign": "112030",
 		"jp_text": "ガディアンナ",
-		"tr_text": "Gadianna",
+		"tr_text": "Gadiannya",
 		"jp_explain": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは装者の才能に\n大きく左右される。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112031",
 		"jp_text": "モタブの預言書",
-		"tr_text": "Motav Prophecy",
+		"tr_text": "Motav Pwophecy",
 		"jp_explain": "古のフォースが残したといわれる導具。\nテクニック開拓者たちによる\n秘密が記されているらしいが……",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112032",
 		"jp_text": "ガルウィンド",
-		"tr_text": "Gal Wind",
+		"tr_text": "Gaw Wind",
 		"jp_explain": "伝説上でガル・グリフォンと呼ばれる\n神鳥の羽を用いて作られた導具。\n見た目の美しさ以上に、法撃力が高い。",
 		"tr_explain": ""
 	},
@@ -261,7 +261,7 @@
 	{
 		"assign": "112047",
 		"jp_text": "セイレイキカミ",
-		"tr_text": "Seirei Kikami",
+		"tr_text": "Seiwei Kikami",
 		"jp_explain": "降魔の力を宿すと言われている導具。\nその昔、「ミツヨシ」と呼ばれる\n祈祷師が使っていたとされる。",
 		"tr_explain": ""
 	},
@@ -275,63 +275,63 @@
 	{
 		"assign": "112049",
 		"jp_text": "デュエルゲイズ",
-		"tr_text": "Duel Gaze",
+		"tr_text": "Duew Gaze",
 		"jp_explain": "カードゲーム用デバイスを戦闘用に\n改造した導具。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112050",
 		"jp_text": "レッドデュエルゲイズ",
-		"tr_text": "Red Duel Gaze",
+		"tr_text": "Wed Duew Gaze",
 		"jp_explain": "赤い遊戯用デバイスを戦闘用に\n改造した導具。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112051",
 		"jp_text": "グリンデュエルゲイズ",
-		"tr_text": "Green Duel Gaze",
+		"tr_text": "Gween Duew Gaze",
 		"jp_explain": "緑の遊戯用デバイスを戦闘用に\n改造した導具。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112052",
 		"jp_text": "メタリソリドム",
-		"tr_text": "Metali Solidom",
+		"tr_text": "Metawi Sowidom",
 		"jp_explain": "局地戦闘用に作られた導具。\n過酷な環境に備え、導具発射の機構も\n精密性と密閉性を重視している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112053",
 		"jp_text": "メタリイグニス",
-		"tr_text": "Metali Ignis",
+		"tr_text": "Metawi Ignyis",
 		"jp_explain": "局地戦闘用に作られた導具。\n精密性などはそのままに、可能な限り\n威力などを強化した特化型モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112054",
 		"jp_text": "メタリラキエス",
-		"tr_text": "Metali Rakies",
+		"tr_text": "Metawi Wakies",
 		"jp_explain": "局地戦闘用に作られた導具。\n局地戦以外でも気軽に使用できるよう\n汎用的なチューンナップを施してある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112055",
 		"jp_text": "レーウェンブック",
-		"tr_text": "Liewen Book",
+		"tr_text": "Wiewen Book",
 		"jp_explain": "遺跡に残されていたデータを基に\n再現された導具。装者のフォトンより\n大気中のフォトン利用に特化している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112057",
 		"jp_text": "ラッピーファンファン",
-		"tr_text": "Rappy Fan Fan",
+		"tr_text": "Wappy Fan Fan",
 		"jp_explain": "ラッピーの羽根を模したものを放つ\n愛らしい導具。本物の羽根は決して\n使ってはいません。……決して。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112058",
 		"jp_text": "ヴァーダービット",
-		"tr_text": "Vardha Bit",
+		"tr_text": "Vawdha Bit",
 		"jp_explain": "ビッグヴァーダーの管制システムを\n利用して作られた導具。機械的な\n構成ながら、フォトンの精度も高い。",
 		"tr_explain": ""
 	},
@@ -345,28 +345,28 @@
 	{
 		"assign": "112060",
 		"jp_text": "ソリッドストレート",
-		"tr_text": "Solid Straight",
+		"tr_text": "Sowid Stwaight",
 		"jp_explain": "魂を込めたストレートを放つ導具。\n途中でチャージすれば止まる魔球に変化。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112064",
 		"jp_text": "ノルニルブック",
-		"tr_text": "Nornir Book",
+		"tr_text": "Nyownyiw Book",
 		"jp_explain": "遺跡に残されたデータを再現し\n作り上げられた導具。性能もさること\nながら、効率の良さが際立っている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112065",
 		"jp_text": "エーベルブック",
-		"tr_text": "Ebel Book",
+		"tr_text": "Ebew Book",
 		"jp_explain": "遺跡で発見されたデータを参考に\n再構築された導具。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112066",
 		"jp_text": "アーレスタリス",
-		"tr_text": "Ares Talis",
+		"tr_text": "Awes Tawis",
 		"jp_explain": "白魚の幻獣の力を宿した導具。装者に\nフォトンブラストの効果で惑わぬ力を\n与え、精度の高い法撃を可能にする。",
 		"tr_explain": ""
 	},
@@ -380,112 +380,112 @@
 	{
 		"assign": "112068",
 		"jp_text": "ヘレティックソー",
-		"tr_text": "Heretic Saw",
+		"tr_text": "Hewetic Saw",
 		"jp_explain": "使い魔のような独特の形をした導具。\nテクニックの経由場所だけでなく\n鋭い刃で相手を切り裂くことが可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112071",
 		"jp_text": "ダガッシュタリス",
-		"tr_text": "Dagash Talis",
+		"tr_text": "Dagash Tawis",
 		"jp_explain": "ダーガッシュの形を模した導具。\n細かいところまで作り込まれており\n一部の愛好家に人気。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112076",
 		"jp_text": "プルミケロース",
-		"tr_text": "Premicheros",
+		"tr_text": "Pwemichewos",
 		"jp_explain": "可動式の仕掛けが特徴的な導具。\n射出攻撃の際に広がる仕掛けが\n鳥の翼のようで美しい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112077",
 		"jp_text": "ザ・タロット",
-		"tr_text": "The Tarot",
+		"tr_text": "The Tawot",
 		"jp_explain": "逆巻く運命の渦を見定めることが\nできるという導具。操者は攻撃の合間に\nわずかに先の未来を垣間見る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112078",
 		"jp_text": "ドリームマスター",
-		"tr_text": "Dream Master",
+		"tr_text": "Dweam Mastew",
 		"jp_explain": "純白の羽とハートがラブリーな、\nボーカルマイク型の導具。\n歌って踊って戦えるアイドルを目指せ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112079",
 		"jp_text": "ルーサーのタリス",
-		"tr_text": "Luther's Talis",
+		"tr_text": "Wuthew's Tawis",
 		"jp_explain": "仮",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112082",
 		"jp_text": "ステルスウェポン：ＴＡ",
-		"tr_text": "Stealth Weapon: TA",
+		"tr_text": "Steawth Weapon: TA",
 		"jp_explain": "認識不能な武器。\n形状はタリス型。",
-		"tr_explain": "Unknown Weapon.\nSeems to be of the Talis-type."
+		"tr_explain": "Unknyown Weapon.\nSeems to be of the Tawis-type."
 	},
 	{
 		"assign": "112083",
 		"jp_text": "赤のタリス",
-		"tr_text": "Red Talis",
+		"tr_text": "Wed Tawis",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした導具。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": "A talis whose experimental coloring\nhas become iconic. The dazzling red\ncatches the eye."
+		"tr_explain": "A tawis whose expewimentaw cowowing\nhas become iconyic. The dazzwing wed\ncatches the eye."
 	},
 	{
 		"assign": "112084",
 		"jp_text": "青のタリス",
-		"tr_text": "Blue Talis",
+		"tr_text": "Bwue Tawis",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした導具。\n目映い青色は必然的に目を引く。",
-		"tr_explain": "A talis whose experimental coloring\nhas become iconic. The dazzling blue\ncatches the eye."
+		"tr_explain": "A tawis whose expewimentaw cowowing\nhas become iconyic. The dazzwing bwue\ncatches the eye."
 	},
 	{
 		"assign": "112085",
 		"jp_text": "ホワイトラッピーファン",
-		"tr_text": "White Rappy Fan",
+		"tr_text": "White Wappy Fan",
 		"jp_explain": "ラッピーの羽根を模したものを放つ\n愛らしい導具。純白の特別モデル。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112086",
 		"jp_text": "ピンクラッピーファン",
-		"tr_text": "Pink Rappy Fan",
+		"tr_text": "Pink Wappy Fan",
 		"jp_explain": "ラッピーの羽根を模したものを放つ\n愛らしい導具。薄紅の特別モデル。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112087",
 		"jp_text": "ブルーラッピーファン",
-		"tr_text": "Blue Rappy Fan",
+		"tr_text": "Bwue Wappy Fan",
 		"jp_explain": "ラッピーの羽根を模した愛らしい\n万人向け導具。本物の羽根は決して\n使ってはいません。……決して。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112088",
 		"jp_text": "トリックピジョンズ",
-		"tr_text": "Trick Pigeons",
+		"tr_text": "Twick Pigeons",
 		"jp_explain": "白い鳩による物理的法撃が可能な導具。\nおしゃれ帽子として日常使用できるよう\n落ち着いたワインカラーを採用した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112091",
 		"jp_text": "ビリオネア",
-		"tr_text": "Billionaire",
+		"tr_text": "Biwwionyaiwe",
 		"jp_explain": "札束による物理的法撃が可能な導具。\n光沢ボディを採用し、札束のゼロを\n増やして高級感を出した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112094",
 		"jp_text": "レインボーハーベスト",
-		"tr_text": "Rainbow Harvest",
+		"tr_text": "Wainbow Hawvest",
 		"jp_explain": "衛星の美しさを、愛でるというより\n陽気に楽しむ導具。彩り豊かな供物が\nテクニックを華々しく演出する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "112095",
 		"jp_text": "ブラックハーベスト",
-		"tr_text": "Black Harvest",
+		"tr_text": "Bwack Hawvest",
 		"jp_explain": "一部地域で衛星の暗黒面を讃える供物を\n模した導具。怪しい雰囲気でテクニック\nに凄味が増すと評判の一品。",
 		"tr_explain": ""
 	},
@@ -506,42 +506,42 @@
 	{
 		"assign": "112099",
 		"jp_text": "ギリハート",
-		"tr_text": "Giri Heart",
+		"tr_text": "Giwi Heawt",
 		"jp_explain": "シーがアークスのために用意した導具。\n愛情あふれた見た目で確かな物理法撃が\n可能だが、お礼３倍返しの用意が必要？",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120101",
 		"jp_text": "プワゾンハート",
-		"tr_text": "Poison Heart",
+		"tr_text": "Poison Heawt",
 		"jp_explain": "義理堅いアークスが用意した導具。\n気のない相手にそれとなく悪意と\n敵意をチラつかせ真意を悟らせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120102",
 		"jp_text": "燐具フローレンベルク",
-		"tr_text": "Florenberg",
+		"tr_text": "Fwowenbewg",
 		"jp_explain": "■",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120103",
 		"jp_text": "プリメラ・フィオーレ",
-		"tr_text": "Primera Fiore",
+		"tr_text": "Pwimewa Fiowe",
 		"jp_explain": "花を模した、超高級カスタムモデルの\n導具。その美しさから、装者の戦う姿は\nあたかも舞うかのごとく見えるという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120106",
 		"jp_text": "ブラウルフト",
-		"tr_text": "Brauluft",
+		"tr_text": "Bwauwuft",
 		"jp_explain": "大気中のフォトンの流れに乗って\n放たれる導具。可能な限りの軽量化と\n性能を両立させた一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120107",
 		"jp_text": "ロートルフト",
-		"tr_text": "Rohtoluft",
+		"tr_text": "Wohtowuft",
 		"jp_explain": "大気中のフォトンの流れを利用して\n高効率と高性能を両立させた導具。\n淡青の発光が軌跡に残り、美しい。",
 		"tr_explain": ""
 	},
@@ -555,42 +555,42 @@
 	{
 		"assign": "1120114",
 		"jp_text": "ガルウィンド／ナハト",
-		"tr_text": "Gal Wind / Nacht",
+		"tr_text": "Gaw Wind / Nyacht",
 		"jp_explain": "闇夜の色を抱く導具。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "A talis painted black as night. Its\norigins are unknown, but it inspires\ngreatness in its owner."
+		"tr_explain": "A tawis painted bwack as nyight. Its\nyowigins awe unknyown, but it inspiwes\ngweatnyess in its ownyew."
 	},
 	{
 		"assign": "1120115",
 		"jp_text": "ブルフローリス",
-		"tr_text": "Blue Floris",
+		"tr_text": "Bwue Fwowis",
 		"jp_explain": "幾何学的な模様の刻まれた導具。\n美しく整った形が特徴で、フォトンの\n伝導率も高く、扱いやすい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120116",
 		"jp_text": "レドフローリス",
-		"tr_text": "Red Floris",
+		"tr_text": "Wed Fwowis",
 		"jp_explain": "幾何学的な模様を持つ導具。\n武器全体がフォトンを帯び、ほのかに\n紅色に染まっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120117",
 		"jp_text": "リンフローリス",
-		"tr_text": "Rin Floris",
+		"tr_text": "Win Fwowis",
 		"jp_explain": "幾何学的な模様を刻み込んだ導具。\n特殊な鉱石で作り上げられ、フォトンの\n効率だけでなく、武器性能も高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120121",
 		"jp_text": "ノシュヴィー",
-		"tr_text": "Nosvee",
+		"tr_text": "Nyosvee",
 		"jp_explain": "かわいさを追求する女性向け戦闘服に\nよく合う導具。硬く直線的ブレードが\n身体の曲線美を際立たせると人気。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120122",
 		"jp_text": "ノシュヴィラ",
-		"tr_text": "Noshvira",
+		"tr_text": "Nyoshviwa",
 		"jp_explain": "かわいさを追求する女性向け戦闘服に\nよく合う導具。暖かみのある淡色が\n美しい乙女心をさりげなくアピール。",
 		"tr_explain": ""
 	},
@@ -611,30 +611,30 @@
 	{
 		"assign": "1120128",
 		"jp_text": "セレネスケロース",
-		"tr_text": "Serenescheros",
+		"tr_text": "Sewenyeschewos",
 		"jp_explain": "可動式の仕掛けが特徴的な導具。\n上品で美しい装丁は変わらないが\n法撃力と性能の大幅な改善が施された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120129",
 		"jp_text": "ターンヘッド",
-		"tr_text": "Turn Head",
+		"tr_text": "Tuwn Head",
 		"jp_explain": "蒸気エネルギーで効能を増幅した導具。\n使用者がテクニック行使に集中するため\n出力調整の完全自動制御を実現した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120131",
 		"jp_text": "バイオビロリア",
-		"tr_text": "Bio Biloria",
+		"tr_text": "Bio Biwowia",
 		"jp_explain": "最先端の生体工学を応用し開発された\n導具。あふれるフォトンによって\n生体部品を射出し目標を破壊する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120132",
 		"jp_text": "ライブビロリア",
-		"tr_text": "Live Biloria",
+		"tr_text": "Wive Biwowia",
 		"jp_explain": "最先端の生体工学を応用し開発された\n導具。高純度培養液を含む生体部品が\n敵の組織を蝕むダメージを与える。",
-		"tr_explain": "A talis made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
+		"tr_explain": "A tawis made with state-of-the-awt\nbioenginyeewing. Enhanced with a\nhigh-puwity cuwtuwe sowution."
 	},
 	{
 		"assign": "1120134",
@@ -646,98 +646,98 @@
 	{
 		"assign": "1120136",
 		"jp_text": "クラテルビー",
-		"tr_text": "Crater Bee",
+		"tr_text": "Cwatew Bee",
 		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい導具。射出されるカードは\n投擲時に大型化し確かな法撃を加える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120137",
 		"jp_text": "ダーフフェリタ",
-		"tr_text": "Darf Ferita",
+		"tr_text": "Dawf Fewita",
 		"jp_explain": "ダークファルスの生体を解析し流用した\n導具。華麗な羽根カードが流線の軌道を\n描き、鳥が飛ぶように標的を仕留める。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120144",
 		"jp_text": "クラテルビット",
-		"tr_text": "Crater Bit",
+		"tr_text": "Cwatew Bit",
 		"jp_explain": "局地戦闘用に気密性を高めた防護服との\n相性がいい導具。高気密性を引き継ぎ\n高いフォトン濃度を維持して法撃可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120146",
 		"jp_text": "ザフリジェ",
-		"tr_text": "Zafrige",
+		"tr_text": "Zafwige",
 		"jp_explain": "可愛らしさと機能性を両立させた導具。\n射出性能の強化と法撃力の安定化を\n重要視して作成された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120147",
 		"jp_text": "スキアーリジェ",
-		"tr_text": "Squier Ligier",
+		"tr_text": "Squiew Wigiew",
 		"jp_explain": "可愛らしさと機能性を両立させた導具。\n内部機構の改善に伴い、使用者の技術に\n依存せず安定した攻撃が可能になった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120149",
 		"jp_text": "ルトラーパイエット",
-		"tr_text": "Rutlar Paillette",
+		"tr_text": "Wutwaw Paiwwette",
 		"jp_explain": "夢を振りまくために開発された導具。\nどこか愛嬌のあるフォルムは\n何かに似ていると噂されている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120151",
 		"jp_text": "ルトラーリフレクト",
-		"tr_text": "Rutler Reflect",
+		"tr_text": "Wutwew Wefwect",
 		"jp_explain": "夢を振りまくために開発された導具。\nクールな印象を与えるブルーが特徴的。\n操作性が改良されており、扱いやすい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120152",
 		"jp_text": "アルドディビス",
-		"tr_text": "Aldo Divies",
+		"tr_text": "Awdo Divies",
 		"jp_explain": "圧縮したフォトンで作成した導具。\nフォトン感応力の高いカードを射出し\n効率的にテクニックを使用できる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120153",
 		"jp_text": "シリナーディビス",
-		"tr_text": "Xylinor Divies",
+		"tr_text": "Xywinyow Divies",
 		"jp_explain": "圧縮したフォトンで作成した導具。\nより効果的なテクニック使用のため\nフォトン干渉部分の面積を増やした。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120155",
 		"jp_text": "ファーレンラピス",
-		"tr_text": "Fahrenlapis",
+		"tr_text": "Fahwenwapis",
 		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた導具。\nそれは、彼の情熱の結晶。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120158",
 		"jp_text": "サーイッシュ",
-		"tr_text": "Serysh",
+		"tr_text": "Sewysh",
 		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された導具。フォトン伝導率が\n非常に高いウロコを模している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120164",
 		"jp_text": "クインロセウム",
-		"tr_text": "Quinn Rosem",
+		"tr_text": "Quinn Wosem",
 		"jp_explain": "媚びない美しさが魅力的な導具。\n可憐な外装だが、もたらす法撃力は高く\n確かなもの。正に戦場で咲く花。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120165",
 		"jp_text": "ラズワルブック",
-		"tr_text": "Lazwar Book",
+		"tr_text": "Wazwaw Book",
 		"jp_explain": "遺跡に残されていたデータを基に\n再現した導具。フォトンの集束力が高く\n効率よくテクニックを扱える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120169",
 		"jp_text": "ピオニリンク",
-		"tr_text": "Pioni Link",
+		"tr_text": "Pionyi Wink",
 		"jp_explain": "フォトンケーブルがおしゃれな導具。\n有線で繋ぎ、フォトンの伝達速度の\n向上を狙った試作。安定性が悪い。",
 		"tr_explain": ""
 	},
@@ -751,23 +751,23 @@
 	{
 		"assign": "1120174",
 		"jp_text": "アヌシマーロ",
-		"tr_text": "Anushi-mahro",
+		"tr_text": "Anyushi-mahwo",
 		"jp_explain": "黒の民アヌシザグリの残骸を加工した\n導具。赤い帯状の部分は触ると\nひと肌程度に生暖かい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120175",
 		"jp_text": "ネメシスシンボル",
-		"tr_text": "Nemesis Symbol",
+		"tr_text": "Nyemesis Symbow",
 		"jp_explain": "古の時代に封印された聖なる導具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "1120176",
 		"jp_text": "スレイヴシンボル",
-		"tr_text": "Slave Symbol",
+		"tr_text": "Swave Symbow",
 		"jp_explain": "古の時代に封印された邪なる導具。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "1120178",
@@ -779,7 +779,7 @@
 	{
 		"assign": "1120181",
 		"jp_text": "乱残花",
-		"tr_text": "Ran Zanka",
+		"tr_text": "Wan Zanka",
 		"jp_explain": "散り始めた花のはかなさと美しさを\n表現し作られた導具。射出される度に\n舞う桜の花びらが非常に美しい。",
 		"tr_explain": ""
 	},
@@ -800,189 +800,189 @@
 	{
 		"assign": "1120185",
 		"jp_text": "エグルコレト",
-		"tr_text": "Aigle Colette",
+		"tr_text": "Aigwe Cowette",
 		"jp_explain": "翼をイメージしたフォルムの導具。\nカードはフォトンを込めることで翼を\n広げた鳥の姿に形状を変化させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120188",
 		"jp_text": "イデアルエール",
-		"tr_text": "Ideal Aile",
+		"tr_text": "Ideaw Aiwe",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した導具。発せられる\nフォトンの輝きは次代の証とされる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120192",
 		"jp_text": "ルースレオパード",
-		"tr_text": "Ruth Leopard",
+		"tr_text": "Wuth Weopawd",
 		"jp_explain": "ヴリマ・レオパードの尻尾を加工した\n導具。機甲種の特徴を多分に残しており\n装者が噛みつかれているように見える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120201",
 		"jp_text": "ノクスクリーグ",
-		"tr_text": "Nox Krieg",
+		"tr_text": "Nyox Kwieg",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き導具。\n装者も戦慄するほどの法撃力を宿す。",
-		"tr_explain": "A black talis produced in an illicit\nritual. The power of its Techniques\nterrifies even its wielder."
+		"tr_explain": "A bwack tawis pwoduced in an iwwicit\nwituaw. The powew of its Technyiques\ntewwifies even its wiewdew."
 	},
 	{
 		"assign": "1120202",
 		"jp_text": "レーテクリーグ",
-		"tr_text": "Raete Krieg",
+		"tr_text": "Waete Kwieg",
 		"jp_explain": "正当な手順を経た儀式により\n生み出された白き導具。装者を守り\nサポートする絶大な法撃力を宿す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120203",
 		"jp_text": "クリーグアリオン",
-		"tr_text": "Krieg Arion",
+		"tr_text": "Kwieg Awion",
 		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の導具。装者の感情が\n強さとなり、法撃力となるといわれる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120205",
 		"jp_text": "ベクリュサバーカ",
-		"tr_text": "Bekrew Sabathka",
+		"tr_text": "Bekwew Sabathka",
 		"jp_explain": "死者の念が乗り移ったとされる禍々しき\nオーラを放つ導具。不気味な灯火から\n放たれる法撃からは逃れるすべはない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120207",
 		"jp_text": "フロティアオービット",
-		"tr_text": "Flotia Orbit",
+		"tr_text": "Fwotia Owbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n導具。展開された部品が合体し\n万象を操る刃へと姿を変える。",
-		"tr_explain": "A Talis with a Photon Ring Device. Its\nexpanded parts allow it to influence\nphotons spread across the universe."
+		"tr_explain": "A Tawis with a Photon Wing Device. Its\nyexpanded pawts awwow it to infwuence\nphotons spwead acwoss the unyivewse."
 	},
 	{
 		"assign": "1120212",
 		"jp_text": "ギクスエルノ",
-		"tr_text": "Gix Ernoe",
+		"tr_text": "Gix Ewnyoe",
 		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した導具。装者の精神とリンクし\n安定したテクニック行使を可能にする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120213",
 		"jp_text": "インヴェイドアルム",
-		"tr_text": "Invade Arm",
+		"tr_text": "Invade Awm",
 		"jp_explain": "【深遠なる闇】より生まれし負の導具。\n装者に万の叡知を与えるが\n純然たる力の狂信者へと変貌させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120214",
 		"jp_text": "オフスティアアルム",
-		"tr_text": "Austere Arm",
+		"tr_text": "Austewe Awm",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の導具。与えられた大いなる智慧は\n弱きを救い、安寧をもたらす力となる。",
-		"tr_explain": "A purified Talis. Its amazing power\nbrings wisdom and salvation to the\nweak and hopeless."
+		"tr_explain": "A puwified Tawis. Its amazing powew\nbwings wisdom and sawvation to the\nweak and hopewess."
 	},
 	{
 		"assign": "1120217",
 		"jp_text": "バジリスアグス",
-		"tr_text": "Basilis Agus",
+		"tr_text": "Basiwis Agus",
 		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n導具。テクニック行使の効率化のため\n専用機関が付いており、重量がある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120222",
 		"jp_text": "クオツリトス",
-		"tr_text": "Quotz Lithos",
+		"tr_text": "Quotz Withos",
 		"jp_explain": "特定地域のみで採掘される鉱石を使い\n製作された導具。フォトン伝導率が高く\n装者を選ばずに性能を発揮できる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120224",
 		"jp_text": "グリシナリトス",
-		"tr_text": "Glycina Lithos",
+		"tr_text": "Gwycinya Withos",
 		"jp_explain": "特定地域のみで採掘される鉱石を使い\n製作された導具。不安定で扱いづらいが\n高性能で、強力な法撃を放てる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120225",
 		"jp_text": "リグティエール",
-		"tr_text": "Rig Thiale",
+		"tr_text": "Wig Thiawe",
 		"jp_explain": "伝説の生物を機械的に再現した導具。\n宝珠のように抱えられたパーツから\n炎をまとったカードが生成される。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120227",
 		"jp_text": "ジグマティエール",
-		"tr_text": "Sigma Thiale",
+		"tr_text": "Sigma Thiawe",
 		"jp_explain": "伝説の生物を機械的に再現した導具。\n設計が見直され、エネルギー消費を\n火力に特化する出力調整が行われた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120235",
 		"jp_text": "カードレボルシオ",
-		"tr_text": "Card Revolucio",
+		"tr_text": "Cawd Wevowucio",
 		"jp_explain": "新開発の演算装置を搭載した導具。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120236",
 		"jp_text": "カードドミナシオ",
-		"tr_text": "Card Dominacio",
+		"tr_text": "Cawd Dominyacio",
 		"jp_explain": "新開発の演算装置を搭載した導具。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120238",
 		"jp_text": "イヴリダフォセレ",
-		"tr_text": "Evleda Phossele",
+		"tr_text": "Evweda Phossewe",
 		"jp_explain": "古に封印されし冥夜の導具。\n絶たれし闇の導き手は汝の血肉を贄とし\n戒めより放たれ、静かなる世へと導く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120239",
 		"jp_text": "クリシスフォセレ",
-		"tr_text": "Cleasis Phossele",
+		"tr_text": "Cweasis Phossewe",
 		"jp_explain": "古に封印されし冥夜の導具。\n廉直なる導士を魅了せし禁忌の法は\n魂と合わさりし時、全て等しく破壊する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120240",
 		"jp_text": "シュベルフォセレ",
-		"tr_text": "Schvelle Phossele",
+		"tr_text": "Schvewwe Phossewe",
 		"jp_explain": "古に封印されし冥夜の導具。\n現世に目覚めし闇は強大な戒めとなり\n生命の灯火を打ち消し、無へと帰す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120245",
 		"jp_text": "レイタリス",
-		"tr_text": "Ray Talis",
+		"tr_text": "Way Tawis",
 		"jp_explain": "次世代の主力として開発された導具。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-		"tr_explain": "A Talis developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+		"tr_explain": "A Tawis devewoped as the watest\nmodew, boasting high photon stabiwity\nwith nyext-gen specifications."
 	},
 	{
 		"assign": "1120246",
 		"jp_text": "ユニオンタリス",
-		"tr_text": "Union Talis",
+		"tr_text": "Unyion Tawis",
 		"jp_explain": "次世代の主力として開発された導具。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A Talis developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A Tawis devewoped as the watest\nmodew. Augmented with boost pawts,\nyits pewfowmance exceed its wimits."
 	},
 	{
 		"assign": "1120248",
 		"jp_text": "フォルニスオジェンド",
-		"tr_text": "Fornis Ogend",
+		"tr_text": "Fownyis Ogend",
 		"jp_explain": "異なる力を宿した恐るべき導具。\n扱いは極めて難しいが、性能は高く\nまとうフォトンは雷光のように鋭い。",
-		"tr_explain": "A fearsome talis bearing twin\npowers. Difficult to handle, but its\nphotons shine like a bolt of lightning."
+		"tr_explain": "A feawsome tawis beawing twin\npowews. Difficuwt to handwe, but its\nphotons shinye wike a bowt of wightnying."
 	},
 	{
 		"assign": "1120249",
 		"jp_text": "タリス-NT",
-		"tr_text": "Talis-NT",
+		"tr_text": "Tawis-NT",
 		"jp_explain": "アークスで正式採用されている導具。\nテクニックの行使により物理的な\n射出攻撃を可能にする補助デバイス。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120250",
 		"jp_text": "アルバタリス-NT",
-		"tr_text": "Alva Talis-NT",
+		"tr_text": "Awva Tawis-NT",
 		"jp_explain": "アークスで使用される改良型の導具。\nフォトン圧縮機構の採用により、物理的\n法撃力の向上を可能にした。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120251",
 		"jp_text": "ヴィタタリス-NT",
-		"tr_text": "Vita Talis-NT",
+		"tr_text": "Vita Tawis-NT",
 		"jp_explain": "基礎モデルに改良を加えた導具。\n装着方法が改善され、テクニックを\n安定して行使できるようになった。",
 		"tr_explain": ""
 	},
@@ -996,7 +996,7 @@
 	{
 		"assign": "1120253",
 		"jp_text": "アルバオブサイド-NT",
-		"tr_text": "Alva Obside-NT",
+		"tr_text": "Awva Obside-NT",
 		"jp_explain": "射出性能が強化された導具の改良型。\n鋭い尖端により法撃力が安定し\n操者のテクニックを最大限に引き出す。",
 		"tr_explain": ""
 	},
@@ -1017,7 +1017,7 @@
 	{
 		"assign": "1120256",
 		"jp_text": "アルバディフューズ-NT",
-		"tr_text": "Alva Diffuse-NT",
+		"tr_text": "Awva Diffuse-NT",
 		"jp_explain": "法撃力を向上した導具の改良型。\nエネルギー効率を維持したまま\nフォトン容量を増強した。",
 		"tr_explain": ""
 	},
@@ -1031,100 +1031,100 @@
 	{
 		"assign": "1120258",
 		"jp_text": "ローザクレイン-NT",
-		"tr_text": "Rosa Crane-NT",
+		"tr_text": "Wosa Cwanye-NT",
 		"jp_explain": "翼を模したフォルムが特徴の導具。\n振るうその姿はさながら羽ばたきの如く\n万人がみとれる美しさを誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120259",
 		"jp_text": "ヴィスバーン-NT",
-		"tr_text": "Visburn-NT",
+		"tr_text": "Visbuwn-NT",
 		"jp_explain": "来歴が定かでない超高性能の導具。\nかつてテクニックによって生み出された\nとされるが、真偽のほどは不明。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120260",
 		"jp_text": "ディオヴィスバーン-NT",
-		"tr_text": "Dio Visburn-NT",
+		"tr_text": "Dio Visbuwn-NT",
 		"jp_explain": "来歴不明な超高性能導具の量産試作機。\n新開発の技術により再現不可能とされた\nフォトン一体成形を実現した新モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120261",
 		"jp_text": "ガディアンナ-NT",
-		"tr_text": "Gadianna-NT",
+		"tr_text": "Gadiannya-NT",
 		"jp_explain": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは装者の才能に\n大きく左右される。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120262",
 		"jp_text": "ブラウルフト-NT",
-		"tr_text": "Brauluft-NT",
+		"tr_text": "Bwauwuft-NT",
 		"jp_explain": "大気中のフォトンの流れに乗って\n放たれる導具。可能な限りの軽量化と\n性能を両立させた一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120263",
 		"jp_text": "ドリームマスター-NT",
-		"tr_text": "Dream Master-NT",
+		"tr_text": "Dweam Mastew-NT",
 		"jp_explain": "純白の羽とハートがラブリーな、\nボーカルマイク型の導具。\n歌って踊って戦えるアイドルを目指せ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120264",
 		"jp_text": "ノクスクリーグ-NT",
-		"tr_text": "Nox Krieg-NT",
+		"tr_text": "Nyox Kwieg-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き導具。\n装者も戦慄するほどの法撃力を宿す。",
-		"tr_explain": "A black talis produced in an illicit\nritual. The power of its Techniques\nterrifies even its wielder."
+		"tr_explain": "A bwack tawis pwoduced in an iwwicit\nwituaw. The powew of its Technyiques\ntewwifies even its wiewdew."
 	},
 	{
 		"assign": "1120265",
-		"jp_text": "ブルクレインVer2",
-		"tr_text": "Blue Crane Ver2",
+		"jp_text": "ブルクレインVew2",
+		"tr_text": "Bwue Cwanye Vew2",
 		"jp_explain": "翼を模したフォルムが特徴の導具。\n清廉なその翼が飛ばすフォトンもまた\n美しく、華麗の一言に尽きる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120266",
 		"jp_text": "ゼイネシスフィデル",
-		"tr_text": "Zeinesis Fidell",
+		"tr_text": "Zeinyesis Fideww",
 		"jp_explain": "幻創の主より生まれた大樹の導具。\n驕ることなく知恵を分け与える者に\n優れた洞察力と知恵を授ける。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120267",
 		"jp_text": "クリファドフィデル",
-		"tr_text": "Qliphad Fidell",
+		"tr_text": "Qwiphad Fideww",
 		"jp_explain": "理から外れ虚無と化した大樹の導具。\n偽りを真実とし、知恵とした装者は\n光を避け、闇に染まらんと法撃を紡ぐ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120268",
 		"jp_text": "針忍冬",
-		"tr_text": "Shin Suikazura",
+		"tr_text": "Shin Suikazuwa",
 		"jp_explain": "極寒の地に伝わる秘術で生み出された\n導具。強力な冷気が封じ込められた\n刃は、雪の華を伴って覚醒する。",
-		"tr_explain": "An arcane Talis from the frigid lands.\nOrnate blades leave the trail of\nunfading snow flowers in their wake."
+		"tr_explain": "An awcanye Tawis fwom the fwigid wands.\nOwnyate bwades weave the twaiw of\nyunfading snyow fwowews in theiw wake."
 	},
 	{
 		"assign": "1120269",
 		"jp_text": "プルミケロース-NT",
-		"tr_text": "Premicheros-NT",
+		"tr_text": "Pwemichewos-NT",
 		"jp_explain": "可動式の仕掛けが特徴的な導具。\n射出攻撃の際に広がる仕掛けが\n鳥の翼のようで美しい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120270",
 		"jp_text": "セレネスケロース-NT",
-		"tr_text": "Serenescheros-NT",
+		"tr_text": "Sewenyeschewos-NT",
 		"jp_explain": "可動式の仕掛けが特徴的な導具。\n上品で美しい装丁は変わらないが\n法撃力と性能の大幅な改善が施された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120271",
 		"jp_text": "アストラヘイト",
-		"tr_text": "Astra Hate",
+		"tr_text": "Astwa Hate",
 		"jp_explain": "マザーの残滓たる、幻創の導具。\n常人には理解できぬ膨大な知識と\n底なしの憎悪が封じられている。",
-		"tr_explain": "A Phantom talis imbued with Mother's\npower. None can understand its vast\nknowledge, or its equally vast hatred."
+		"tr_explain": "A Phantom tawis imbued with Mothew's\npowew. Nyonye can undewstand its vast\nknyowwedge, ow its equawwy vast hatwed."
 	},
 	{
 		"assign": "1120272",
@@ -1136,35 +1136,35 @@
 	{
 		"assign": "1120281",
 		"jp_text": "デモニアフェザー",
-		"tr_text": "Demonia Feather",
+		"tr_text": "Demonyaa FeathewUwU",
 		"jp_explain": "悪魔によりもたらされたと言われる\n導具。他の武器は付属しているが\n機能が制限されているため使用不可。",
-		"tr_explain": "A talis that was created by a demon.\nOther weapons are included in the\ndesign, but are disabled."
+		"tr_explain": "A tawis that was cweated by a demonyaa.\nOthew weapons awe incwuded in the\ndesign, but awe disabwed."
 	},
 	{
 		"assign": "1120293",
 		"jp_text": "[NPC]ストラトス：タリス",
-		"tr_text": "[NPC] Stratos Talis",
+		"tr_text": "[NPC] Stwatos Tawis",
 		"jp_explain": "[NPC]ストラトス：タリス",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120298",
 		"jp_text": "バトルタリスＬｖ１",
-		"tr_text": "Battle Talis Lv1",
+		"tr_text": "Battwe Tawis Wv1",
 		"jp_explain": "バトルアリーナ用に調整された導具。\n純粋に技を競うため基本性能のみを\n強化している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120299",
 		"jp_text": "バトルタリスＬｖ２",
-		"tr_text": "Battle Talis Lv2",
+		"tr_text": "Battwe Tawis Wv2",
 		"jp_explain": "バトルアリーナ用に調整された導具。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120300",
 		"jp_text": "バトルタリスＬｖ３",
-		"tr_text": "Battle Talis Lv3",
+		"tr_text": "Battwe Tawis Wv3",
 		"jp_explain": "バトルアリーナ専用に作られた導具。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
 		"tr_explain": ""
 	},
@@ -1185,37 +1185,37 @@
 	{
 		"assign": "1120305",
 		"jp_text": "バルレトラ",
-		"tr_text": "Val Retora",
+		"tr_text": "Vaw Wetowa",
 		"jp_explain": "過去に戦場となった地域から発掘された\n導具。かろうじて原型を留めているが\n欠損が激しく、焼け焦げた痕跡もある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120306",
 		"jp_text": "アトラレトラ",
-		"tr_text": "Atra Retora",
+		"tr_text": "Atwa Wetowa",
 		"jp_explain": "過去に戦場となった地域から発掘された\n導具。破損箇所が修復され、美しい\n装丁と瞳に似た宝石が目を引く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120309",
 		"jp_text": "リュミホーレー",
-		"tr_text": "Lumiholy",
+		"tr_text": "Wumihowy",
 		"jp_explain": "武術に長けた正義感の強いアークスが\n好んで使用する導具。増幅フォトンが\n羽となって舞い散り、カードを彩る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1120327",
 		"jp_text": "ネメシスシンボル-NT",
-		"tr_text": "Nemesis Symbol-NT",
+		"tr_text": "Nyemesis Symbow-NT",
 		"jp_explain": "古の時代に封印された聖なる導具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "1120328",
 		"jp_text": "スレイヴシンボル-NT",
-		"tr_text": "Slave Symbol-NT",
+		"tr_text": "Swave Symbow-NT",
 		"jp_explain": "古の時代に封印された邪なる導具。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "1120329",
@@ -1227,7 +1227,7 @@
 	{
 		"assign": "1120331",
 		"jp_text": "インヴェイドアルム-NT",
-		"tr_text": "Invade Arm-NT",
+		"tr_text": "Invade Awm-NT",
 		"jp_explain": "【深遠なる闇】より生まれし負の導具。\n装者に万の叡知を与えるが\n純然たる力の狂信者へと変貌させる。",
 		"tr_explain": ""
 	}

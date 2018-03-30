@@ -2,415 +2,415 @@
 	{
 		"assign": "1500",
 		"jp_text": "ダブルセイバー",
-		"tr_text": "Double Saber",
+		"tr_text": "Doubwe Sabew",
 		"jp_explain": "アークスで正式採用されている両剣。\n徹底した軽量化により操作性に優れ\n初心者に扱いやすい入門用モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1501",
 		"jp_text": "アルバＤセイバー",
-		"tr_text": "Alva Double Saber",
+		"tr_text": "Awva Doubwe Sabew",
 		"jp_explain": "アークスで使用される改良型両剣。\n軽量化と使いやすさをそのままに\nリーチを長くし攻撃範囲を広げた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1502",
 		"jp_text": "ヴィタＤセイバー",
-		"tr_text": "Vita Double Saber",
+		"tr_text": "Vita Doubwe Sabew",
 		"jp_explain": "基礎モデルに改良を加えた両剣。\nリーチの長さに加え、フォトン固着率を\n上げることで攻撃力も増強している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1503",
 		"jp_text": "ダブルバスター",
-		"tr_text": "Double Buster",
+		"tr_text": "Doubwe Bustew",
 		"jp_explain": "アークスで正式採用されている両剣。\n細身の刃を採用し、操作性を向上させ\n従来品より裁断力もアップした。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1504",
 		"jp_text": "アルバＤバスター",
-		"tr_text": "Alva Double Buster",
+		"tr_text": "Awva Doubwe Bustew",
 		"jp_explain": "アークスで使用される改良型両剣。\n軽量刃を採用し、基礎モデルと同じ\n重量で攻撃性能のみアップさせた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1505",
 		"jp_text": "ヴィタＤバスター",
-		"tr_text": "Vita Double Buster",
+		"tr_text": "Vita Doubwe Bustew",
 		"jp_explain": "基礎モデルに改良を加えた両剣。\nフォトンを二層固着させたブレードを\n採用し攻撃力が向上した最上級モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1506",
 		"jp_text": "ダブルパラッシュ",
-		"tr_text": "Double Pallasch",
+		"tr_text": "Doubwe Pawwasch",
 		"jp_explain": "アークスで正式採用されている両剣。\n裁断力を重視し、弧状刃を採用した\n次世代に向けた標準モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1507",
 		"jp_text": "アルバＤパラッシュ",
-		"tr_text": "Alva Double Pallasch",
+		"tr_text": "Awva Doubwe Pawwasch",
 		"jp_explain": "アークスで使用される改良型両剣。\n弧状の二枚刃を採用し、裁断性能を\nさらに向上させた上級モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1508",
 		"jp_text": "ヴィタＤパラッシュ",
-		"tr_text": "Vita Double Pallasch",
+		"tr_text": "Vita Doubwe Pawwasch",
 		"jp_explain": "基礎モデルに改良を加えた両剣。\n新技術のフォトン三層固着により\n安定性を向上させた最上級モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1509",
 		"jp_text": "ダブルレイピア",
-		"tr_text": "Double Rapier",
+		"tr_text": "Doubwe Wapiew",
 		"jp_explain": "刃が全体に広がる特殊形状の両剣。\n柄と刃の一体化というコンセプトを基に\n開発されたが、一般への認知度が低い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15010",
 		"jp_text": "アルバＤレイピア",
-		"tr_text": "Alva Double Rapier",
+		"tr_text": "Awva Doubwe Wapiew",
 		"jp_explain": "柄と刃が一体の特殊両剣の改良型。\nリーチが短い基礎モデルの難点を克服し\n熟練者ほど扱いやすいと言われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15011",
 		"jp_text": "ヴィタＤレイピア",
-		"tr_text": "Vita Double Rapier",
+		"tr_text": "Vita Doubwe Wapiew",
 		"jp_explain": "柄と刃が一体の特殊両剣の大型モデル。\nリーチが長く、高性能と使いやすさを\n両立させた入手困難な人気モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15012",
 		"jp_text": "ダブルグラディウス",
-		"tr_text": "Double Gladius",
+		"tr_text": "Doubwe Gwadius",
 		"jp_explain": "形状の異なる刃を組み合わせた両剣。\n突き刺し性能と裁断性能の両方を\n追求した実験モデルで、評価が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15013",
 		"jp_text": "アルバＤグラディウス",
-		"tr_text": "Alva Double Gladius",
+		"tr_text": "Awva Doubwe Gwadius",
 		"jp_explain": "特殊形状の両剣の改良型。\nアークスの要望にこたえ大型の刃を\n採用し、攻撃性能を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15014",
 		"jp_text": "ヴィタＤグラディウス",
-		"tr_text": "Vita Double Gladius",
+		"tr_text": "Vita Doubwe Gwadius",
 		"jp_explain": "特殊形状の両剣の大型モデル。\n細い柄にかかる負荷ぎりぎりまで\n刃を大型化させたが、操作が難しい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15015",
 		"jp_text": "ラムダフェイルノート",
-		"tr_text": "Lambda Failnaught",
+		"tr_text": "Wambda Faiwnyaught",
 		"jp_explain": "なだらかな弓状の刃を持つ両剣。\n好評だった扱いやすさをさらに重視し\nバランス良くまとめた汎用改良型。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15016",
 		"jp_text": "ディオフェイルノート",
-		"tr_text": "Dio Failnaught",
+		"tr_text": "Dio Faiwnyaught",
 		"jp_explain": "なだらかな弓状の刃を持つ両剣。\n刃部分の出力を強化、威力を底上げし\n性能を強化した特化型モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15017",
 		"jp_text": "フェイルノート",
-		"tr_text": "Failnaught",
+		"tr_text": "Faiwnyaught",
 		"jp_explain": "なだらかな弓状の刃を持つ両剣。\n反り返った刃によって振り抜くのに\n抵抗が少なく、扱いやすいと評判。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15018",
 		"jp_text": "ラムダスピルティア",
-		"tr_text": "Lambda Spirtia",
+		"tr_text": "Wambda Spiwtia",
 		"jp_explain": "超硬質素材を成形加工した両剣。\n基礎モデルにあった刃こぼれの問題を\n克服したが生産量が少ない稀少モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15019",
 		"jp_text": "ディオスピルティア",
-		"tr_text": "Dio Spirtia",
+		"tr_text": "Dio Spiwtia",
 		"jp_explain": "超硬質素材を成形加工した改良型両剣。\nフォトン固着率向上により全体の性能が\n向上したが、一般に流通していない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15020",
 		"jp_text": "スピルティア",
-		"tr_text": "Spirtia",
+		"tr_text": "Spiwtia",
 		"jp_explain": "突き出た四本刃が特徴的な両剣。\nのこぎりのように標的を深く裁断するが\n慣れないと刃こぼれさせやすい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15021",
 		"jp_text": "ヘルフレット",
-		"tr_text": "Hellfret",
+		"tr_text": "Hewwfwet",
 		"jp_explain": "素材の猛々しさを残して作られた両剣。\nフォルムにこだわらずに設計された刃は\n破断力に優れる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15022",
 		"jp_text": "ラムダヘルフレット",
-		"tr_text": "Lambda Hellfret",
+		"tr_text": "Wambda Hewwfwet",
 		"jp_explain": "素材の猛々しさを残して作られた両剣。\n全体のバランスを整えた改良調整型。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15023",
 		"jp_text": "ディオヘルフレット",
-		"tr_text": "Dio Hellfret",
+		"tr_text": "Dio Hewwfwet",
 		"jp_explain": "素材の猛々しさを残して作られた両剣。\n破砕力と破断力の増強に注力した結果\n扱いにくいが抜群の性能に仕上がった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15024",
 		"jp_text": "フェザーエッジ",
-		"tr_text": "Feather Edge",
+		"tr_text": "Feathew Edge",
 		"jp_explain": "翼をかたどった刃を持つ強力な両剣。\n一振りで幾度も刃が接触し、無数の傷を\n与えることが可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15025",
 		"jp_text": "ラムダフェザーエッジ",
-		"tr_text": "Lambda Feather Edge",
+		"tr_text": "Wambda Feathew Edge",
 		"jp_explain": "翼をかたどった刃を持つ強力な両剣。\n特徴的なフォルムはそのままに、万人に\n扱いやすいよう調整した汎用改良型。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15026",
 		"jp_text": "ディオフェザーエッジ",
-		"tr_text": "Dio Feather Edge",
+		"tr_text": "Dio Feathew Edge",
 		"jp_explain": "翼をかたどった刃を持つ強力な両剣。\n出力を強化し、一度の接触で全てを\n切り裂けるよう、特化調整したモデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15027",
 		"jp_text": "ダブルセイバーレガシー",
-		"tr_text": "Double Saber Legacy",
+		"tr_text": "Doubwe Sabew Wegacy",
 		"jp_explain": "高い性能を持った両剣。\n柄の両端に純フォトンの刃を持つ。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15028",
 		"jp_text": "ダブル＝カノン",
-		"tr_text": "Double Cannon",
+		"tr_text": "Doubwe Cannyon",
 		"jp_explain": "全てが謎に包まれた究極の両剣。\nその効果、性能は一切不明。",
-		"tr_explain": "An ultimate weapon that is shrouded\nin mystery. Its abilities are unknown."
+		"tr_explain": "An uwtimate weapon that is shwouded\nyin mystewy. Its abiwities awe unknyown."
 	},
 	{
 		"assign": "15030",
 		"jp_text": "メーレンネンカ",
-		"tr_text": "Mehrennenka",
+		"tr_text": "Mehwennyenka",
 		"jp_explain": "神のいたずらと名付けられた両剣。\n戯れの銘ゆえに、性能は測り知れず\nときに滅びすら招き入れるという。",
-		"tr_explain": "A Double Saber called divine\nmischief. Its performance brings\ndoom at times."
+		"tr_explain": "A Doubwe Sabew cawwed divinye\nmischief. Its pewfowmance bwings\ndoom at times."
 	},
 	{
 		"assign": "15031",
 		"jp_text": "迅雷",
-		"tr_text": "Jinrai",
+		"tr_text": "Jinwai",
 		"jp_explain": "雷の如き攻撃速度で敵を切り裂く両剣。\n装者にも持つに足るだけの速さを求め\n不相応な者は手にすることも出来ない。",
-		"tr_explain": "This Double Saber rips targets\napart with lightning-quick attacks.\nOnly the very swift can wield it."
+		"tr_explain": "This Doubwe Sabew wips tawgets\nyapawt with wightnying-quick attacks.\nOnwy the vewy swift can wiewd it."
 	},
 	{
 		"assign": "15032",
 		"jp_text": "ニョイボウ",
-		"tr_text": "Monkey King Bar",
+		"tr_text": "Monkey King Baw",
 		"jp_explain": "装者の意志で長さを変えるという両剣。\n元々は、広大な河川の深さを\n測るために用いられていた記録がある。",
-		"tr_explain": "A Double Saber said to change\nform at its user's whim. Was once\nused to measure the depth of rivers."
+		"tr_explain": "A Doubwe Sabew said to change\nfowm at its usew's whim. Was once\nyused to measuwe the depth of wivews."
 	},
 	{
 		"assign": "15033",
 		"jp_text": "アブソリュートブレード",
-		"tr_text": "Absolute Blade",
+		"tr_text": "Absowute Bwade",
 		"jp_explain": "切り裂くために作られた巨大な両剣。\n二つの刃が交互に襲い来る恐怖は\n他の何物にも例えがたい。",
-		"tr_explain": "A Double Saber with large blades\nthat tears its target apart and\nstrikes fear to the battle-hardened."
+		"tr_explain": "A Doubwe Sabew with wawge bwades\nthat teaws its tawget apawt and\nstwikes feaw to the battwe-hawdenyed."
 	},
 	{
 		"assign": "15034",
 		"jp_text": "ジラソーレ",
-		"tr_text": "Girasole",
+		"tr_text": "Giwasowe",
 		"jp_explain": "陽光に輝く特殊な形をした両剣。\n攻撃した際に描く円の軌跡から\n太陽を愛した花の名を冠する。",
-		"tr_explain": "A Double Saber that glows\nwith sun's rays. It leaves\ncircular trails upon attacking."
+		"tr_explain": "A Doubwe Sabew that gwows\nwith sun's ways. It weaves\nciwcuwaw twaiws upon attacking."
 	},
 	{
 		"assign": "15035",
 		"jp_text": "デモリションコメット",
-		"tr_text": "Demolition Comet",
+		"tr_text": "Demowition Comet",
 		"jp_explain": "無数の刃で敵を切り裂く両剣。\nあらゆる方向から繰り出される斬撃を\nくぐり抜けられる者は存在しない。",
-		"tr_explain": "A weapon that shreds enemies with\ncountless photon blades at each of\nits ends."
+		"tr_explain": "A weapon that shweds enyemies with\ncountwess photon bwades at each of\nyits ends."
 	},
 	{
 		"assign": "15036",
 		"jp_text": "ツインブランド",
-		"tr_text": "Twin Brand",
+		"tr_text": "Twin Bwand",
 		"jp_explain": "手にすることが誉れと言われる両剣。\n鋭く研ぎ澄まされた青いフォトンは\n触れるものをたちどころに切り裂く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15037",
 		"jp_text": "スタッグカットラリ",
-		"tr_text": "Stag Cutlery",
+		"tr_text": "Stag Cutwewy",
 		"jp_explain": "持ち主を選ぶと言われる伝説の両剣。\nその赤い刃は全てを切り裂く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15038",
 		"jp_text": "蒼黒のニョイボウ",
-		"tr_text": "Black King Bar",
+		"tr_text": "Bwack King Baw",
 		"jp_explain": "蒼黒石により力を高められた両剣。\nニョイボウの完成形であり、蔵の中で\n「海の鐘」として安置されていた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15039",
 		"jp_text": "ノイズブローヴァ",
-		"tr_text": "Noise Bullova",
+		"tr_text": "Nyoise Buwwova",
 		"jp_explain": "地下坑道の機械部品で作られた両剣。\nフォトンの不足を特殊な機構で補い\n十分な性能を発揮する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15040",
 		"jp_text": "ルイドブローヴァ",
-		"tr_text": "Ruido Bullova",
+		"tr_text": "Wuido Buwwova",
 		"jp_explain": "地下坑道の機械部品で作られた両剣。\n内震機関によってフォトンを活性させ\nさらなる威力向上を成し遂げている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15041",
 		"jp_text": "ストレイブローヴァ",
-		"tr_text": "Stray Bullova",
+		"tr_text": "Stway Buwwova",
 		"jp_explain": "地下坑道の機械部品で作られた両剣。\n飽和直前までフォトンを流し込み\n武器としてまとめ上げた逸品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15042",
 		"jp_text": "フォシルトリクス",
-		"tr_text": "Fossil Tricks",
+		"tr_text": "Fossiw Twicks",
 		"jp_explain": "遺跡の機構から取得したデータを\n基に作られた両剣。完全再現とは\nいかなかったが十分な性能を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15043",
 		"jp_text": "フォシルバウアー",
-		"tr_text": "Fossil Bower",
+		"tr_text": "Fossiw Bowew",
 		"jp_explain": "遺跡の機構から取得したデータを\n再現して作られた両剣。性能こそ\nデータに劣るが、扱いやすい逸品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15044",
 		"jp_text": "フォシルヴィクター",
-		"tr_text": "Fossil Victor",
+		"tr_text": "Fossiw Victow",
 		"jp_explain": "遺跡の機構から見つかったデータを\n基に当時の再現を目指した両剣。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15046",
 		"jp_text": "エクセランブレード",
-		"tr_text": "Excelan Blade",
+		"tr_text": "Excewan Bwade",
 		"jp_explain": "ビッグヴァーダーの駆動部品を流用し\n巨大で強靱な両剣を作り上げた。\n問答無用とばかりの破壊力を誇る。",
-		"tr_explain": "A weapon formed from parts of Big\nVardha. Tough and huge, it holds\ndestructive power."
+		"tr_explain": "A weapon fowmed fwom pawts of Big\nVawdha. Tough and huge, it howds\ndestwuctive powew."
 	},
 	{
 		"assign": "15047",
 		"jp_text": "キングダムブレード",
-		"tr_text": "Kingdom Blade",
+		"tr_text": "Kingdom Bwade",
 		"jp_explain": "キングヴァーダーの駆動部品を流用し\n強大で頑丈な両剣を作り上げた。\n無茶苦茶なまでの破壊力を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15048",
 		"jp_text": "バベラスツインズ",
-		"tr_text": "Babelas Twins",
+		"tr_text": "Babewas Twins",
 		"jp_explain": "猛々しい野生を感じさせる両剣。\n吸った血の色を帯びているかのような\n色合いの鋭い刀身が特徴。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15049",
 		"jp_text": "クォーツカリバー",
-		"tr_text": "Quartz Calibur",
+		"tr_text": "Quawtz Cawibuw",
 		"jp_explain": "破損し放棄されたクォーツ・ドラゴンの\n結晶部を回収し、作り上げられた両剣。\n輝きに見合うだけの性能を持つ。",
-		"tr_explain": "A Double Saber made from retrieved\nfragments of Quartz Dragon. It is as\ndeadly as it is sparkly."
+		"tr_explain": "A Doubwe Sabew made fwom wetwieved\nfwagments of Quawtz Dwagon. It is as\ndeadwy as it is spawkwy."
 	},
 	{
 		"assign": "15050",
 		"jp_text": "クリスカリバー",
-		"tr_text": "Crys Calibur",
+		"tr_text": "Cwys Cawibuw",
 		"jp_explain": "破損し放棄されたクリス・ドラールの\n結晶部を回収し、作り上げられた両剣。\n煌めきに相応しい性能を持つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15051",
 		"jp_text": "スキアブレード",
-		"tr_text": "Skia Blade",
+		"tr_text": "Skia Bwade",
 		"jp_explain": "特徴的なフォルムをもつ両剣。圧倒的な\n攻撃力を誇り、デューマンの遺伝子と\n感応し秘められた力を解放する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15053",
 		"jp_text": "クロノスケィス／ナハト",
-		"tr_text": "Chronos Scythe / Nacht",
+		"tr_text": "Chwonyos Scythe / Nyacht",
 		"jp_explain": "闇夜の色を抱く両剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15055",
 		"jp_text": "双蓮華",
-		"tr_text": "Sourenge",
+		"tr_text": "Souwenge",
 		"jp_explain": "魂を込めて冶金された逆刃の剣を\n対にしてつなぎあわせた両剣。\n舞うたびに血の華が散るゆえの銘。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15056",
 		"jp_text": "フラメイカルス",
-		"tr_text": "Flamme Icarus",
+		"tr_text": "Fwamme Icawus",
 		"jp_explain": "燃え盛る炎を翼に見立て、その羽の\n一つ一つを刃とした特殊な両剣。\n戦う姿はまるで羽ばたきのよう。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15059",
 		"jp_text": "グワナーダブル",
-		"tr_text": "Gwanah Double",
+		"tr_text": "Gwanyah Doubwe",
 		"jp_explain": "グワナーダの顎で作られた両剣。\n強度と切れ味に優れた素材のため\n加工なしでも使えるほど性能が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15060",
 		"jp_text": "Ｇネロダブル",
-		"tr_text": "G Nero Double",
+		"tr_text": "G Nyewo Doubwe",
 		"jp_explain": "グワナーダ・ネロの顎が用いられた\n両剣。非常に強固で、フォトンの\n伝導率も高く扱いやすいと評判。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15062",
 		"jp_text": "ウルルクレセント",
-		"tr_text": "Uluru Crescent",
+		"tr_text": "Uwuwu Cwescent",
 		"jp_explain": "欠けた天体をモチーフにした両剣。\n日の光を取り込んだような黄金色の\n金属は堅牢不変。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15064",
 		"jp_text": "クセルク",
-		"tr_text": "Xerc",
+		"tr_text": "Xewc",
 		"jp_explain": "可動式の仕掛けが特徴的な両剣。\n環に沿うように刃を装着したことにより\n開閉の動作がスムーズになった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15065",
 		"jp_text": "エンシェントクォーツ",
-		"tr_text": "Ancient Quartz",
+		"tr_text": "Ancient Quawtz",
 		"jp_explain": "式典用に特別に作られた見た目にも\nこだわりのある両剣。類稀なる破壊力を\n秘め存在が危険視されている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15066",
 		"jp_text": "流星棍",
-		"tr_text": "Meteor Cudgel",
+		"tr_text": "Meteow Cudgew",
 		"jp_explain": "両端に備え付けられた鉱石棍が相手に\n多大なダメージを与える両剣。淀みなく\n繰り出される攻撃は流星群のよう。",
-		"tr_explain": "A weapon with crystals on both\nsides that are said to inflict a lot\nof damage."
+		"tr_explain": "A weapon with cwystaws on both\nsides that awe said to infwict a wot\nyof damage."
 	},
 	{
 		"assign": "15067",
@@ -422,77 +422,77 @@
 	{
 		"assign": "15068",
 		"jp_text": "エターナルヒート",
-		"tr_text": "Eternal Heat",
+		"tr_text": "Etewnyaw Heat",
 		"jp_explain": "高圧縮したフォトンで構成された両剣。\n炎のような赤き刀身の軌跡は\n中空を紅蓮の色に染める。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15069",
 		"jp_text": "テンイムソウ",
-		"tr_text": "Tenimusou",
+		"tr_text": "Tenyimusou",
 		"jp_explain": "邪念を吸い取ることで浄化する両剣。\n浄化した邪念のエネルギーを\n自身の力として取り込んでしまう。",
-		"tr_explain": "A weapon that absorbs and purifies\nevil thoughts. The energy is then\nassimilated into its own power."
+		"tr_explain": "A weapon that absowbs and puwifies\nyeviw thoughts. The enyewgy is then\nyassimiwated into its own powew."
 	},
 	{
 		"assign": "15070",
 		"jp_text": "ステルスウェポン：ＤＳ",
-		"tr_text": "Stealth Weapon: DS",
+		"tr_text": "Steawth Weapon: DS",
 		"jp_explain": "認識不能な武器。\n形状はダブルセイバー型。",
-		"tr_explain": "Unknown Weapon.\nSeems to be in the shape of\na Double Saber."
+		"tr_explain": "Unknyown Weapon.\nSeems to be in the shape of\nya Doubwe Sabew."
 	},
 	{
 		"assign": "15071",
 		"jp_text": "赤のダブルセイバー",
-		"tr_text": "Red Double Saber",
+		"tr_text": "Wed Doubwe Sabew",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした両剣。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": "A double saber whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
+		"tr_explain": "A doubwe sabew whose expewimentaw\ncowowing has become iconyic. The\ndazzwing wed catches the eye."
 	},
 	{
 		"assign": "15072",
 		"jp_text": "青のダブルセイバー",
-		"tr_text": "Blue Double Saber",
+		"tr_text": "Bwue Doubwe Sabew",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした両剣。\n目映い青色は必然的に目を引く。",
-		"tr_explain": "A double saber whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
+		"tr_explain": "A doubwe sabew whose expewimentaw\ncowowing has become iconyic. The\ndazzwing bwue catches the eye."
 	},
 	{
 		"assign": "15073",
 		"jp_text": "ナールクレセント",
-		"tr_text": "Narl Crescent",
+		"tr_text": "Nyaww Cwescent",
 		"jp_explain": "欠けた天体をモチーフにした両剣。\n鈍色の刀身は、死者の魂を吸い上げた\nフォトンによって作られているという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15079",
 		"jp_text": "[NPC]ヴィヴィアン",
-		"tr_text": "[NPC]Vivienne",
+		"tr_text": "[NPC]Viviennye",
 		"jp_explain": "■NPC専用",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15082",
 		"jp_text": "ラングリッター",
-		"tr_text": "Langritter",
+		"tr_text": "Wangwittew",
 		"jp_explain": "全てが繋がっている流線型の刃が\n特徴的な両剣。死角のないその斬刃は\n相対する目標を逃さない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15083",
 		"jp_text": "ナズゥリッター",
-		"tr_text": "Nazuritter",
+		"tr_text": "Nyazuwittew",
 		"jp_explain": "一体型の刃が特徴的な両剣。\n舞うように振るわれるその紫色の刃は\n妖艶な軌跡を残し、対象を両断する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15089",
 		"jp_text": "グリセルク",
-		"tr_text": "Gliserc",
+		"tr_text": "Gwisewc",
 		"jp_explain": "可動式の仕掛けが特徴的な両剣。\n技術開発の躍進により、調整が施され\n攻撃性能が底上げされた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15091",
 		"jp_text": "リフリジオン",
-		"tr_text": "Reflexion",
+		"tr_text": "Wefwexion",
 		"jp_explain": "蒸気エネルギーで効能を増幅した両剣。\n戦闘時に無理なく操作できるよう\n計器類が機能的に配置されている。",
 		"tr_explain": ""
 	},
@@ -506,35 +506,35 @@
 	{
 		"assign": "15094",
 		"jp_text": "ライブゼクト",
-		"tr_text": "Live Zect",
+		"tr_text": "Wive Zect",
 		"jp_explain": "最先端の生体工学を応用し開発された\n両剣。高純度培養液が装者との一体化を\n促し、微細な動きまで制御が可能。",
-		"tr_explain": "A double saber made with state-of-\nthe-art bioengineering. Enhanced with\na high-purity culture solution."
+		"tr_explain": "A doubwe sabew made with state-of-\nthe-awt bioenginyeewing. Enhanced with\nya high-puwity cuwtuwe sowution."
 	},
 	{
 		"assign": "15096",
 		"jp_text": "ロゼグラース",
-		"tr_text": "Rose Glacee",
+		"tr_text": "Wose Gwacee",
 		"jp_explain": "もっとかわいく、もっと自由でいたい\nアークスのための両剣。とろけるような\n甘い攻撃はもう誰にも止められない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15097",
 		"jp_text": "パッカーヴォーグ",
-		"tr_text": "Packer Vogue",
+		"tr_text": "Packew Vogue",
 		"jp_explain": "過酷な局地戦に従事するアークスの\nために開発された両剣。薄く軽量ながら\n攻撃力の高いブレードが注目を浴びる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15098",
 		"jp_text": "ウェドルスエッジ",
-		"tr_text": "Weddle's Edge",
+		"tr_text": "Weddwe's Edge",
 		"jp_explain": "威圧的な外観にこだわるキャストが\n好んで使用する両剣。重厚で威圧感を\n漂わせるデザインながら軽量設計。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "15099",
 		"jp_text": "アーレスエッジ",
-		"tr_text": "Ares Edge",
+		"tr_text": "Awes Edge",
 		"jp_explain": "女神の幻獣の力を宿した両剣。装者に\nフォトンブラストの効果で揺るがぬ力を\n与え、超人的な戦闘を実現させる。",
 		"tr_explain": ""
 	},
@@ -548,105 +548,105 @@
 	{
 		"assign": "150109",
 		"jp_text": "ウェドルスエイビー",
-		"tr_text": "Weddle's Abie",
+		"tr_text": "Weddwe's Abie",
 		"jp_explain": "威圧的な外観にこだわるキャストが\n好んで使用する両剣。噴出フォトンが\n鎌のように鋭くすべてを斬り裂く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150110",
 		"jp_text": "スウェルカドル",
-		"tr_text": "Swell Qadr",
+		"tr_text": "Sweww Qadw",
 		"jp_explain": "アークス上層部が企画開発した両剣。\n戦闘時の実用性を最重視し設計された。\n刃の形を不揃いにし、殺傷能力を高めた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150112",
 		"jp_text": "スウェルサルディーン",
-		"tr_text": "Swell Sardine",
+		"tr_text": "Sweww Sawdinye",
 		"jp_explain": "アークス上層部が企画開発した両剣。\nフォトン調整により、総量を減らし\n刃の強度と攻撃力は増加に成功した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150113",
 		"jp_text": "トラムナール",
-		"tr_text": "Tramunal",
+		"tr_text": "Twamunyaw",
 		"jp_explain": "夢を振りまくために開発された両剣。\n細身のフォルムをしているが抜刀すると\n幅広なフォトン刃が解放される。",
-		"tr_explain": "A weapon that was developed to\nspread dreams. It has a slender form,\nwhich releases photons when drawn."
+		"tr_explain": "A weapon that was devewoped to\nspwead dweams. It has a swendew fowm,\nwhich weweases photons when dwawn."
 	},
 	{
 		"assign": "150114",
 		"jp_text": "トラムヘリオス",
-		"tr_text": "Tramhelios",
+		"tr_text": "Twamhewios",
 		"jp_explain": "夢を振りまくために開発された両剣。\nフォトン刃解放時にかかる負荷を軽減し\n安定性を向上させている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150116",
 		"jp_text": "ファーレンディオス",
-		"tr_text": "Fahrendios",
+		"tr_text": "Fahwendios",
 		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた両剣。\nそれは、彼の情熱の結晶。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150119",
 		"jp_text": "ロイラカム",
-		"tr_text": "Loyracam",
+		"tr_text": "Woywacam",
 		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n両剣。高密度のフォトンで出来た刃が\n特徴的。威力は高く、扱いは容易。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150120",
 		"jp_text": "ジョリーラカム",
-		"tr_text": "Jolly Rackam",
+		"tr_text": "Jowwy Wackam",
 		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n両剣。刃に含まれるフォトンの量が増え\n切れ味が大幅に向上した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150122",
 		"jp_text": "フロウジル",
-		"tr_text": "Flowzil",
+		"tr_text": "Fwowziw",
 		"jp_explain": "惑星ウォパルで調達可能な物資のみで\n製造された両剣。流水に似たフォトンで\n覆われており、斬撃に合わせ追尾する。",
-		"tr_explain": "Made from items that are unique to\nWopal. It's coated in photons that\nmimic flowing water every swing."
+		"tr_explain": "Made fwom items that awe unyique to\nWopaw. It's coated in photons that\nmimic fwowing watew evewy swing."
 	},
 	{
 		"assign": "150127",
 		"jp_text": "リリピース",
-		"tr_text": "Lillipiece",
+		"tr_text": "Wiwwipiece",
 		"jp_explain": "リリーパ族のデータを元に設計された\n両剣。リリーパ族の耳をモチーフにした\nブレードとベルトが特徴的。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150130",
 		"jp_text": "ダブル＝カノン／リヒト",
-		"tr_text": "Double Cannon / Licht",
+		"tr_text": "Doubwe Cannyon / Wicht",
 		"jp_explain": "白夜の色を抱く両剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150131",
 		"jp_text": "フォシルカイト",
-		"tr_text": "Fossil Kite",
+		"tr_text": "Fossiw Kite",
 		"jp_explain": "遺跡の機構から見つかったデータを\n再現して作られた両剣。再現精度が\n向上し、オリジナルに近づいた一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150132",
 		"jp_text": "ステミラエル",
-		"tr_text": "Stemirael",
+		"tr_text": "Stemiwaew",
 		"jp_explain": "幾何学的なデザインが目を引く両剣。\n収納時に比較的コンパクトになるため\n移動時の負担が少なく、使用者は多い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150135",
 		"jp_text": "コートダブリスＤ",
-		"tr_text": "Coat Doublis D",
+		"tr_text": "Coat Doubwis D",
 		"jp_explain": "スタンダードなフォルムの両剣。\n黒く禍々しいフォトンコートが\n刀身を包み、比類なき力を発揮する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150136",
 		"jp_text": "コートダブリス",
-		"tr_text": "Coat Doublis",
+		"tr_text": "Coat Doubwis",
 		"jp_explain": "スタンダードなフォルムの両剣。\n薄いフォトンコートが刀身を包むことで\n実体剣以上の威力を発揮する。",
 		"tr_explain": ""
 	},
@@ -667,16 +667,16 @@
 	{
 		"assign": "150146",
 		"jp_text": "ネメシスセイバー",
-		"tr_text": "Nemesis Saber",
+		"tr_text": "Nyemesis Sabew",
 		"jp_explain": "古の時代に封印された聖なる両剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "150147",
 		"jp_text": "スレイヴセイバー",
-		"tr_text": "Slave Saber",
+		"tr_text": "Swave Sabew",
 		"jp_explain": "古の時代に封印された邪なる両剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "150148",
@@ -688,65 +688,65 @@
 	{
 		"assign": "150151",
 		"jp_text": "夜双輪",
-		"tr_text": "Yasourin",
+		"tr_text": "Yasouwin",
 		"jp_explain": "満開の夜桜が丁寧に描かれた芸術的な\n両剣。桜の花びらが舞ったその時\n標的は切り伏せられているという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150159",
 		"jp_text": "イデアルラファール",
-		"tr_text": "Ideal Rafale",
+		"tr_text": "Ideaw Wafawe",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した両剣。発せられる\nフォトンの輝きは次代の証とされる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150167",
 		"jp_text": "ノクスカディナ",
-		"tr_text": "Nox Cadina",
+		"tr_text": "Nyox Cadinya",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き両剣。\n装者も畏怖するほどの力を宿している。",
-		"tr_explain": "A black double saber produced in an\nillicit ritual. The sheer power it holds\nterrifies even its wielder."
+		"tr_explain": "A bwack doubwe sabew pwoduced in an\nyiwwicit wituaw. The sheew powew it howds\ntewwifies even its wiewdew."
 	},
 	{
 		"assign": "150169",
 		"jp_text": "カディナアリオン",
-		"tr_text": "Cadina Arion",
+		"tr_text": "Cadinya Awion",
 		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の両剣。装者の感情を\n力にするといわれ、凄まじい力を宿す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150175",
 		"jp_text": "ゲイルヴィスナー",
-		"tr_text": "Gale Vishner",
+		"tr_text": "Gawe Vishnyew",
 		"jp_explain": "大気の力を宿すといわれる両剣。\n澄んだガラスのような姿は美麗だが\nまとった風雷の力は凄まじく強い。",
-		"tr_explain": "A Double Saber said to posses\nthe power of the wind and air.\nPowerful gusts cover its glass look."
+		"tr_explain": "A Doubwe Sabew said to posses\nthe powew of the wind and aiw.\nPowewfuw gusts cuvw its gwass wook."
 	},
 	{
 		"assign": "150176",
 		"jp_text": "ゲイルフェブリス",
-		"tr_text": "Gale Febris",
+		"tr_text": "Gawe Febwis",
 		"jp_explain": "大気の力を宿すといわれる両剣。\n夜闇のような刀身と赤い雷は禍々しく\n圧倒的な威力をもって敵を倒す。",
-		"tr_explain": "A Double Saber that contains\nthe power of the Wind. Its user\nis overwhelmed by a thirst for killing."
+		"tr_explain": "A Doubwe Sabew that contains\nthe powew of the Wind. Its usew\nyis uvwwhewmed by a thiwst fow kiwwing."
 	},
 	{
 		"assign": "150187",
 		"jp_text": "ギクスゼルブラン",
-		"tr_text": "Gix Zelvran",
+		"tr_text": "Gix Zewvwan",
 		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した両剣。装者の精神とリンクし\n集中するほどに切れ味を増す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150190",
 		"jp_text": "バジリスイクジリオン",
-		"tr_text": "Basilis Equilion",
+		"tr_text": "Basiwis Equiwion",
 		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n両剣。複雑な形状をした刃を持つ。\n軽量ながらも高威力で、性能は良い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150192",
 		"jp_text": "フォルニスゲノン",
-		"tr_text": "Fornis Gennon",
+		"tr_text": "Fownyis Gennyon",
 		"jp_explain": "異なる力を宿した恐るべき両剣。\n扱いは困難を極めるが、その威力たるや\n圧倒的で、斬れぬものはないとされる。",
-		"tr_explain": "A fearsome double saber bearing\ntwin powers. Difficult to handle, but\nthere is nothing it cannot cut."
+		"tr_explain": "A feawsome doubwe sabew beawing\ntwin powews. Difficuwt to handwe, but\nthewe is nyothing it cannyot cut."
 	},
 	{
 		"assign": "150195",
@@ -758,42 +758,42 @@
 	{
 		"assign": "150196",
 		"jp_text": "オフスティアエッジ",
-		"tr_text": "Austere Edge",
+		"tr_text": "Austewe Edge",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の両剣。装者は己に打ち克ち\n強き勇士へと昇華し、悪辣者を葬る。",
-		"tr_explain": "A purified Double Saber. It's said that\nit sublimates the user, allowing one to\nbanish evil to oblivion."
+		"tr_explain": "A puwified Doubwe Sabew. It's said that\nyit subwimates the usew, awwowing onye to\nbanyish eviw to obwivion."
 	},
 	{
 		"assign": "150199",
 		"jp_text": "サクバトス",
 		"tr_text": "Sackbuts",
 		"jp_explain": "音楽をこよなく愛するアークスが企画し\n開発した両剣。ユーモアあるデザインと\n意外な威力で人気だが、扱いは難しい。",
-		"tr_explain": "A Double Saber designed by\na music lover. Its humorous design\nmakes it a popular choice."
+		"tr_explain": "A Doubwe Sabew designyed by\nya music wuvw. Its humowous design\nmakes it a popuwaw choice."
 	},
 	{
 		"assign": "150202",
 		"jp_text": "セイガーブレード",
-		"tr_text": "Seiga Blade",
+		"tr_text": "Seiga Bwade",
 		"jp_explain": "世界征服を企む悪の組織と戦うために\n作られた両剣。セイガーサーベルの\nジョイントを接続することで変形する！",
-		"tr_explain": "A Double Saber designed to\nfight evil. It can change form\n via its Seiga Saber Joint!"
+		"tr_explain": "A Doubwe Sabew designyed to\nfight eviw. It can change fowm\n via its Seiga Sabew Joint >w< "
 	},
 	{
 		"assign": "150203",
 		"jp_text": "セイカイザーブレード",
-		"tr_text": "Seikaiser Blade",
+		"tr_text": "Seikaisew Bwade",
 		"jp_explain": "戦力を増強した悪の組織に対抗するため\n新たに開発された両剣。合体時の\nエネルギーはセイガーの倍以上を誇る！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150211",
 		"jp_text": "ストームレボルシオ",
-		"tr_text": "Storm Revolucio",
+		"tr_text": "Stowm Wevowucio",
 		"jp_explain": "新開発の演算装置を搭載した両剣。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150214",
 		"jp_text": "リグイザント",
-		"tr_text": "Rig Izanto",
+		"tr_text": "Wig Izanto",
 		"jp_explain": "伝説の生物を機械的に再現した両剣。\n頭部を模したパーツが四つの刃を支え\n安定した刃は斬撃を発揮する。",
 		"tr_explain": ""
 	},
@@ -807,301 +807,301 @@
 	{
 		"assign": "150223",
 		"jp_text": "イヴリダキジャル",
-		"tr_text": "Evleda Kijal",
+		"tr_text": "Evweda Kijaw",
 		"jp_explain": "古に封印されし冥夜の両剣。\n忌むべき闇の翼は汝の血肉で以って\n戒め断ちて、静寂なる世を創らん。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150224",
 		"jp_text": "クリシスキジャル",
-		"tr_text": "Cleasis Kijal",
+		"tr_text": "Cweasis Kijaw",
 		"jp_explain": "古に封印されし冥夜の両剣。\n剛勇なる闘士を喰らいし邪なる翼は\n魂と結ばれし時、強大な力を手にせん。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150225",
 		"jp_text": "シュベルキジャル",
-		"tr_text": "Schvelle Kijal",
+		"tr_text": "Schvewwe Kijaw",
 		"jp_explain": "古に封印されし冥夜の両剣。\n現世に蘇りし闇は冷酷な翼となり\n生きし者全て斬り捨て、永久を築く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150230",
 		"jp_text": "ロギュールオービット",
-		"tr_text": "Roguele Orbit",
+		"tr_text": "Woguewe Owbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n両剣。展開された部品が合体し\n闇に輝く天の星が如き武具となる。",
-		"tr_explain": "A Double Saber with a Photon Ring\nDevice. The expanded parts form a\nstar that shines through darkness."
+		"tr_explain": "A Doubwe Sabew with a Photon Wing\nDevice. The expanded pawts fowm a\nstaw that shinyes thwough dawknyess."
 	},
 	{
 		"assign": "150233",
 		"jp_text": "レイＤセイバー",
-		"tr_text": "Ray Double Saber",
+		"tr_text": "Way Doubwe Sabew",
 		"jp_explain": "次世代の主力として開発された両剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-		"tr_explain": "A weapon that was developed as the\nlatest model, boasting high photon\nstability with next-gen specifications."
+		"tr_explain": "A weapon that was devewoped as the\nwatest modew, boasting high photon\nstabiwity with nyext-gen specifications."
 	},
 	{
 		"assign": "150234",
 		"jp_text": "ユニオンＤセイバー",
-		"tr_text": "Union Double Saber",
+		"tr_text": "Unyion Doubwe Sabew",
 		"jp_explain": "次世代の主力として開発された両剣。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "A weapon developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "A weapon devewoped as the watest\nmodew. Augmented with boost pawts,\nyits pewfowmance exceed its wimits."
 	},
 	{
 		"assign": "150235",
 		"jp_text": "ゼイネシスヴァーペン",
-		"tr_text": "Zeinesis Vapen",
+		"tr_text": "Zeinyesis Vapen",
 		"jp_explain": "幻創の主より生まれた大樹の両剣。\n己を知り、役割を全うしている者に\n勝利と完成された未来をもたらす。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150236",
 		"jp_text": "ダブルセイバー-NT",
-		"tr_text": "Double Saber-NT",
+		"tr_text": "Doubwe Sabew-NT",
 		"jp_explain": "アークスで正式採用されている両剣。\n徹底した軽量化により操作性に優れ\n初心者に扱いやすい入門用モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150237",
 		"jp_text": "アルバＤセイバー-NT",
-		"tr_text": "Alva D. Saber-NT",
+		"tr_text": "Awva D. Sabew-NT",
 		"jp_explain": "アークスで使用される改良型両剣。\n軽量化と使いやすさをそのままに\nリーチを長くし攻撃範囲を広げた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150238",
 		"jp_text": "ヴィタＤセイバー-NT",
-		"tr_text": "Vita D. Saber-NT",
+		"tr_text": "Vita D. Sabew-NT",
 		"jp_explain": "基礎モデルに改良を加えた両剣。\nリーチの長さに加え、フォトン固着率を\n上げることで攻撃力も増強している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150239",
 		"jp_text": "ダブルレイピア-NT",
-		"tr_text": "Double Rapier-NT",
+		"tr_text": "Doubwe Wapiew-NT",
 		"jp_explain": "刃が全体に広がる特殊形状の両剣。\n柄と刃の一体化というコンセプトを基に\n開発されたが、一般への認知度が低い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150240",
 		"jp_text": "アルバＤレイピア-NT",
-		"tr_text": "Alva D. Rapier-NT",
+		"tr_text": "Awva D. Wapiew-NT",
 		"jp_explain": "柄と刃が一体の特殊両剣の改良型。\nリーチが短い基礎モデルの難点を克服し\n熟練者ほど扱いやすいと言われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150241",
 		"jp_text": "ヴィタＤレイピア-NT",
-		"tr_text": "Vita D. Rapier-NT",
+		"tr_text": "Vita D. Wapiew-NT",
 		"jp_explain": "柄と刃が一体の特殊両剣の大型モデル。\nリーチが長く、高性能と使いやすさを\n両立させた入手困難な人気モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150242",
 		"jp_text": "ダブルグラディウス-NT",
-		"tr_text": "Double Gladius-NT",
+		"tr_text": "Doubwe Gwadius-NT",
 		"jp_explain": "形状の異なる刃を組み合わせた両剣。\n突き刺し性能と裁断性能の両方を\n追求した実験モデルで、評価が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150243",
 		"jp_text": "アルバＤグラディウス-NT",
-		"tr_text": "Alva D. Gladius-NT",
+		"tr_text": "Awva D. Gwadius-NT",
 		"jp_explain": "特殊形状の両剣の改良型。\nアークスの要望にこたえ大型の刃を\n採用し、攻撃性能を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150244",
 		"jp_text": "ヴィタＤグラディウス-NT",
-		"tr_text": "Vita D. Gladius-NT",
+		"tr_text": "Vita D. Gwadius-NT",
 		"jp_explain": "特殊形状の両剣の大型モデル。\n細い柄にかかる負荷ぎりぎりまで\n刃を大型化させたが、操作が難しい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150245",
 		"jp_text": "スピルティア-NT",
-		"tr_text": "Spirtia-NT",
+		"tr_text": "Spiwtia-NT",
 		"jp_explain": "突き出た四本刃が特徴的な両剣。\nのこぎりのように標的を深く裁断するが\n慣れないと刃こぼれさせやすい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150246",
 		"jp_text": "フェイルノート-NT",
-		"tr_text": "Failnaught-NT",
+		"tr_text": "Faiwnyaught-NT",
 		"jp_explain": "なだらかな弓状の刃を持つ両剣。\n反り返った刃によって振り抜くのに\n抵抗が少なく、扱いやすいと評判。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150247",
 		"jp_text": "ディオフェイルノート-NT",
-		"tr_text": "Dio Failnaught-NT",
+		"tr_text": "Dio Faiwnyaught-NT",
 		"jp_explain": "なだらかな弓状の刃を持つ両剣。\n刃部分の出力を強化、威力を底上げし\n性能を強化した特化型モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150248",
 		"jp_text": "迅雷-NT",
-		"tr_text": "Jinrai-NT",
+		"tr_text": "Jinwai-NT",
 		"jp_explain": "雷の如き攻撃速度で敵を切り裂く両剣。\n装者にも持つに足るだけの速さを求め\n不相応な者は手にすることも出来ない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150249",
 		"jp_text": "ラングリッター-NT",
-		"tr_text": "Langritter-NT",
+		"tr_text": "Wangwittew-NT",
 		"jp_explain": "全てが繋がっている流線型の刃が\n特徴的な両剣。死角のないその斬刃は\n相対する目標を逃さない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150250",
 		"jp_text": "アブソリュートブレード-NT",
-		"tr_text": "Absolute Blade-NT",
+		"tr_text": "Absowute Bwade-NT",
 		"jp_explain": "切り裂くために作られた巨大な両剣。\n二つの刃が交互に襲い来る恐怖は\n他の何物にも例えがたい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150251",
 		"jp_text": "ノクスカディナ-NT",
-		"tr_text": "Nox Cadina-NT",
+		"tr_text": "Nyox Cadinya-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き両剣。\n装者も畏怖するほどの力を宿している。",
-		"tr_explain": "A black double saber produced in an\nillicit ritual. The sheer power it holds\nterrifies even its wielder."
+		"tr_explain": "A bwack doubwe sabew pwoduced in an\nyiwwicit wituaw. The sheew powew it howds\ntewwifies even its wiewdew."
 	},
 	{
 		"assign": "150252",
-		"jp_text": "クォーツカリバーVer2",
-		"tr_text": "Quartz Calibur Ver2",
+		"jp_text": "クォーツカリバーVew2",
+		"tr_text": "Quawtz Cawibuw Vew2",
 		"jp_explain": "破損し放棄されたクォーツ・ドラゴンの\n結晶部を回収し、作り上げられた両剣。\n輝きに見合うだけの性能を持つ。",
-		"tr_explain": "A Double Saber made from retrieved\nfragments of Quartz Dragon. It is as\ndeadly as it is sparkly."
+		"tr_explain": "A Doubwe Sabew made fwom wetwieved\nfwagments of Quawtz Dwagon. It is as\ndeadwy as it is spawkwy."
 	},
 	{
 		"assign": "150253",
 		"jp_text": "クリファドヴァーペン",
-		"tr_text": "Qliphad Vapen",
+		"tr_text": "Qwiphad Vapen",
 		"jp_explain": "理から外れ虚無と化した大樹の両剣。\n闇に染まり、自我を消した装者は\n世界を暗夜で包もうと猛進する。",
-		"tr_explain": "A Double Saber from Yggdrasil.\nCorrupts the wielder to plunge the\nworld into an engulfing darkness."
+		"tr_explain": "A Doubwe Sabew fwom Yggdwasiw.\nCowwupts the wiewdew to pwunge the\nwowwd into an enguwfing dawknyess."
 	},
 	{
 		"assign": "150257",
 		"jp_text": "双霜華",
 		"tr_text": "Sou Souka",
 		"jp_explain": "絶対零度の冷気を放つ鉱石が用いられた\n両剣。冷気が生み出す雪の華は\n吹雪と化し、対象を葬り去る。",
-		"tr_explain": "A Double Saber forged of crystals at\ntemperature of absolute zero. Bury\nyour foes alive under a tide of snow."
+		"tr_explain": "A Doubwe Sabew fowged of cwystaws at\ntempewatuwe of absowute zewo. Buwy\nyouw foes awive undew a tide of snyow."
 	},
 	{
 		"assign": "150258",
 		"jp_text": "クレアダブルス",
-		"tr_text": "Crea Doubles",
+		"tr_text": "Cwea Doubwes",
 		"jp_explain": "伝説のフォトンウェポンを再現した\n高級カスタムモデルの両剣。\n長い刃は扱いづらいが、威力は壮絶。",
-		"tr_explain": "Legendary custom Double Saber.\nIts long blades are difficult to control,\nbut their power is amazing."
+		"tr_explain": "Wegendawy custom Doubwe Sabew.\nIts wong bwades awe difficuwt to contwow,\nbut theiw powew is amazing."
 	},
 	{
 		"assign": "150264",
 		"jp_text": "オーガキャッツ流星棍",
-		"tr_text": "Orga Cats Meteor Cudgel",
+		"tr_text": "Owga Cats Meteow Cudgew",
 		"jp_explain": "オーガキャッツ流星棍",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150265",
 		"jp_text": "流星棍-NT",
-		"tr_text": "Meteor Cudgel-NT",
+		"tr_text": "Meteow Cudgew-NT",
 		"jp_explain": "両端に備え付けられた鉱石棍が相手に\n多大なダメージを与える両剣。淀みなく\n繰り出される攻撃は流星群のよう。",
-		"tr_explain": "A weapon with crystals on both\nsides that are said to inflict a lot\nof damage."
+		"tr_explain": "A weapon with cwystaws on both\nsides that awe said to infwict a wot\nyof damage."
 	},
 	{
 		"assign": "150266",
 		"jp_text": "クセルク-NT",
-		"tr_text": "Xerc-NT",
+		"tr_text": "Xewc-NT",
 		"jp_explain": "可動式の仕掛けが特徴的な両剣。\n環に沿うように刃を装着したことにより\n開閉の動作がスムーズになった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150267",
 		"jp_text": "グリセルク-NT",
-		"tr_text": "Gliserc-NT",
+		"tr_text": "Gwisewc-NT",
 		"jp_explain": "可動式の仕掛けが特徴的な両剣。\n技術開発の躍進により、調整が施され\n攻撃性能が底上げされた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150268",
 		"jp_text": "アストラディレン",
-		"tr_text": "Astra Diren",
+		"tr_text": "Astwa Diwen",
 		"jp_explain": "マザーの残滓たる、幻創の両剣。\n秩序あるもの全てを、この刃で\n掻き乱したいという衝動に駆られる。",
-		"tr_explain": "A Phantom double saber imbued with\nMother's power. It is fuelled by a\nderanged need to spread chaos."
+		"tr_explain": "A Phantom doubwe sabew imbued with\nMothew's powew. It is fuewwed by a\ndewanged nyeed to spwead chaos."
 	},
 	{
 		"assign": "150274",
 		"jp_text": "ヴィヴィアン",
-		"tr_text": "Vivienne",
+		"tr_text": "Viviennye",
 		"jp_explain": "ヴィヴィアンのために復元された両剣。\n可憐ながらも十分な性能を持つ。\nヴィヴィアン当人もお気に入り。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150288",
 		"jp_text": "クヴェレスカーレット",
-		"tr_text": "Quelle Scarlette",
+		"tr_text": "Quewwe Scawwette",
 		"jp_explain": "自然現象が形になったという両剣。\n鋭い刃から放たれる苛烈な炎は\n標的へと襲いかかり焼き尽くす。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150299",
 		"jp_text": "バルヴィーレ",
-		"tr_text": "Val Vire",
+		"tr_text": "Vaw Viwe",
 		"jp_explain": "過去に戦場となった地域から発掘された\n両剣。刀身がほぼ残っておらず\n刃物としての活躍には期待できない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150300",
 		"jp_text": "アトラヴィーレ",
-		"tr_text": "Atra Vire",
+		"tr_text": "OwO Wats Dis UwU",
 		"jp_explain": "過去に戦場となった地域から発掘された\n両剣。研究が進んだことで、装飾も\n含めて破損前の状態に修復された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150302",
 		"jp_text": "ヴェルンドクラレ",
-		"tr_text": "Verund Claray",
+		"tr_text": "Vewund Cwaway",
 		"jp_explain": "ヴェルンの兵士が標準使用する両剣。\n特別な手法で作られた反りのある刃は\nかぎ爪の様に敵を捉え、引き裂く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150310",
 		"jp_text": "Ｄセイバーレガシー-NT",
-		"tr_text": "D. Saber Legacy-NT",
+		"tr_text": "D. Sabew Wegacy-NT",
 		"jp_explain": "高い性能を持った両剣。\n柄の両端に純フォトンの刃を持つ。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150311",
 		"jp_text": "デモリションコメット-NT",
-		"tr_text": "Demolition Comet-NT",
+		"tr_text": "Demowition Comet-NT",
 		"jp_explain": "無数の刃で敵を切り裂く両剣。\nあらゆる方向から繰り出される斬撃を\nくぐり抜けられる者は存在しない。",
-		"tr_explain": "A weapon that shreds enemies with\ncountless photon blades at each of\nits ends."
+		"tr_explain": "A weapon that shweds enyemies with\ncountwess photon bwades at each of\nyits ends."
 	},
 	{
 		"assign": "150312",
 		"jp_text": "ディトネションフェル",
-		"tr_text": "Detonation Fell",
+		"tr_text": "Detonyation Feww",
 		"jp_explain": "ダーカー因子によって変貌を遂げた\n両剣。人知を超えた禍々しき力は\n闘争心を呼び起こし、遮る者を断つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "150336",
 		"jp_text": "ネメシスセイバー-NT",
-		"tr_text": "Nemesis Saber-NT",
+		"tr_text": "Nyemesis Sabew-NT",
 		"jp_explain": "古の時代に封印された聖なる両剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "150337",
 		"jp_text": "スレイヴセイバー-NT",
-		"tr_text": "Slave Saber-NT",
+		"tr_text": "Swave Sabew-NT",
 		"jp_explain": "古の時代に封印された邪なる両剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "150338",
 		"jp_text": "双蓮華-NT",
-		"tr_text": "Sourenge-NT",
+		"tr_text": "Souwenge-NT",
 		"jp_explain": "魂を込めて冶金された逆刃の剣を\n対にしてつなぎあわせた両剣。\n舞うたびに血の華が散るゆえの銘。",
 		"tr_explain": ""
 	},

@@ -4,21 +4,21 @@
 		"jp_text": "タクト",
 		"tr_text": "Takt",
 		"jp_explain": "アークスで正式採用されている奏具。\n基本性能を揃えたスタンダードモデル。\n広く普及しており、愛用されている。",
-		"tr_explain": "A taktstock that was adopted by\nARKS. Although widespread, it has\nbecome a fan favorite."
+		"tr_explain": "A taktstock that was adopted by\nAWKS. Awthough widespwead, it has\nbecome a fan favowite."
 	},
 	{
 		"assign": "11802",
 		"jp_text": "ブルータクト",
-		"tr_text": "Blue Takt",
+		"tr_text": "Bwue Takt",
 		"jp_explain": "アークスで正式採用されている奏具。\n穏やかで凪いだ海を思わせる\n静かな青色を使用している。",
-		"tr_explain": "A taktstock that was adopted by\nARKS. Its blue colour is reminiscent\nof the calm blue sea."
+		"tr_explain": "A taktstock that was adopted by\nAWKS. Its bwue cowouw is weminyiscent\nyof the cawm bwue sea."
 	},
 	{
 		"assign": "11806",
 		"jp_text": "パープルタクト",
-		"tr_text": "Purple Takt",
+		"tr_text": "Puwpwe Takt",
 		"jp_explain": "アークスで正式採用されている奏具。\nどこか高貴な印象を与える\nエレガントな紫色を使用している。",
-		"tr_explain": "A taktstock that was adopted by\nARKS. Its purple colour gives an\nimpression of nobility."
+		"tr_explain": "A taktstock that was adopted by\nAWKS. Its puwpwe cowouw gives an\nyimpwession of nyobiwity."
 	},
 	{
 		"assign": "11807",
@@ -30,42 +30,42 @@
 	{
 		"assign": "118016",
 		"jp_text": "タクトレボルシオ",
-		"tr_text": "Takt Revolucio",
+		"tr_text": "Takt Wevowucio",
 		"jp_explain": "新開発の演算装置を搭載した奏具。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
-		"tr_explain": "A Takt with a newly developed\ncomputing device. It scans tactical\ndata for optimal user efficiency."
+		"tr_explain": "A Takt with a nyewwy devewoped\ncomputing device. It scans tacticaw\ndata fow optimaw usew efficiency."
 	},
 	{
 		"assign": "118031",
 		"jp_text": "ネメシスバール-NT",
-		"tr_text": "Nemesis Bar-NT",
+		"tr_text": "Nyemesis Baw-NT",
 		"jp_explain": "古の時代に封印された聖なる奏具。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "118032",
 		"jp_text": "スレイヴバール-NT",
-		"tr_text": "Slave Bar-NT",
+		"tr_text": "Swave Baw-NT",
 		"jp_explain": "古の時代に封印された邪なる奏具。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "118034",
 		"jp_text": "ローズスキュア",
-		"tr_text": "Rose Skewer",
+		"tr_text": "Wose Skewew",
 		"jp_explain": "家事をするメイドが好んで使う奏具。\n美しくもトゲを持つバラの装飾が\n忠実な乙女心を華麗に演出する。",
-		"tr_explain": "Popular with Maids, this Takt is made\nwith gorgeous rose thorns which can\nstage a girl's heart with devotion."
+		"tr_explain": "Popuwaw with Maids, this Takt is made\nwith gowgeous wose thowns which can\nstage a giww's heawt with devotion."
 	},
 	{
 		"assign": "118040",
 		"jp_text": "ゼイネシスピック",
-		"tr_text": "Zeinesis Pick",
+		"tr_text": "Zeinyesis Pick",
 		"jp_explain": "幻創の主より生まれた大樹の奏具。\n怯えず焦らず危機と対峙した時\n道は開かれ、調和と平穏を得る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "118041",
 		"jp_text": "クリファドピック",
-		"tr_text": "Qliphad Pick",
+		"tr_text": "Qwiphad Pick",
 		"jp_explain": "理から外れ虚無と化した大樹の奏具。\n装者は無秩序を美徳とし、狂乱に耽け\n更なる狂宴を奏でるべく使者を放つ。",
 		"tr_explain": ""
 	},
@@ -74,40 +74,40 @@
 		"jp_text": "タクト-NT",
 		"tr_text": "Takt-NT",
 		"jp_explain": "アークスで正式採用されている奏具。\n基本性能を揃えたスタンダードモデル。\n広く普及しており、愛用されている。",
-		"tr_explain": "A taktstock that was adopted by\nARKS. A standard model that has\nbecome a widely used favorite."
+		"tr_explain": "A taktstock that was adopted by\nAWKS. A standawd modew that has\nbecome a widewy used favowite."
 	},
 	{
 		"assign": "118043",
 		"jp_text": "リュクロス・スタッフ",
-		"tr_text": "Rykros Staff",
+		"tr_text": "Wykwos Staff",
 		"jp_explain": "とある惑星を見下ろす奏具。その目に\n見つめられたものは視えない力に\n捕縛され、終焉を待つのみとなる。",
-		"tr_explain": "A taktstock that watches a planet.\nWhat it gazes upon becomes locked\nin time, waiting for its inevitable end."
+		"tr_explain": "A taktstock that watches a pwanyet.\nWhat it gazes upon becomes wocked\nyin time, waiting fow its inyevitabwe end."
 	},
 	{
 		"assign": "118044",
 		"jp_text": "幽揮風",
 		"tr_text": "Yuki Kaze",
 		"jp_explain": "雪の精霊の加護がかかっているという\n奏具。雪の精霊の力か、振れば\n氷が華の形となって舞い散る。",
-		"tr_explain": "A taktstock blessed by a snow spirit.\nThe snow spirit's power scatters ice\nlike flowers with every swing."
+		"tr_explain": "A taktstock bwessed by a snyow spiwit.\nThe snyow spiwit's powew scattews ice\nwike fwowews with evewy swing."
 	},
 	{
 		"assign": "118045",
 		"jp_text": "イヴリダアンクス",
-		"tr_text": "Evleda Anhks",
+		"tr_text": "Evweda Anhks",
 		"jp_explain": "古に封印されし冥夜の奏具。\n絶たれし闇の旋律は汝の血肉を贄とし\n戒め壊して、暗黒の世を奏でる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "118046",
 		"jp_text": "クリシスアンクス",
-		"tr_text": "Cleasis Anhks",
+		"tr_text": "Cweasis Anhks",
 		"jp_explain": "古に封印されし冥夜の奏具。\n廉正なる奏者を魅了せし禁忌の旋律は\n魂と繋がりし時、滅亡の音を響かせん。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "118047",
 		"jp_text": "シュベルアンクス",
-		"tr_text": "Schvelle Anhks",
+		"tr_text": "Schvewwe Anhks",
 		"jp_explain": "古に封印されし冥夜の奏具。\n現世に目覚めし闇は魅惑の旋律となり\n生命を惑わし、全てを無へと導く。",
 		"tr_explain": ""
 	}

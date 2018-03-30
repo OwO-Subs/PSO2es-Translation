@@ -2,84 +2,84 @@
 	{
 		"assign": "1400",
 		"jp_text": "ツインダガー",
-		"tr_text": "Twin Dagger",
+		"tr_text": "Twin Daggew",
 		"jp_explain": "アークスで正式採用されている双小剣。\n体格に関係なく扱いやすい軽量小型で\n長時間の使用でも疲れにくい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1401",
 		"jp_text": "アルバＴダガー",
-		"tr_text": "Alva Twin Dagger",
+		"tr_text": "Awva Twin Daggew",
 		"jp_explain": "アークスで使用される改良型双小剣。\n基礎モデルと組成・構成は同じで\n攻撃力を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1402",
 		"jp_text": "ヴィタＴダガー",
-		"tr_text": "Vita Twin Dagger",
+		"tr_text": "Vita Twin Daggew",
 		"jp_explain": "基礎モデルに改良を加えた双小剣。\nわずかなサイズアップで、攻撃力を\n大きく向上させることに成功している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1403",
 		"jp_text": "ツインナイフ",
-		"tr_text": "Twin Knife",
+		"tr_text": "Twin Knyife",
 		"jp_explain": "アークスで正式採用されている双小剣。\n柄を強く握れるよう工夫された形状は\n熟練のファイターに評価が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1404",
 		"jp_text": "アルバＴナイフ",
-		"tr_text": "Alva Twin Knife",
+		"tr_text": "Awva Twin Knyife",
 		"jp_explain": "アークスで使用される改良型双小剣。\n柄の握りやすさをそのままに刃渡りを\n伸張した攻撃力の高いモデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1405",
 		"jp_text": "ヴィタＴナイフ",
-		"tr_text": "Vita Twin Knife",
+		"tr_text": "Vita Twin Knyife",
 		"jp_explain": "基礎モデルに改良を加えた双小剣。\n大型化と、さらなる刃渡りの伸張で\n圧倒的な攻撃力を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1406",
 		"jp_text": "ツインリッパー",
-		"tr_text": "Twin Ripper",
+		"tr_text": "Twin Wippew",
 		"jp_explain": "アークスで試験採用されている双小剣。\n刃部分をコンパクトにまとめ、攻撃時の\n抵抗を減らした扱いやすいモデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1407",
 		"jp_text": "アルバＴリッパー",
-		"tr_text": "Alva Twin Ripper",
+		"tr_text": "Awva Twin Wippew",
 		"jp_explain": "試験採用中の双小剣を改良したもの。\n威力の増強を狙い、刃部分の機構を\n限定的に強化したモデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1408",
 		"jp_text": "ヴィタＴリッパー",
-		"tr_text": "Vita Twin Ripper",
+		"tr_text": "Vita Twin Wippew",
 		"jp_explain": "試験品に大きく改良を加えた双小剣。\n性能はそのままに、かつ可能な限り\n刃部分の増強が施されている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1409",
 		"jp_text": "ツインブレイド",
-		"tr_text": "Twin Blade",
+		"tr_text": "Twin Bwade",
 		"jp_explain": "徹底した軽量化を実現させた双小剣。\nその重量はアークス正式採用モデルの\n半分以下で、操作性に優れている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14010",
 		"jp_text": "アルバＴブレイド",
-		"tr_text": "Alva Twin Blade",
+		"tr_text": "Awva Twin Bwade",
 		"jp_explain": "軽量モデルの双小剣の改良型。\n重心をずらし、軽量化で損なわれた\n実装感と安定性を向上させている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14011",
 		"jp_text": "ヴィタＴブレイド",
-		"tr_text": "Vita Twin Blade",
+		"tr_text": "Vita Twin Bwade",
 		"jp_explain": "軽量モデルの双小剣の進化形。\nフォトン固着率の向上により、軽量化\nしたまま攻撃性能をアップさせた。",
 		"tr_explain": ""
 	},
@@ -93,7 +93,7 @@
 	{
 		"assign": "14013",
 		"jp_text": "アルバＴエッジ",
-		"tr_text": "Alva Twin Edge",
+		"tr_text": "Awva Twin Edge",
 		"jp_explain": "衝撃力増強のため改良された双小剣。\nアークス正式採用モデルの倍以上の\n重量で、腕力がないと使いこなせない。",
 		"tr_explain": ""
 	},
@@ -107,112 +107,112 @@
 	{
 		"assign": "14015",
 		"jp_text": "ラムダレグザガ",
-		"tr_text": "Lambda Legzaga",
+		"tr_text": "Wambda Wegzaga",
 		"jp_explain": "歪な形のフォトン刃が特徴の双小剣。\n出力のバランスを整え、装者自身に\n危険がないように調整されたモデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14016",
 		"jp_text": "ディオレグザガ",
-		"tr_text": "Dio Legzaga",
+		"tr_text": "Dio Wegzaga",
 		"jp_explain": "歪な形のフォトン刃が特徴の双小剣。\n目標を斬り穿つことのみを考えた\n危険ながらも強力な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14017",
 		"jp_text": "レグザガ",
-		"tr_text": "Legzaga",
+		"tr_text": "Wegzaga",
 		"jp_explain": "歪な形のフォトン刃が特徴の双小剣。\nその刃は抉りこむように対象を捉え\n治癒しがたい傷痕を残す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14018",
 		"jp_text": "アステラ",
-		"tr_text": "Astella",
+		"tr_text": "Astewwa",
 		"jp_explain": "フォトンを全面に張り巡らせた双小剣。\n全方位から攻撃を繰り出せるように\n刃部分を限界まで大きく作ってある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14019",
 		"jp_text": "ラムダアステラ",
-		"tr_text": "Lambda Astella",
+		"tr_text": "Wambda Astewwa",
 		"jp_explain": "フォトンを全面に張り巡らせた双小剣。\nバランスを重視し、扱いやすいように\nマイルドな調整を入れた汎用改良型。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14020",
 		"jp_text": "ディオアステラ",
-		"tr_text": "Dio Astella",
+		"tr_text": "Dio Astewwa",
 		"jp_explain": "フォトンを全面に張り巡らせた双小剣。\n危険を顧みず、刃の出力を増加させ\n威力向上を図った特化型モデル。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14021",
 		"jp_text": "朧",
-		"tr_text": "Oboro",
+		"tr_text": "Obowo",
 		"jp_explain": "流線形の美しい刃を持つ双小剣。\nもはや芸術品とも呼べるその姿に\n心を奪われる所有者も多いという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14022",
 		"jp_text": "錦",
-		"tr_text": "Nishiki",
+		"tr_text": "Nyishiki",
 		"jp_explain": "流線形の美しい刃を持つ双小剣。\nその鋭刃は刃こぼれ一つ起こさない。\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14023",
 		"jp_text": "茜",
-		"tr_text": "Akane",
+		"tr_text": "Akanye",
 		"jp_explain": "流線形の美しい刃を持つ双小剣。\n薄く紅を帯びたその刃は、これから\n流れる数多の血を表しているという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14024",
 		"jp_text": "レリギオー",
-		"tr_text": "Religiou",
+		"tr_text": "Wewigiou",
 		"jp_explain": "刻むような荒々しい刃を持つ双小剣。\nフレームに追従するフォトンの刃は\n研ぎ澄まされており、非常に強力。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14025",
 		"jp_text": "ラムダレリギオー",
-		"tr_text": "Lambda Religiou",
+		"tr_text": "Wambda Wewigiou",
 		"jp_explain": "刻むような荒々しい刃を持つ双小剣。\nより洗練された刃は、触れるものを\nすべて斬り刻んでいくという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14026",
 		"jp_text": "ディオレリギオー",
-		"tr_text": "Dio Religiou",
+		"tr_text": "Dio Wewigiou",
 		"jp_explain": "刻むような荒々しい刃を持つ双小剣。\n刃の出力を第一に考えた、極端かつ\n強力な最終試作の一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14027",
 		"jp_text": "ブレイドダンス",
-		"tr_text": "Blade Dance",
+		"tr_text": "Bwade Dance",
 		"jp_explain": "装者が踊っているように見えることから\n名付けられた、伝説の双小剣。\n全身が痺れんばかりの戦舞は見物。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14028",
 		"jp_text": "ブラッディアート",
-		"tr_text": "Bloody Art",
+		"tr_text": "Bwoody Awt",
 		"jp_explain": "血の色に染まった規格外の双小剣。\n一振りすればたちまち大量の血が舞い\n赤い霧が道を覆っていく。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14029",
 		"jp_text": "クロススケア",
-		"tr_text": "Cross Scar",
+		"tr_text": "Cwoss Scaw",
 		"jp_explain": "稲妻を思わせる形状が特徴的な双小剣。\nこの武器に斬られたものには\n全て十字の傷が刻まれるといわれる。",
-		"tr_explain": "Twin daggers shaped like lightning\nbolts. It is said that anything they\ncut is left with a cross-shaped scar."
+		"tr_explain": "Twin daggews shaped wike wightnying\nbowts. It is said that anything they\ncut is weft with a cwoss-shaped scaw."
 	},
 	{
 		"assign": "14030",
 		"jp_text": "ラヴィス＝ブレイド",
-		"tr_text": "Lavis Blade",
+		"tr_text": "Wavis Bwade",
 		"jp_explain": "不思議な力を秘めた謎の双小剣。\n他の追随を許さない一線を画した\n破壊力を保持している。",
 		"tr_explain": ""
 	},
@@ -226,252 +226,252 @@
 	{
 		"assign": "14032",
 		"jp_text": "ツインチャクラム",
-		"tr_text": "Twin Chakram",
+		"tr_text": "Twin Chakwam",
 		"jp_explain": "フォトンによる円状の刃を持つ双小剣。\n近距離専用の武器で、攻撃速度に優れ\n多数の敵を相手取るのに向いている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14033",
 		"jp_text": "ツインリーピング",
-		"tr_text": "Twin Reaping",
+		"tr_text": "Twin Weaping",
 		"jp_explain": "貴重な鉱物で生成された双小剣。\n滅多に手に入れられない鉱物のため\n一種の骨董品的扱いすら受ける一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14034",
 		"jp_text": "ブリッツスラッガー",
-		"tr_text": "Blitz Slugger",
+		"tr_text": "Bwitz Swuggew",
 		"jp_explain": "見た目がすでに痛々しい双小剣。\n両手に携え敵を蹴散らすその様は\n敵に同情すら集めるほどの絵面。",
-		"tr_explain": "Painful-looking twin daggers. They\nare so brutal that onlookers feel\nsympathy for the enemy."
+		"tr_explain": "Painfuw-wooking twin daggews. They\nyawe so bwutaw that onwookews feew\nsympathy fow the enyemy."
 	},
 	{
 		"assign": "14035",
 		"jp_text": "フローティングエッジズ",
-		"tr_text": "Floating Edges",
+		"tr_text": "Fwoating Edges",
 		"jp_explain": "繊細かつ鋭利な刃を持つ双小剣。\n生き血を吸うといわれ、斬られた者を\n徐々に死へと誘ってゆく。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14036",
 		"jp_text": "メッサーアゲート",
-		"tr_text": "Messer Agate",
+		"tr_text": "Messew Agate",
 		"jp_explain": "火山洞窟の鉱石で作られた双小剣。\nフォトンの伝導性が高い刃は\n装者の意に従い対象を斬り刻む。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14037",
 		"jp_text": "クルエルフローガ",
-		"tr_text": "Cruel Flouga",
+		"tr_text": "Cwuew Fwouga",
 		"jp_explain": "氷の結晶を模して作られた双小剣。\n氷の結晶をフォトンに固着させ\n冷たく鋭い刃を実現した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14039",
 		"jp_text": "ナーゲルバンサー",
-		"tr_text": "Nagel Banther",
+		"tr_text": "Nyagew Banthew",
 		"jp_explain": "ファングバンサーの爪を双小剣の刃に\n転用した特異な武器。ほぼ加工なしで\n絶大な攻撃力を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14040",
 		"jp_text": "ナーゲルオング",
-		"tr_text": "Nagel Ong",
+		"tr_text": "Nyagew Ong",
 		"jp_explain": "バンサ・オングの爪を双小剣の刃に\n転用した特殊な武器。加工せずとも\n絶大な攻撃力を発揮する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14041",
 		"jp_text": "フィンヴォルグ",
-		"tr_text": "Fin Volg",
+		"tr_text": "Fin Vowg",
 		"jp_explain": "ヴォル・ドラゴンの翼膜を加工して\n双小剣の刃とした特異な武器。\n溶岩にも耐えうる強度が特徴。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14042",
 		"jp_text": "ドラールヴォルグ",
-		"tr_text": "Draal Volg",
+		"tr_text": "Dwaaw Vowg",
 		"jp_explain": "バーン・ドラールの翼膜を加工して\n双小剣の刃を作り上げた特異な武器。\n岩盤すら切り裂く切れ味を誇る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14043",
 		"jp_text": "マイザーリッパー",
-		"tr_text": "Mizer Ripper",
+		"tr_text": "Mizew Wippew",
 		"jp_explain": "大型機甲種トランマイザーの武装を\n利用して作られた双小剣。\n赤く光る爪は対象を焼き斬る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14044",
 		"jp_text": "ゼクシアリッパー",
-		"tr_text": "Zexia Ripper",
+		"tr_text": "Zexia Wippew",
 		"jp_explain": "大型機甲種トランゼクシアの武装を\n利用して作られた双小剣。\n鋭さを増した刃は全てを切り裂く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14046",
 		"jp_text": "ブラッディアート／ナハト",
-		"tr_text": "Bloody Art / Nacht",
+		"tr_text": "Bwoody Awt / Nyacht",
 		"jp_explain": "闇夜の色を抱く双小剣。\n出自の仔細は不明だが、性能は高く\n所有者に大きな力を抱かせる。",
-		"tr_explain": "Twin daggers painted black as night.\nTheir origins are unknown, but they\ninspire greatness in their owner."
+		"tr_explain": "Twin daggews painted bwack as nyight.\nTheiw owigins awe unknyown, but they\nyinspiwe gweatnyess in theiw ownyew."
 	},
 	{
 		"assign": "14047",
 		"jp_text": "ラーヴァシーカー",
-		"tr_text": "Lava Seeker",
+		"tr_text": "Wava Seekew",
 		"jp_explain": "火山洞窟で発掘された鉱石を用い\n精製された双小剣。まるで\n燃え盛るように赤く輝いている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14048",
 		"jp_text": "アンバーシーカー",
-		"tr_text": "Amber Seeker",
+		"tr_text": "Ambew Seekew",
 		"jp_explain": "火山洞窟で発見された鉱石を用い\n生みだされた双小剣。黄色鉱石は\nフォトンを良く伝導するという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14049",
 		"jp_text": "クラベルニクス",
-		"tr_text": "Clavelnix",
+		"tr_text": "Cwavewnyix",
 		"jp_explain": "氷結晶を模して作られた双小剣。\n形とは対照的な赤いフレームを持ち\n眼前の敵を切り裂いていく。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14050",
 		"jp_text": "ヴィオラニクス",
-		"tr_text": "Violanix",
+		"tr_text": "Viowanyix",
 		"jp_explain": "氷結晶をイメージに作られた双小剣。\n青く研ぎ澄まされたフレームから\n発するフォトンの刃は切れ味抜群。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14052",
 		"jp_text": "日緋金",
-		"tr_text": "Hihikane",
+		"tr_text": "Hihikanye",
 		"jp_explain": "形状不変で錆びないとされる金属で\n作られた双小剣。だが、一番の魅力は\nその見目麗しい黄金の刀身である。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14053",
 		"jp_text": "アプレンティスグラッジ",
-		"tr_text": "Apprentice Grudge",
+		"tr_text": "Appwentice Gwudge",
 		"jp_explain": "ダークファルス【若人】の持つ妖刃を\n再現した双小剣。禍々しい輝きによって\n相手を魅了し、無抵抗のまま斬り刻む。 ",
-		"tr_explain": "A reproduction of the daggers used\nby Dark Falz [Apprentice]. Their\nominous glow fascinates enemies."
+		"tr_explain": "A wepwoduction of the daggews used\nby Dawk Fawz [Appwentice]. Theiw\nyominyous gwow fascinyates enyemies."
 	},
 	{
 		"assign": "14054",
 		"jp_text": "イブリスブラッド",
-		"tr_text": "Iblis Blood",
+		"tr_text": "Ibwis Bwood",
 		"jp_explain": "シャープなフォルムの中に禍々しさを\n感じさせる双小剣。装飾にも見える刃は\n触れるより先に相手を両断するという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14056",
 		"jp_text": "グワナーダガー",
-		"tr_text": "Gwanah Dagger",
+		"tr_text": "Gwanyah Daggew",
 		"jp_explain": "グワナーダの顎で作られた双小剣。\n強度と切れ味に優れた素材のため\n加工なしでも使えるほど性能が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14057",
 		"jp_text": "Ｇネロダガー",
-		"tr_text": "G Nero Dagger",
+		"tr_text": "G Nyewo Daggew",
 		"jp_explain": "グワナーダ・ネロの顎が用いられた\n双小剣。非常に頑強であり、刃こぼれ\n一つしないと評判。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14059",
 		"jp_text": "ホワイトディナー",
-		"tr_text": "White Dinner",
+		"tr_text": "White Dinnyew",
 		"jp_explain": "華やかな夕食に相応しく、純白を\n基調に作られた特殊な双小剣。\n戦闘使用は想定されていなかった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14061",
 		"jp_text": "スプリットシルト",
-		"tr_text": "Split Schild",
+		"tr_text": "Spwit Schiwd",
 		"jp_explain": "盾のようなシルエットを持つ双小剣。\n盾型の機構は防御目的のものではなく\n攻撃を受け流すために用意された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14062",
 		"jp_text": "ナイトメアブラッド",
-		"tr_text": "Nightmare Blood",
+		"tr_text": "Nyightmawe Bwood",
 		"jp_explain": "高圧縮したフォトンで構成された双小剣。\n灼熱の小刃が放つ連続攻撃は周囲に\n高熱を発しながら対象物を炎斬する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14063",
 		"jp_text": "サクリファイス・ダーカー",
-		"tr_text": "Sacrifice Darker",
+		"tr_text": "Sacwifice Dawkew",
 		"jp_explain": "三層の特徴的な刃を持つ双小剣。\n左右から迫り来る斬撃の嵐に\n襲われればひとたまりもない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14067",
 		"jp_text": "透刃マイ",
-		"tr_text": "Mai Blades",
+		"tr_text": "Mai Bwades",
 		"jp_explain": "ツインダガー型の創世器。\n『うつろうもの』。装者のフォトンを\n喰らい、強制的なステルス効果を付与。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14069",
 		"jp_text": "ステルスウェポン：ＴＤ",
-		"tr_text": "Stealth Weapon:TD",
+		"tr_text": "Steawth Weapon:TD",
 		"jp_explain": "認識不能な武器。\n形状はツインダガー型。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14070",
 		"jp_text": "【若人】のツインダガー",
-		"tr_text": "【Apprentice】's Daggers",
+		"tr_text": "【Appwentice】's Daggews",
 		"jp_explain": "■",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14071",
 		"jp_text": "赤のツインダガー",
-		"tr_text": "Red Twin Dagger",
+		"tr_text": "Wed Twin Daggew",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双小剣。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": "Twin daggers whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
+		"tr_explain": "Twin daggews whose expewimentaw\ncowowing has become iconyic. The\ndazzwing wed catches the eye."
 	},
 	{
 		"assign": "14072",
 		"jp_text": "青のツインダガー",
-		"tr_text": "Blue Twin Dagger",
+		"tr_text": "Bwue Twin Daggew",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした双小剣。\n目映い青色は必然的に目を引く。",
-		"tr_explain": "Twin daggers whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
+		"tr_explain": "Twin daggews whose expewimentaw\ncowowing has become iconyic. The\ndazzwing bwue catches the eye."
 	},
 	{
 		"assign": "14079",
 		"jp_text": "イブリスフィーダ",
-		"tr_text": "Iblis Feeder",
+		"tr_text": "Ibwis Feedew",
 		"jp_explain": "シャープなフォルムの中に禍々しさを\n感じさせる双小剣。凍てつくような\n青いフォトンが刃を保護している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14087",
 		"jp_text": "ラブラディオ",
-		"tr_text": "Love Radio",
+		"tr_text": "Wuv Wadio",
 		"jp_explain": "愛を誓う証となる双小剣。負傷した\nアークスの栄誉を讃える際にも使う。\n振りまくハートが世界の平和を願う。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14088",
 		"jp_text": "ラブラオール",
-		"tr_text": "Love Raoul",
+		"tr_text": "Wuv Waouw",
 		"jp_explain": "愛を誓う証となる双小剣。果実を\nイメージした配色が甘美な世界を演出。\n振りまくハートが幸せで世界を包む。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14089",
 		"jp_text": "ダガーオブセラフィ",
-		"tr_text": "Daggers of Serafi",
+		"tr_text": "Daggews of Sewafi",
 		"jp_explain": "とある教団の伝説を象った双小剣。\n左右でそれぞれ「ゼン」の心と\n「アク」の心を表している。",
-		"tr_explain": "Legendary Daggers molded by a cult.\nOne dagger represents good\nand the other represents evil."
+		"tr_explain": "Wegendawy Daggews mowded by a cuwt.\nOnye daggew wepwesents good\nyand the othew wepwesents eviw."
 	},
 	{
 		"assign": "14090",
 		"jp_text": "サイカ・ヒョウリ",
-		"tr_text": "Saika Hyouri",
+		"tr_text": "Saika Hyouwi",
 		"jp_explain": "絡まりし事象の鎖から、その姿を\n現すとされる連鎖の双小剣。\n運命をくつがえす程の力を持つ。",
 		"tr_explain": ""
 	},
@@ -485,70 +485,70 @@
 	{
 		"assign": "14094",
 		"jp_text": "ホローギムレット",
-		"tr_text": "Hollow Gimlet",
+		"tr_text": "Howwow Gimwet",
 		"jp_explain": "墓の番人が持っていたとされる双小剣。\n咎人を決して許さず、地の果てまで\n追いかけていくと伝えられている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14097",
 		"jp_text": "マリーネイルス",
-		"tr_text": "Marie Nails",
+		"tr_text": "Mawie Nyaiws",
 		"jp_explain": "ただの服の袖に見えるよう\n武器自体に偽装が施された双小剣。\n攻撃の間合いを錯覚させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "14098",
 		"jp_text": "ブラディネイルス",
-		"tr_text": "Bloody Nails",
+		"tr_text": "Bwoody Nyaiws",
 		"jp_explain": "服の袖を模したかのような偽装が\n施された双小剣。油断し触れた者を\n容赦なく切り裂く血の色をしている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140100",
 		"jp_text": "オプトレイオン",
-		"tr_text": "Optreion",
+		"tr_text": "Optweion",
 		"jp_explain": "乙女心を忘れない女性の機能的な戦闘服\nによく合う双小剣。フォトン反応で\n発光するフィンが戦闘を華麗に演出。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140101",
 		"jp_text": "オプトレリート",
-		"tr_text": "Optrelieto",
+		"tr_text": "Optwewieto",
 		"jp_explain": "乙女心を忘れない女性の機能的な戦闘服\nによく合う双小剣。新素材コーティング\nによる鮮やかな青色発光が人気。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140103",
 		"jp_text": "Ｔリーピング／リヒト",
-		"tr_text": "Twin Reaping / Licht",
+		"tr_text": "Twin Weaping / Wicht",
 		"jp_explain": "白夜の色を抱く双小剣。\n出自の仔細は不明だが、性能は高く\n全クラス装備可能な、特殊な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140105",
 		"jp_text": "セヴァーシルト",
-		"tr_text": "Sever Schild",
+		"tr_text": "Sevew Schiwd",
 		"jp_explain": "盾のようなシルエットを持つ双小剣。\nその刃は耐久性に優れ、攻防において\n十分な性能を発揮する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140107",
 		"jp_text": "ブラスハウル",
-		"tr_text": "Brass Haul",
+		"tr_text": "Bwass Hauw",
 		"jp_explain": "蒸気エネルギーで効能増幅した双小剣。\nブレーキバーの搭載により余剰な出力の\n無駄のない制御が可能になった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140109",
 		"jp_text": "ベリアルソー",
-		"tr_text": "Burial Saw",
+		"tr_text": "Buwiaw Saw",
 		"jp_explain": "対象の破壊を最優先に設計された\n双小剣。波打つ刃は触れた相手を\n無慈悲に斬り刻む。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140110",
 		"jp_text": "クリメイトソー",
-		"tr_text": "Cremation Saw",
+		"tr_text": "Cwemation Saw",
 		"jp_explain": "目標物の完全破壊を目的として\n設計された双小剣。波形の刃に触れた\n相手に、消えることのない傷を刻む。",
 		"tr_explain": ""
 	},
@@ -562,119 +562,119 @@
 	{
 		"assign": "140112",
 		"jp_text": "バイオスローク",
-		"tr_text": "Bio Sloque",
+		"tr_text": "Bio Swoque",
 		"jp_explain": "最先端の生体工学を応用し開発された\n双小剣。循環するフォトンは自動での\n出力調整を行い、威力を安定させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140113",
 		"jp_text": "ライブスローク",
-		"tr_text": "Live Sloque",
+		"tr_text": "Wive Swoque",
 		"jp_explain": "最先端の生体工学を応用し開発された\n双小剣。高純度培養液が成長を促し常に\n安定した最良の状態で使用が可能。",
-		"tr_explain": "Twin daggers made with state-of-\nthe-art bioengineering. Enhanced\nwith a high-purity culture solution."
+		"tr_explain": "Twin daggews made with state-of-\nthe-awt bioenginyeewing. Enhanced\nwith a high-puwity cuwtuwe sowution."
 	},
 	{
 		"assign": "140115",
 		"jp_text": "アラザクーヘン",
-		"tr_text": "Alaza Kuchen",
+		"tr_text": "Awaza Kuchen",
 		"jp_explain": "もっとかわいく、もっと自由でいたい\nアークスのための双小剣。チョコが\n溶ける前に早く敵を仕留めないと！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140117",
 		"jp_text": "ツインフィルフィン",
-		"tr_text": "Twin Filphin",
+		"tr_text": "Twin Fiwphin",
 		"jp_explain": "局地戦で活躍する男性キャストが好んで\n使用する双小剣。隠密作戦に欠かせない\n消音性に優れた素材を採用した。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140118",
 		"jp_text": "アーレスカイゼル",
-		"tr_text": "Ares Kaiser",
+		"tr_text": "Awes Kaisew",
 		"jp_explain": "女神の幻獣の力を宿した双小剣。装者に\nフォトンブラストの効果で揺るがぬ力を\n与え、敵に猛攻を浴びせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140125",
 		"jp_text": "ツインフィルフレオ",
-		"tr_text": "Twin Filphleo",
+		"tr_text": "Twin Fiwphweo",
 		"jp_explain": "局地戦で活躍する男性キャストが好んで\n使用する双小剣。噛み合う二枚刃は\n収納時に一体化し携行性にも優れる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140126",
 		"jp_text": "ツインフィルフーガ",
-		"tr_text": "Twin Filphuga",
+		"tr_text": "Twin Fiwphuga",
 		"jp_explain": "局地戦で活躍する男性キャストが好んで\n使用する双小剣。徹底した軽量化により\n抜群の操作性で隠密作戦を成功に導く。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140130",
 		"jp_text": "アークフラン",
-		"tr_text": "Ark Flan",
+		"tr_text": "Awk Fwan",
 		"jp_explain": "アークス上層部が企画開発した双小剣。\n鋸刃の形状を取り入れたことにより\n敵に致命傷を与えやすくなった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140131",
 		"jp_text": "ラグドフラン",
-		"tr_text": "Rugged Flan",
+		"tr_text": "Wugged Fwan",
 		"jp_explain": "アークス上層部が企画開発した双小剣。\n現場からの意見を取り入れ\n戦いやすいように持ち手を大きくした。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140133",
 		"jp_text": "ディヴァニス",
-		"tr_text": "Divanice",
+		"tr_text": "Divanyice",
 		"jp_explain": "圧縮したフォトンで作成した双小剣。\nフォトン密度が非常に高いため\n刃が摩耗しづらく、威力が高い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140134",
 		"jp_text": "ディヴァルクス",
-		"tr_text": "Divarks",
+		"tr_text": "Divawks",
 		"jp_explain": "圧縮したフォトンで作成した双小剣。\n激しい近接戦でも有利に戦えるように\n滑りにくいグリップに改善された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140136",
 		"jp_text": "ハート・オブ・ナベリウス",
-		"tr_text": "Heart of Naberius",
+		"tr_text": "Heawt of Nyabewius",
 		"jp_explain": "イクリプストーチの炎で鍛えられた\n伝説の双小剣。別名アリス・クロー。\n装備者に大いなる力を与える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140137",
 		"jp_text": "フィアメイナー",
-		"tr_text": "Fear Meiner",
+		"tr_text": "Feaw Meinyew",
 		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n双小剣。鋭く研ぎ澄まされた金属の刃は\n鈍く光り、相対する者に恐怖を与える。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140138",
 		"jp_text": "コールメイナー",
-		"tr_text": "Coal Meiner",
+		"tr_text": "Coaw Meinyew",
 		"jp_explain": "宇宙という海原を駆け巡るにふさわしい\n双小剣。ほぼ滑らない持ち手に改良され\n確実な一撃が放てるようになった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140141",
 		"jp_text": "ファーレンクライム",
-		"tr_text": "Fahrencrime",
+		"tr_text": "Fahwencwime",
 		"jp_explain": "大勢のためでなく、ただひとりのために\n刀匠ジグが創り上げた双小剣。\nそれは、彼の情熱の結晶。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140144",
 		"jp_text": "エルキュリア",
-		"tr_text": "Elcuria",
+		"tr_text": "Ewcuwia",
 		"jp_explain": "耐久性の高い素材で作られた双小剣。\n羽のような鍔が可愛らしいが、両刃で\n切断力も高く、扱いには注意が必要。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140148",
 		"jp_text": "アラナミノウチワ",
-		"tr_text": "Aranami no Uchiwa",
+		"tr_text": "Awanyami nyo Uchiwa",
 		"jp_explain": "夏祭りを満喫するべく作られた双小剣。\nかき氷を食べるラッピーが絵柄の団扇。\n見た目に騙されて扇ぐと痛い目に……",
 		"tr_explain": ""
 	},
@@ -688,105 +688,105 @@
 	{
 		"assign": "140153",
 		"jp_text": "ネメシスダガー",
-		"tr_text": "Nemesis Dagger",
+		"tr_text": "Nyemesis Daggew",
 		"jp_explain": "古の時代に封印された聖なる双小剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "140154",
 		"jp_text": "スレイヴダガー",
-		"tr_text": "Slave Dagger",
+		"tr_text": "Swave Daggew",
 		"jp_explain": "古の時代に封印された邪なる双小剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "140157",
 		"jp_text": "春疾風",
-		"tr_text": "Haru Hayate",
+		"tr_text": "Hawu Hayate",
 		"jp_explain": "白銀に輝く鍔と薄紅色をした刃が華麗な\n印象を与える双小剣。散る花は敵への\n手向けの意味が込められているという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140161",
 		"jp_text": "イデアルシュテル",
-		"tr_text": "Ideal Ster",
+		"tr_text": "Ideaw Stew",
 		"jp_explain": "新開発のフォトンジェネレーターを\n搭載した双小剣。発せられる\nフォトンの輝きは次代の証とされる。",
-		"tr_explain": "Twin daggers equipped with a newly\ndeveloped photon generator. Their\nglow is proof of the next generation."
+		"tr_explain": "Twin daggews equipped with a nyewwy\ndevewoped photon genyewatow. Theiw\ngwow is pwoof of the nyext genyewation."
 	},
 	{
 		"assign": "140166",
 		"jp_text": "禍刃イクキリ",
-		"tr_text": "Evil Ikukiri",
+		"tr_text": "Eviw Ikukiwi",
 		"jp_explain": "惑星ハルコタンで発掘された双小剣。\n漆器に似た手甲は美しいが、『禍津』の\n影響で不気味な刃となってしまった。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140168",
 		"jp_text": "センノシュウハ",
-		"tr_text": "Senno Shuusha",
+		"tr_text": "Sennyo Shuusha",
 		"jp_explain": "古来より伝わる由緒正しき双小剣。\n二対の剣にこめられた言霊が\n装者の精神を昂ぶらせる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140176",
 		"jp_text": "シノワレイダー",
-		"tr_text": "Sinow Raider",
+		"tr_text": "Sinyow Waidew",
 		"jp_explain": "シノワラピドゥスの腕部を加工した\n双小剣。手甲から形成される\nブレードは威力、携帯性に優れている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140187",
 		"jp_text": "ノクスネシス",
-		"tr_text": "Nox Nesis",
+		"tr_text": "Nyox Nyesis",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き双小剣。装者も\n戦慄するほどの恐るべき力を宿す。",
-		"tr_explain": "Black daggers produced in an illicit\nritual. The formidable power they\nhold terrifies even their wielder."
+		"tr_explain": "Bwack daggews pwoduced in an iwwicit\nwituaw. The fowmidabwe powew they\nhowd tewwifies even theiw wiewdew."
 	},
 	{
 		"assign": "140188",
 		"jp_text": "レーテネシス",
-		"tr_text": "Raete Nesis",
+		"tr_text": "Waete Nyesis",
 		"jp_explain": "正当な手順を経た儀式により\n生み出された白き双小剣。あらゆる\n敵から装者を守る、絶大な力を宿す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140189",
 		"jp_text": "ネシスアリオン",
-		"tr_text": "Nesis Arion",
+		"tr_text": "Nyesis Awion",
 		"jp_explain": "数多の儀式を施し、錬成の果てに\n生み出された紫の双小剣。装者の感情が\n攻撃力となり、敵を消滅させる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140191",
 		"jp_text": "ニャウノウチワ",
-		"tr_text": "Nyau no Uchiwa",
+		"tr_text": "Nyau nyo Uchiwa",
 		"jp_explain": "夏祭りを満喫するべく作られた双小剣。\n元気に剣を掲げるニャウが絵柄の団扇。\nさぁー、もっとあつくニャれニャウ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140194",
 		"jp_text": "ギクスジクドレン",
-		"tr_text": "Gix Jhikdrenn",
+		"tr_text": "Gix Jhikdwenn",
 		"jp_explain": "臨界寸前まで圧縮したフォトンと\n同調した双小剣。装者の精神とリンクし\n戦意の高揚に呼応し、その威力を増す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140195",
 		"jp_text": "インヴェイドフェンサー",
-		"tr_text": "Invade Fencer",
+		"tr_text": "Invade Fencew",
 		"jp_explain": "【深遠なる闇】より生まれし負の\n双小剣。装者は武の極致に魅せられ\n滅びだけを望む暴威の化身へと変わる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140196",
 		"jp_text": "オフスティアフェンサー",
-		"tr_text": "Austere Fencer",
+		"tr_text": "Austewe Fencew",
 		"jp_explain": "負の力を識り、制することで転化した\n浄化の双小剣。装者は己に打ち克ち\n真の武人へと昇華し、巨悪を破る。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140198",
 		"jp_text": "バジリスロマリブス",
-		"tr_text": "Basilis Romaribus",
+		"tr_text": "Basiwis Womawibus",
 		"jp_explain": "鋭利な突起と蛇腹状の表面が特徴的な\n双小剣。標的を素早く確実に葬るための\n工夫が随所にされており、非常に危険。",
 		"tr_explain": ""
 	},
@@ -795,47 +795,47 @@
 		"jp_text": "Ｓ．ＣＮスタッグ",
 		"tr_text": "S.CN Stag",
 		"jp_explain": "白兵戦に特化して作られた双小剣。\n鞘を含めてもその重量は非常に軽量で\n同社製品の中でも特に人気が高い。",
-		"tr_explain": "Twin Daggers that specializes in\nhand-to-hand combat. Its light frame\neasily makes it a popular choice."
+		"tr_explain": "Twin Daggews that speciawizes in\nhand-to-hand combat. Its wight fwame\nyeasiwy makes it a popuwaw choice."
 	},
 	{
 		"assign": "140201",
 		"jp_text": "Ｓ．ＣＮアーバスタッグ",
-		"tr_text": "S.CN Arbor Stag",
+		"tr_text": "S.CN Awbow Stag",
 		"jp_explain": "白兵戦に特化して作られた双小剣。\n隠密活動中の使用を前提に作られたため\n全体に迷彩模様が描かれている。",
-		"tr_explain": "Twin Daggers that specializes in\nhand-to-hand combat. The camo\npattern was used during secret ops,"
+		"tr_explain": "Twin Daggews that speciawizes in\nhand-to-hand combat. The camo\npattewn was used duwing secwet ops,"
 	},
 	{
 		"assign": "140204",
 		"jp_text": "フォルニスベセト",
-		"tr_text": "Fornis Beset",
+		"tr_text": "Fownyis Beset",
 		"jp_explain": "異なる力を宿した恐るべき双小剣。\n扱いは困難を極めるが、その切断力は\n凄まじく、標的を微塵にする。",
-		"tr_explain": "Two fearsome daggers bearing twin\npowers. Difficult to handle, but their\nvast power reduces targets to dust."
+		"tr_explain": "Two feawsome daggews beawing twin\npowews. Difficuwt to handwe, but theiw\nvast powew weduces tawgets to dust."
 	},
 	{
 		"assign": "140205",
 		"jp_text": "トライヴィンオービット",
-		"tr_text": "Tryvin Orbit",
+		"tr_text": "Twyvin Owbit",
 		"jp_explain": "新開発のフォトンリング機構を搭載した\n双小剣。展開された部品が合体し\n宙をも刻む閃光の双刃へと姿を変える。",
-		"tr_explain": "Twin daggers with a Photon Ring\nDevice. Their expanded parts form\nblades of light that carve the air."
+		"tr_explain": "Twin daggews with a Photon Wing\nDevice. Theiw expanded pawts fowm\nbwades of wight that cawve the aiw."
 	},
 	{
 		"assign": "140218",
 		"jp_text": "スラストレボルシオ",
-		"tr_text": "Thrust Revolucio",
+		"tr_text": "Thwust Wevowucio",
 		"jp_explain": "新開発の演算装置を搭載した双小剣。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140219",
 		"jp_text": "スラストドミナシオ",
-		"tr_text": "Thrust Dominacio",
+		"tr_text": "Thwust Dominyacio",
 		"jp_explain": "新開発の演算装置を搭載した双小剣。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140221",
 		"jp_text": "リグジャンガー",
-		"tr_text": "Rig Janga",
+		"tr_text": "Wig Janga",
 		"jp_explain": "伝説の生物を機械的に再現した双小剣。\n上顎を模したグリップが特徴的。\n鋭くも軽い刃が対象を切り刻む。",
 		"tr_explain": ""
 	},
@@ -849,77 +849,77 @@
 	{
 		"assign": "140225",
 		"jp_text": "イヴリダジャンビア",
-		"tr_text": "Evleda Janbiya",
+		"tr_text": "Evweda Janbiya",
 		"jp_explain": "古に封印されし冥夜の双小剣。\n忌むべき闇の双刃は汝の血肉で以って\n戒め壊し、静かな鮮血の海を築かん。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140226",
 		"jp_text": "クリシスジャンビア",
-		"tr_text": "Cleasis Janbiya",
+		"tr_text": "Cweasis Janbiya",
 		"jp_explain": "古に封印されし冥夜の双小剣。\n勇烈なる戦士を喰らいし邪なる双刃は\n魂と係合せし時、滅亡へと誘う。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140227",
 		"jp_text": "シュベルジャンビア",
-		"tr_text": "Schvelle Janbiya",
+		"tr_text": "Schvewwe Janbiya",
 		"jp_explain": "古に封印されし冥夜の双小剣。\n現世に蘇りし闇は鋭利な双刃となり\n生者を滅して、音無き世とする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140228",
 		"jp_text": "レイＴダガー",
-		"tr_text": "Ray Twin Dagger",
+		"tr_text": "Way Twin Daggew",
 		"jp_explain": "次世代の主力として開発された双小剣。\n基礎モデルの直系の後継機であり\n出力、安定性共に高いスペックを誇る。",
-		"tr_explain": "T. Daggers developed as the latest\nmodel, boasting high photon stability\nwith next-gen specifications."
+		"tr_explain": "T. Daggews devewoped as the watest\nmodew, boasting high photon stabiwity\nwith nyext-gen specifications."
 	},
 	{
 		"assign": "140229",
 		"jp_text": "ユニオンＴダガー",
-		"tr_text": "Union Twin Dagger",
+		"tr_text": "Unyion Twin Daggew",
 		"jp_explain": "次世代の主力として開発された双小剣。\n専用ブーストパーツが装着されたことで\n限界を超えた性能を発揮する。",
-		"tr_explain": "T. Daggers developed as the latest\nmodel. Augmented with boost parts,\nits performance exceed its limits."
+		"tr_explain": "T. Daggews devewoped as the watest\nmodew. Augmented with boost pawts,\nyits pewfowmance exceed its wimits."
 	},
 	{
 		"assign": "140233",
 		"jp_text": "ツインダガー-NT",
-		"tr_text": "Twin Dagger-NT",
+		"tr_text": "Twin Daggew-NT",
 		"jp_explain": "アークスで正式採用されている双小剣。\n体格に関係なく扱いやすい軽量小型で\n長時間の使用でも疲れにくい。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140234",
 		"jp_text": "アルバＴダガー-NT",
-		"tr_text": "Alva T. Dagger-NT",
+		"tr_text": "Awva T. Daggew-NT",
 		"jp_explain": "アークスで使用される改良型双小剣。\n基礎モデルと組成・構成は同じで\n攻撃力を向上させた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140235",
 		"jp_text": "ヴィタＴダガー-NT",
-		"tr_text": "Vita T. Dagger-NT",
+		"tr_text": "Vita T. Daggew-NT",
 		"jp_explain": "基礎モデルに改良を加えた双小剣。\nわずかなサイズアップで、攻撃力を\n大きく向上させることに成功している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140236",
 		"jp_text": "ツインブレイド-NT",
-		"tr_text": "Twin Blade-NT",
+		"tr_text": "Twin Bwade-NT",
 		"jp_explain": "徹底した軽量化を実現させた双小剣。\nその重量はアークス正式採用モデルの\n半分以下で、操作性に優れている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140237",
 		"jp_text": "アルバＴブレイド-NT",
-		"tr_text": "Alva T. Blade-NT",
+		"tr_text": "Awva T. Bwade-NT",
 		"jp_explain": "軽量モデルの双小剣の改良型。\n重心をずらし、軽量化で損なわれた\n実装感と安定性を向上させている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140238",
 		"jp_text": "ヴィタＴブレイド-NT",
-		"tr_text": "Vita T. Blade-NT",
+		"tr_text": "Vita T. Bwade-NT",
 		"jp_explain": "軽量モデルの双小剣の進化形。\nフォトン固着率の向上により、軽量化\nしたまま攻撃性能をアップさせた。",
 		"tr_explain": ""
 	},
@@ -933,7 +933,7 @@
 	{
 		"assign": "140240",
 		"jp_text": "アルバＴエッジ-NT",
-		"tr_text": "Alva T. Edge-NT",
+		"tr_text": "Awva T. Edge-NT",
 		"jp_explain": "衝撃力増強のため改良された双小剣。\nアークス正式採用モデルの倍以上の\n重量で、腕力がないと使いこなせない。",
 		"tr_explain": ""
 	},
@@ -947,56 +947,56 @@
 	{
 		"assign": "140242",
 		"jp_text": "アステラ-NT",
-		"tr_text": "Astella-NT",
+		"tr_text": "Astewwa-NT",
 		"jp_explain": "フォトンを全面に張り巡らせた双小剣。\n全方位から攻撃を繰り出せるように\n刃部分を限界まで大きく作ってある。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140243",
 		"jp_text": "レグザガ-NT",
-		"tr_text": "Legzaga-NT",
+		"tr_text": "Wegzaga-NT",
 		"jp_explain": "歪な形のフォトン刃が特徴の双小剣。\nその刃は抉りこむように対象を捉え\n治癒しがたい傷痕を残す。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140244",
 		"jp_text": "ディオレグザガ-NT",
-		"tr_text": "Dio Legzaga-NT",
+		"tr_text": "Dio Wegzaga-NT",
 		"jp_explain": "歪な形のフォトン刃が特徴の双小剣。\n目標を斬り穿つことのみを考えた\n危険ながらも強力な武器。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140245",
 		"jp_text": "フローティングエッジズ-NT",
-		"tr_text": "Floating Edges-NT",
+		"tr_text": "Fwoating Edges-NT",
 		"jp_explain": "繊細かつ鋭利な刃を持つ双小剣。\n生き血を吸うといわれ、斬られた者を\n徐々に死へと誘ってゆく。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140246",
 		"jp_text": "イブリスブラッド-NT",
-		"tr_text": "Iblis Blood-NT",
+		"tr_text": "Ibwis Bwood-NT",
 		"jp_explain": "シャープなフォルムの中に禍々しさを\n感じさせる双小剣。装飾にも見える刃は\n触れるより先に相手を両断するという。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140247",
 		"jp_text": "サクリファイス・ダーカー-NT",
-		"tr_text": "Sacrifice Darker-NT",
+		"tr_text": "Sacwifice Dawkew-NT",
 		"jp_explain": "三層の特徴的な刃を持つ双小剣。\n左右から迫り来る斬撃の嵐に\n襲われればひとたまりもない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140248",
 		"jp_text": "ノクスネシス-NT",
-		"tr_text": "Nox Nesis-NT",
+		"tr_text": "Nyox Nyesis-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き双小剣。装者も\n戦慄するほどの恐るべき力を宿す。",
-		"tr_explain": "Black daggers produced in an illicit\nritual. The formidable power they\nhold terrifies even their wielder."
+		"tr_explain": "Bwack daggews pwoduced in an iwwicit\nwituaw. The fowmidabwe powew they\nhowd tewwifies even theiw wiewdew."
 	},
 	{
 		"assign": "140249",
-		"jp_text": "朧Ver2",
-		"tr_text": "Oboro Ver2",
+		"jp_text": "朧Vew2",
+		"tr_text": "Obowo Vew2",
 		"jp_explain": "流線形の美しい刃を持つ双小剣。\nもはや芸術品とも呼べるその姿に\n心を奪われる所有者も多いという。",
 		"tr_explain": ""
 	},
@@ -1005,49 +1005,49 @@
 		"jp_text": "凍迅",
 		"tr_text": "Toujin",
 		"jp_explain": "極寒の地で打たれたという双小剣。\n刃に強力な冷気が封じ込められており\n解放すれば装者は吹雪の化生となる。",
-		"tr_explain": "Twin Daggers forged by permafrost.\nEmpowered by the cold, the wielder\nbecomes an embodiment of hailstorm."
+		"tr_explain": "Twin Daggews fowged by pewmafwost.\nEmpowewed by the cowd, the wiewdew\nbecomes an embodiment of haiwstowm."
 	},
 	{
 		"assign": "140257",
 		"jp_text": "ゼイネシスバゼラッド",
-		"tr_text": "Zeinesis Baselard",
+		"tr_text": "Zeinyesis Basewawd",
 		"jp_explain": "幻創の主より生まれた大樹の双小剣。\n決して嘆くことなく努力をした者に\n転機を全て好機に変える力を授ける。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140258",
 		"jp_text": "クリファドバゼラッド",
-		"tr_text": "Qliphad Baselard",
+		"tr_text": "Qwiphad Basewawd",
 		"jp_explain": "理から外れ虚無と化した大樹の双小剣。\n欲に眩み、希望が潰えた装者は\n全てを憎んで怒りのまま刃を振るう。",
-		"tr_explain": "A pair of Twin Daggers from\nYggrasil. Wielded with anger, they\ndazzle with hope-ending greed."
+		"tr_explain": "A paiw of Twin Daggews fwom\nYggwasiw. Wiewded with angew, they\ndazzwe with hope-ending gweed."
 	},
 	{
 		"assign": "140259",
 		"jp_text": "ダガーオブセラフィ-NT",
-		"tr_text": "Daggers of Serafi-NT",
+		"tr_text": "Daggews of Sewafi-NT",
 		"jp_explain": "とある教団の伝説を象った双小剣。\n左右でそれぞれ「ゼン」の心と\n「アク」の心を表している。",
-		"tr_explain": "Legendary Daggers molded by a cult.\nOne dagger represents good\nand the other represents evil."
+		"tr_explain": "Wegendawy Daggews mowded by a cuwt.\nOnye daggew wepwesents good\nyand the othew wepwesents eviw."
 	},
 	{
 		"assign": "140260",
 		"jp_text": "スプリットシルト-NT",
-		"tr_text": "Split Schild-NT",
+		"tr_text": "Spwit Schiwd-NT",
 		"jp_explain": "盾のようなシルエットを持つ双小剣。\n盾型の機構は防御目的のものではなく\n攻撃を受け流すために用意された。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140261",
 		"jp_text": "セヴァーシルト-NT",
-		"tr_text": "Sever Schild-NT",
+		"tr_text": "Sevew Schiwd-NT",
 		"jp_explain": "盾のようなシルエットを持つ双小剣。\nその刃は耐久性に優れ、攻防において\n十分な性能を発揮する。",
-		"tr_explain": "Twin Daggers with a shield like\nsilhouette. Its blade has excellent\ndurability and performs well in battle."
+		"tr_explain": "Twin Daggews with a shiewd wike\nsiwhouette. Its bwade has excewwent\nduwabiwity and pewfowms weww in battwe."
 	},
 	{
 		"assign": "140262",
 		"jp_text": "アストラパニシュ",
-		"tr_text": "Astra Punish",
+		"tr_text": "Astwa Punyish",
 		"jp_explain": "マザーの残滓たる、幻創の双小剣。\n断罪の意志が刃に込められている。\nそれは正義感でなく、焼け付く復讐心。",
-		"tr_explain": "Phantom twin daggers imbued with\nMother's power. The blades condemn\nthe guilty and demand punishment."
+		"tr_explain": "Phantom twin daggews imbued with\nMothew's powew. The bwades condemn\nthe guiwty and demand punyishment."
 	},
 	{
 		"assign": "140288",
@@ -1059,77 +1059,77 @@
 	{
 		"assign": "140293",
 		"jp_text": "バトルＴダガーＬｖ１",
-		"tr_text": "Battle T. Dagger Lv1",
+		"tr_text": "Battwe T. Daggew Wv1",
 		"jp_explain": "バトルアリーナ用に調整された双小剣。\n純粋に技を競うため基本性能のみを\n強化している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140294",
 		"jp_text": "バトルＴダガーＬｖ２",
-		"tr_text": "Battle T. Dagger Lv2",
+		"tr_text": "Battwe T. Daggew Wv2",
 		"jp_explain": "バトルアリーナ用に調整された双小剣。\n戦技比較が目的となるため\n基本性能の強化にとどまっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140295",
 		"jp_text": "バトルＴダガーＬｖ３",
-		"tr_text": "Battle T. Dagger Lv3",
+		"tr_text": "Battwe T. Daggew Wv3",
 		"jp_explain": "バトルアリーナ専用に作られた双小剣。\n戦技比較用に特化しており、力量が\nより発揮される調整となっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140296",
 		"jp_text": "クロススケア-NT",
-		"tr_text": "Cross Scar-NT",
+		"tr_text": "Cwoss Scaw-NT",
 		"jp_explain": "稲妻を思わせる形状が特徴的な双小剣。\nこの武器に斬られたものには\n全て十字の傷が刻まれるといわれる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140297",
 		"jp_text": "ブリッツスラッガー-NT",
-		"tr_text": "Blitz Slugger-NT",
+		"tr_text": "Bwitz Swuggew-NT",
 		"jp_explain": "見た目がすでに痛々しい双小剣。\n両手に携え敵を蹴散らすその様は\n敵に同情すら集めるほどの絵面。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140298",
 		"jp_text": "バルローク",
-		"tr_text": "Val Rock",
+		"tr_text": "Vaw Wock",
 		"jp_explain": "過去に戦場となった地域から発掘された\n双小剣。ひび割れて腐食しており\n性能は期待できそうにない。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140299",
 		"jp_text": "アトラローク",
-		"tr_text": "Atra Rock",
+		"tr_text": "Atwa Wock",
 		"jp_explain": "過去に戦場となった地域から発掘された\n双小剣。文献を元に再現された姿。\n生物の瞳を彷彿とさせる宝石を持つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140310",
 		"jp_text": "ネメシスダガー-NT",
-		"tr_text": "Nemesis Dagger-NT",
+		"tr_text": "Nyemesis Daggew-NT",
 		"jp_explain": "古の時代に封印された聖なる双小剣。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
+		"tr_explain": "A seawed howy weapon fwom an eawwy\nyewa. It weweases its hidden puwifying\npowew in tandem with the usew's wiww."
 	},
 	{
 		"assign": "140311",
 		"jp_text": "スレイヴダガー-NT",
-		"tr_text": "Slave Dagger-NT",
+		"tr_text": "Swave Daggew-NT",
 		"jp_explain": "古の時代に封印された邪なる双小剣。\n装者の闘争本能に呼応して\n封じられた破壊の力を発揮する。",
-		"tr_explain": "A sealed devil weapon from an early\nera. The user's hardships will call the\npower of destruction sealed within."
+		"tr_explain": "A seawed deviw weapon fwom an eawwy\nyewa. The usew's hawdships wiww caww the\npowew of destwuction seawed within."
 	},
 	{
 		"assign": "140312",
 		"jp_text": "日緋金-NT",
-		"tr_text": "Hihikane-NT",
+		"tr_text": "Hihikanye-NT",
 		"jp_explain": "形状不変で錆びないとされる金属で\n作られた双小剣。だが、一番の魅力は\nその見目麗しい黄金の刀身である。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "140315",
 		"jp_text": "インヴェイドフェンサー-NT",
-		"tr_text": "Invade Fencer-NT",
+		"tr_text": "Invade Fencew-NT",
 		"jp_explain": "【深遠なる闇】より生まれし負の\n双小剣。装者は武の極致に魅せられ\n滅びだけを望む暴威の化身へと変わる。",
 		"tr_explain": ""
 	}

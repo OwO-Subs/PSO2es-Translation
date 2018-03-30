@@ -2,168 +2,168 @@
 	{
 		"assign": "3700",
 		"jp_text": "テレパイプ",
-		"tr_text": "Telepipe",
+		"tr_text": "TUmUpipe",
 		"jp_explain": "簡易携帯型の転送装置。\n設置することでキャンプシップまでの\n簡易的な転移ポートが生成される。",
-		"tr_explain": "A simple portable transfer device.\nBy using it, transportation to the\nCampship is possible."
+		"tr_explain": "A simpwe powtabwe twansfew device.\nBy using it, twanspowtation to the\nCampship is possibwe."
 	},
 	{
 		"assign": "3701",
 		"jp_text": "グラインダー",
-		"tr_text": "Grinder",
+		"tr_text": "Gwindew",
 		"jp_explain": "武器や防具の加工強化に用いる素材。\n強化を行うことで、限界以上の性能を\n引き出すことができる。",
-		"tr_explain": "Material used to improve equipment.\nThe performance of equipment\ncan be pushed beyond its limit."
+		"tr_explain": "Matewiaw used to impwuv equipment.\nThe pewfowmance of equipment\ncan be pushed beyond its wimit."
 	},
 	{
 		"assign": "3702",
 		"jp_text": "アッパートラップ",
-		"tr_text": "Upper Trap",
+		"tr_text": "Uppowo Twap",
 		"jp_explain": "レンジャー用の時限型起動トラップ。\n罠にかかったターゲットに対し\nダメージを与えつつ上空へ打ち上げる。",
-		"tr_explain": "Tool for Rangers.\nSets a trap that launches the enemy."
+		"tr_explain": "Toow fow Wangews.\nSets a twap that waunches the enyemy."
 	},
 	{
 		"assign": "3703",
 		"jp_text": "ポイズントラップ",
-		"tr_text": "Poison Trap",
+		"tr_text": "Poison Twap",
 		"jp_explain": "レンジャー用の時限型起動トラップ。\n罠にかかった目標に対しダメージを与え\nポイズンの状態異常を付与する。",
-		"tr_explain": "Tool for Rangers.\nSets a trap that poisons the enemy."
+		"tr_explain": "Toow fow Wangews.\nSets a twap that poisons the enyemy."
 	},
 	{
 		"assign": "3704",
 		"jp_text": "スタングレネード",
-		"tr_text": "Stun Grenade",
+		"tr_text": "Stun Gwenyade",
 		"jp_explain": "レンジャー用の着弾爆発型グレネード。\n爆発と共に閃光を放ち、ダメージと共に\nスタンの状態異常を付与する。",
-		"tr_explain": "Tool for Rangers. Throws a grenade\nthat stuns the enemy."
+		"tr_explain": "Toow fow Wangews. Thwows a gwenyade\nthat stuns the enyemy."
 	},
 	{
 		"assign": "3705",
 		"jp_text": "リサイクルバッヂ",
-		"tr_text": "Recycle Badge",
+		"tr_text": "Wecycwe Badge",
 		"jp_explain": "リサイクルショップにてＡＣスクラッチ\nアイテムと同等のものとして交換に\n使用できるバッヂ。",
-		"tr_explain": "Recycled AC Scratch items recycled\ninto a badge. Can be used in place\nof AC items for recycling."
+		"tr_explain": "Wecycwed AC Scwatch items wecycwed\nyinto a badge. Can be used in pwace\nyof AC items fow wecycwing."
 	},
 	{
 		"assign": "3706",
 		"jp_text": "ＳＧリサイクルバッヂ",
-		"tr_text": "Star Gem Recycling Badge",
+		"tr_text": "Staw Gem Wecycwing Badge",
 		"jp_explain": "ＳＧリサイクルショップにてＳＧスクラッチ\nアイテムと同等のものとして交換に\n使用できるバッヂ。",
-		"tr_explain": "Recycled SG Scratch items recycled\ninto a badge. Can be used in place\nof SG items for recycling."
+		"tr_explain": "Wecycwed SG Scwatch items wecycwed\nyinto a badge. Can be used in pwace\nyof SG items fow wecycwing."
 	},
 	{
 		"assign": "3707",
 		"jp_text": "フォトンドロップ",
-		"tr_text": "Photon Drop",
+		"tr_text": "Photon Dwop",
 		"jp_explain": "フォトンの結晶。\n固形化したフォトンは稀少であり\n物々交換の対象となる素材。",
-		"tr_explain": "Photonic Crystal.\nSolidified photons are scarce.\nMaterial subject to barter."
+		"tr_explain": "Photonyic Cwystaw.\nSowidified photons awe scawce.\nMatewiaw subject to bawtew."
 	},
 	{
 		"assign": "3708",
 		"jp_text": "フォトンクリスタル",
-		"tr_text": "Photon Crystal",
+		"tr_text": "Photon Cwystaw",
 		"jp_explain": "形の整ったフォトンの結晶。\n固形化したフォトンは稀少であり\n物々交換の対象となる素材。",
-		"tr_explain": "Well-formed Photon Crystals.\nSolidified photons are scarce.\nMaterial subject to barter."
+		"tr_explain": "Weww-fowmed Photon Cwystaws.\nSowidified photons awe scawce.\nMatewiaw subject to bawtew."
 	},
 	{
 		"assign": "3709",
 		"jp_text": "フォトンスフィア",
-		"tr_text": "Photon Sphere",
+		"tr_text": "Photon Sphewe",
 		"jp_explain": "美しく大きなフォトンの結晶。\n固形化したフォトンは稀少であり\n物々交換の対象となる素材。",
-		"tr_explain": "A beautiful Photon Crystal.\nSolidified photons are scarce.\nMaterial subject to barter."
+		"tr_explain": "A beautifuw Photon Cwystaw.\nSowidified photons awe scawce.\nMatewiaw subject to bawtew."
 	},
 	{
 		"assign": "37010",
 		"jp_text": "シンセサイザー",
-		"tr_text": "Synthesizer",
+		"tr_text": "Synthesizew",
 		"jp_explain": "属性の強化合成に必要な触媒素材。\n武器を合成し属性の強化をする際\n合成触媒として必要となる。",
-		"tr_explain": "A catalyst material used for\nweapon attribute enhancement\nduring grinding."
+		"tr_explain": "A catawyst matewiaw used fow\nweapon attwibute enhancement\nduwing gwinding."
 	},
 	{
 		"assign": "37011",
 		"jp_text": "スケープドール",
-		"tr_text": "Scapedoll",
+		"tr_text": "Scapedoww",
 		"jp_explain": "自律起動の自己復活用アイテム。\n所持者が戦闘不能になった際に\n一度だけ身代わりになってくれる。",
-		"tr_explain": "Recovery medicine for ARKS.\nRevives the user to maximum Health."
+		"tr_explain": "Wecuvwy medicinye fow AWKS.\nWevives the usew to maximum Heawth."
 	},
 	{
 		"assign": "37012",
 		"jp_text": "アークスバッヂ青",
-		"tr_text": "Blue ARKS Badge",
+		"tr_text": "Bwue AWKS Badge",
 		"jp_explain": "特別な条件を満たした者だけが\n手にすることができるアークスの\nロゴが彫り込まれた青色のバッヂ。",
-		"tr_explain": "Used as currency at the Badge Shop."
+		"tr_explain": "Used as cuwwency at the Badge Shop."
 	},
 	{
 		"assign": "37013",
 		"jp_text": "アークスバッヂ橙",
-		"tr_text": "Orange ARKS Badge",
+		"tr_text": "Owange AWKS Badge",
 		"jp_explain": "アークスのロゴが彫り込まれた\n橙色のバッヂ。",
-		"tr_explain": "An orange badge engraved\nwith the ARKS logo."
+		"tr_explain": "An owange badge engwaved\nwith the AWKS wogo."
 	},
 	{
 		"assign": "37014",
 		"jp_text": "アークスバッヂ黄",
-		"tr_text": "Yellow ARKS Badge",
+		"tr_text": "Yewwow AWKS Badge",
 		"jp_explain": "特別な条件を満たした者だけが\n手にすることができるアークスの\nロゴが彫り込まれた黄色のバッヂ。",
-		"tr_explain": "Used as currency at the Badge Shop."
+		"tr_explain": "Used as cuwwency at the Badge Shop."
 	},
 	{
 		"assign": "37015",
 		"jp_text": "エクスキューブ",
 		"tr_text": "Excube",
 		"jp_explain": "さらなる力を求める者に与えられる\n特殊な結晶体。\n物々交換の対象となる素材。",
-		"tr_explain": "A special crystal given to those\nwho seek strength.\nMaterial subject to barter."
+		"tr_explain": "A speciaw cwystaw given to those\nwho seek stwength.\nMatewiaw subject to bawtew."
 	},
 	{
 		"assign": "37016",
 		"jp_text": "ハーフドール",
-		"tr_text": "Halfdoll",
+		"tr_text": "Hawfdoww",
 		"jp_explain": "自律起動の自己復活用アイテム。\n所持者が戦闘不能になった際に\n一度だけ身代わりになってくれる。",
-		"tr_explain": "A self-revival item. When you\nbecome incapacitated, you can use\nthis substitute instead of yourself."
+		"tr_explain": "A sewf-wevivaw item. When you\nbecome incapacitated, you can use\nthis substitute instead of youwsewf."
 	},
 	{
 		"assign": "37017",
 		"jp_text": "アークスバッヂ緑",
-		"tr_text": "Green ARKS Badge",
+		"tr_text": "Gween AWKS Badge",
 		"jp_explain": "特別な条件を満たした者だけが\n手にすることができるアークスの\nロゴが彫り込まれた緑色のバッヂ。",
-		"tr_explain": "Used as currency at the Badge Shop."
+		"tr_explain": "Used as cuwwency at the Badge Shop."
 	},
 	{
 		"assign": "37018",
 		"jp_text": "アークスバッヂ白",
-		"tr_text": "ARKS Badge White",
+		"tr_text": "AWKS Badge White",
 		"jp_explain": "特別な条件を満たした者だけが\n手にすることができるアークスの\nロゴが彫り込まれた白色のバッヂ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37021",
 		"jp_text": "アークスバッヂ桃",
-		"tr_text": "Peach ARKS Badge",
+		"tr_text": "Peach AWKS Badge",
 		"jp_explain": "特別な条件を満たした者だけが\n手にすることができるアークスの\nロゴが彫り込まれた桃色のバッヂ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37023",
 		"jp_text": "ラムダグラインダー",
-		"tr_text": "Lambda Grinder",
+		"tr_text": "Wambda Gwindew",
 		"jp_explain": "武器や防具の加工強化に用いる素材。\n強化を行うことで、限界以上の性能を\n引き出すことができる。",
-		"tr_explain": "Material used to improve equipment.\nThe performance of equipment\ncan be pushed beyond its limit."
+		"tr_explain": "Matewiaw used to impwuv equipment.\nThe pewfowmance of equipment\ncan be pushed beyond its wimit."
 	},
 	{
 		"assign": "37024",
 		"jp_text": "職人の印",
-		"tr_text": "Craftsman's Seal",
+		"tr_text": "Cwaftsman's Seaw",
 		"jp_explain": "刀匠ジグが認めた証。\n貴重な資材と交換ができる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37025",
 		"jp_text": "名工の標",
-		"tr_text": "Master Craftsman's Seal",
+		"tr_text": "Mastew Cwaftsman's Seaw",
 		"jp_explain": "刀匠ジグが認めた証。\n更に貴重な資材と交換ができる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37026",
 		"jp_text": "刀匠の証",
-		"tr_text": "Swordsmith's Emblem",
+		"tr_text": "Swowdsmith's Embwem",
 		"jp_explain": "刀匠ジグが認めた証。\nジグへの製作依頼をすることができる。",
 		"tr_explain": ""
 	},
@@ -172,140 +172,140 @@
 		"jp_text": "Ｈｕエクスキューブ",
 		"tr_text": "Hu Excubes",
 		"jp_explain": "ハンターを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nHunters. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nHuntews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37028",
 		"jp_text": "Ｒａエクスキューブ",
-		"tr_text": "Ra Excube",
+		"tr_text": "Wa Excube",
 		"jp_explain": "レンジャーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nRangers. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nWangews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37029",
 		"jp_text": "Ｆｏエクスキューブ",
 		"tr_text": "Fo Excube",
 		"jp_explain": "フォースを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nForces. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nFowces. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37030",
 		"jp_text": "Ｆｉエクスキューブ",
 		"tr_text": "Fi Excube",
 		"jp_explain": "ファイターを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nFighters. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nFightews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37031",
 		"jp_text": "Ｇｕエクスキューブ",
 		"tr_text": "Gu Excube",
 		"jp_explain": "ガンナーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nGunners. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nGunnyews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37032",
 		"jp_text": "Ｔｅエクスキューブ",
 		"tr_text": "Te Excube",
 		"jp_explain": "テクターを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nTechers. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nTechews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37033",
 		"jp_text": "Ｂｒエクスキューブ",
-		"tr_text": "Br Excube",
+		"tr_text": "Bw Excube",
 		"jp_explain": "ブレイバーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nBravers. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nBwavews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37034",
 		"jp_text": "Ｂｏエクスキューブ",
 		"tr_text": "Bo Excube",
 		"jp_explain": "バウンサーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nBouncers. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nBouncews. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37036",
 		"jp_text": "Ｓｕエクスキューブ",
 		"tr_text": "Su Excube",
 		"jp_explain": "サモナーを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to extreme\nSummoners. By trading this item,\nmore power can be obtained."
+		"tr_explain": "A speciaw cwystaw given to extweme\nSummonyews. By twading this item,\nmowe powew can be obtainyed."
 	},
 	{
 		"assign": "37037",
 		"jp_text": "Ｈｒエクスキューブ",
-		"tr_text": "Hr Excube",
+		"tr_text": "Hw Excube",
 		"jp_explain": "ヒーローを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": "A special crystal given to valiant\nHeroes. By trading this item, more\npower can be obtained."
+		"tr_explain": "A speciaw cwystaw given to vawiant\nHewoes. By twading this item, mowe\npowew can be obtainyed."
 	},
 	{
 		"assign": "37043",
 		"jp_text": "チャレンジドール",
-		"tr_text": "Challenge Doll",
+		"tr_text": "Chawwenge Doww",
 		"jp_explain": "自律起動の自己復活用アイテム。\n所持者が戦闘不能になった際に\n一度だけ身代わりになってくれる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37044",
 		"jp_text": "ウェポンズバッヂ２０１５金",
-		"tr_text": "Gold Weapon Badge 2015",
+		"tr_text": "Gowd Weapon Badge 2015",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印された金バッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "With a distinctive emblem on it,\nit seems connected to the year 2015.\nIt has been engraved in gold and\nmay be used to trade for items."
+		"tr_explain": "With a distinctive embwem on it,\nyit seems connyected to the yeaw 2015.\nIt has been engwaved in gowd and\nmay be used to twade fow items."
 	},
 	{
 		"assign": "37045",
 		"jp_text": "ウェポンズバッヂ２０１５銀",
-		"tr_text": "Silver Weapon Badge 2015",
+		"tr_text": "Siwvew Weapon Badge 2015",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印された銀バッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "With a distinctive emblem on it,\nit seems connected to the year 2015.\nIt has been engraved in silver and\nmay be used to trade for items."
+		"tr_explain": "With a distinctive embwem on it,\nyit seems connyected to the yeaw 2015.\nIt has been engwaved in siwvew and\nmay be used to twade fow items."
 	},
 	{
 		"assign": "37046",
 		"jp_text": "ウェポンズバッヂ２０１５銅",
-		"tr_text": "Bronze Weapon Badge 2015",
+		"tr_text": "Bwonze Weapon Badge 2015",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印された銅バッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "With a distinctive emblem on it,\nit seems connected to the year 2015.\nIt has been engraved in bronze and\nmay be used to trade for items."
+		"tr_explain": "With a distinctive embwem on it,\nyit seems connyected to the yeaw 2015.\nIt has been engwaved in bwonze and\nmay be used to twade fow items."
 	},
 	{
 		"assign": "37047",
 		"jp_text": "ラグオルメモリ",
-		"tr_text": "Ragol Memory",
+		"tr_text": "Wagowo Memowy",
 		"jp_explain": "表面に特徴的な魔法陣が刻印されている\n何らかの記録媒体。内部データが復元\nできれば有用なものとなる。",
-		"tr_explain": "An odd symbol engraved on its\nsurface. An ancient recording device.\nRestoring internal data is possible."
+		"tr_explain": "An odd symbow engwaved on its\nsuwface. An ancient wecowding device.\nWestowing intewnyaw data is possibwe."
 	},
 	{
 		"assign": "37048",
 		"jp_text": "フォトンブースター",
-		"tr_text": "Photon Booster",
+		"tr_text": "Photon Boostowo",
 		"jp_explain": "励起状態のフォトン結晶。\n周囲のフォトンに働きかけ\n対象の励起反応を促進させる素材。",
-		"tr_explain": "Photon Crystals in an excited state.\nSurrounding Photon activity in\ncertain weapons cause a reaction."
+		"tr_explain": "Photon Cwystaws in an excited state.\nSuwwounding Photon activity in\ncewtain weapons cause a weaction."
 	},
 	{
 		"assign": "37049",
 		"jp_text": "創者の証",
-		"tr_text": "Creator's Emblem",
+		"tr_text": "Cweatowo's Embwem",
 		"jp_explain": "創世器を抱くに相応しき者に与えられる\n名誉の証。ジグに創世器武器迷彩の\n製作を依頼できるようになる。",
-		"tr_explain": "Proof of honor given to a person that\nis suitable for Genesis Weapon\nreproduction from Zieg."
+		"tr_explain": "Pwoof of honyow given to a pewson that\nyis suitabwe fow Genyesis Weapon\nwepwoduction fwom Zieg."
 	},
 	{
 		"assign": "37050",
 		"jp_text": "ウェポンズバッヂ２０１６金",
-		"tr_text": "Weapon Badge 2016 Gold",
+		"tr_text": "Weapon Badge 2016 Gowd",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印された金バッヂ。提示することで\n様々なアイテムと交換可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37051",
 		"jp_text": "ウェポンズバッヂ２０１６銀",
-		"tr_text": "Weapon Badge 2016 Silver",
+		"tr_text": "Weapon Badge 2016 Siwvew",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印された銀バッヂ。提示することで\n様々なアイテムと交換可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37052",
 		"jp_text": "ウェポノイドブースター",
-		"tr_text": "Weaponoid Booster",
+		"tr_text": "Weaponyoid Boostew",
 		"jp_explain": "励起状態のフォトン結晶。\n特定武器のフォトンに働きかけ\nフォトン励起を促進させる素材。",
-		"tr_explain": "Photon Crystals in an excited state.\nWorks by promoting photon activity\nin certain weapons."
+		"tr_explain": "Photon Cwystaws in an excited state.\nWowks by pwomoting photon activity\nyin cewtain weapons."
 	},
 	{
 		"assign": "37053",
@@ -319,82 +319,82 @@
 		"jp_text": "ウェポンズバッヂ２０１７",
 		"tr_text": "Weapon Badge 2017",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印されたバッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "An emblem with an engraved design.\nA mysterious year is printed on the\nback. Can be traded for prizes."
+		"tr_explain": "An embwem with an engwaved design.\nA mystewious yeaw is pwinted on the\nback. Can be twaded fow pwizes."
 	},
 	{
 		"assign": "37055",
 		"jp_text": "アリーナブースター",
-		"tr_text": "Arena Booster",
+		"tr_text": "Awenya Boostew",
 		"jp_explain": "励起状態のフォトン結晶。\n対象のフォトンに働きかけ\n特殊な能力発現を促進させる素材。",
-		"tr_explain": "Photon Crystals in an excited state.\nA material that improves activity,\nthus enhancing a weapon's potential."
+		"tr_explain": "Photon Cwystaws in an excited state.\nA matewiaw that impwuvs activity,\nthus enhancing a weapon's potentiaw."
 	},
 	{
 		"assign": "37056",
 		"jp_text": "幻創の証",
-		"tr_text": "Phantom Emblem",
+		"tr_text": "Phantom Embwem",
 		"jp_explain": "具現武装を持つに足る意志強き者が持つ\n神秘の証。ジグに具現武装系武器迷彩の\n製作を依頼できるようになる。",
-		"tr_explain": "An emblem of mystery that shows\nproof of skill to wield a replica the\nembodied weapons from Zieg."
+		"tr_explain": "An embwem of mystewy that shows\npwoof of skiww to wiewd a wepwica the\nyembodied weapons fwom Zieg."
 	},
 	{
 		"assign": "37057",
 		"jp_text": "５周年記念バッヂ",
-		"tr_text": "5th Anniversary Badge",
+		"tr_text": "5th Annyivewsawy Badge",
 		"jp_explain": "５周年記念に作られた、特徴的な紋章が\n刻印されたバッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "An emblem created for the 5th\nAnniv. Engravings cover its surface.\nCan be traded for prizes."
+		"tr_explain": "An embwem cweated fow the 5th\nAnnyiv. Engwavings cuvw its suwface.\nCan be twaded fow pwizes."
 	},
 	{
 		"assign": "37058",
 		"jp_text": "EPISODE0メモリ",
-		"tr_text": "EPISODE 0 Memory",
+		"tr_text": "EPISODE 0 Memowy",
 		"jp_explain": "表面に六芒の五のマークが刻印された\n何らかの記録媒体。内部データが\n復元できれば有用なものなのだが……",
-		"tr_explain": "A hexagonal design is engraved on\nits surface. The internal data could\nbe useful, if restored..."
+		"tr_explain": "A hexagonyaw design is engwaved on\nyits suwface. The intewnyaw data couwd\nbe usefuw, if westowed..."
 	},
 	{
 		"assign": "37059",
 		"jp_text": "バスターメダルＡ",
-		"tr_text": "Buster Medal A",
+		"tr_text": "Bustew Medaw A",
 		"jp_explain": "バスタークエストで協力した証。\n提示することによって\n様々なアイテムと交換可能。",
-		"tr_explain": "Proof that one participated in a\nBuster Quest. You can trade it\nin for various prizes."
+		"tr_explain": "Pwoof that onye pawticipated in a\nBustew Quest. You can twade it\nyin fow vawious pwizes."
 	},
 	{
 		"assign": "37060",
 		"jp_text": "バスターメダルＢ",
-		"tr_text": "Buster Medal B",
+		"tr_text": "Bustew Medaw B",
 		"jp_explain": "バスタークエストで協力した証。\n提示することによって\n様々なアイテムと交換可能。",
-		"tr_explain": "Proof that one participated in a\nBuster Quest. You can trade it\nin for various prizes."
+		"tr_explain": "Pwoof that onye pawticipated in a\nBustew Quest. You can twade it\nyin fow vawious pwizes."
 	},
 	{
 		"assign": "37063",
 		"jp_text": "うえぽのメモリ",
-		"tr_text": "Weapono Memory",
+		"tr_text": "Weaponyo Memowy",
 		"jp_explain": "表面に特徴的な絵が描かれている\n何らかの記憶媒体。内部データから\n楽しいものが作れそう。",
-		"tr_explain": "Some kind of storage medium in\nwhich pictures are drawn on the\nsurface. Can be traded for prizes."
+		"tr_explain": "Some kind of stowage medium in\nwhich pictuwes awe dwawn on the\nsuwface. Can be twaded fow pwizes."
 	},
 	{
 		"assign": "37064",
 		"jp_text": "電撃バッヂ",
 		"tr_text": "Dengeki Badge",
 		"jp_explain": "電撃！ポリタンランド！に\n入園した証。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "Dengeki! Polytanland! Admission\nTicket. Can be traded for prizes."
+		"tr_explain": "Dengeki^w^Powytanwand^w^ Admission\nTicket. Can be twaded fow pwizes."
 	},
 	{
 		"assign": "37066",
 		"jp_text": "ウェポンズバッヂ２０１８",
-		"tr_text": "Weapons Badge 2018",
+		"tr_text": "Weapyans Badge 2018",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印されたバッヂ。提示することで\n様々なアイテムと交換可能。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37067",
 		"jp_text": "ＴＣＧメモリ",
-		"tr_text": "TCG Memory",
+		"tr_text": "TCG Memowy",
 		"jp_explain": "表面に特徴的な絵が描かれている\n何らかの記録媒体。内部データの\n復元ができれば有用なものとなる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "37069",
 		"jp_text": "覇者の紋章",
-		"tr_text": "Conqueror's Crest",
+		"tr_text": "ConqueUwU's Cwest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
 		"tr_explain": ""
 	}
